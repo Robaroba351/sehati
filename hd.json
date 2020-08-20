@@ -1,0 +1,207 @@
+[
+  {
+    "stateName": "Alger",
+    "doctors": 
+    [
+      {
+        "name":"Ahmed Hatem",
+        "phone":"067687886",
+        "address":"",
+        "specialty":"Mgénéral"
+      }
+    ]
+  },
+  {
+    "stateName": "Annaba",
+    "doctors": []
+  },
+  {
+    "stateName": "Batna",
+    "doctors": []
+  },
+  {
+    "stateName": "Bayadh",
+    "doctors": []
+  },
+  {
+    "stateName": "Biskra",
+    "doctors": []
+  },
+  {
+    "stateName": "Blida",
+    "doctors": []
+  },
+  {
+    "stateName": "BordjBouArreridj",
+    "doctors": []
+  },
+  {
+    "stateName": "Bouira",
+    "doctors": []
+  },
+  {
+    "stateName": "Boumerdès",
+    "doctors": []
+  },
+  {
+    "stateName": "Béchar",
+    "doctors": []
+  },
+  {
+    "stateName": "Béjaia",
+    "doctors": []
+  },
+  {
+    "stateName": "Chlef",
+    "doctors": []
+  },
+  {
+    "stateName": "Constantine",
+    "doctors": []
+  },
+  {
+    "stateName": "Defla",
+    "doctors": []
+  },
+  {
+    "stateName": "Djelfa",
+    "doctors": []
+  },
+  {
+    "stateName": "ElOued",
+    "doctors": []
+  },
+  {
+    "stateName": "Ghardaia",
+    "doctors": []
+  },
+  {
+    "stateName": "Gulma",
+    "doctors": []
+  },
+  {
+    "stateName": "Illizi",
+    "doctors": []
+  },
+  {
+    "stateName": "Jijel",
+    "doctors": []
+  },
+  {
+    "stateName": "Khenchela",
+    "doctors": []
+  },
+  {
+    "stateName": "Laghouat",
+    "doctors": []
+  },
+  {
+    "stateName": "MSila",
+    "doctors": []
+  },
+  {
+    "stateName": "Mascara",
+    "doctors": []
+  },
+  {
+    "stateName": "Mila",
+    "doctors": []
+  },
+  {
+    "stateName": "Mostaganem",
+    "doctors": []
+  },
+  {
+    "stateName": "Médéa",
+    "doctors": []
+  },
+  {
+    "stateName": "Naama",
+    "doctors": []
+  },
+  {
+    "stateName": "Oran",
+    "doctors": []
+  },
+  {
+    "stateName": "OumElBouaghi",
+    "doctors": []
+  },
+  {
+    "stateName": "Ouragla",
+    "doctors": []
+  },
+  {
+    "stateName": "Relizane",
+    "doctors": []
+  },
+  {
+    "stateName": "Saida",
+    "doctors": []
+  },
+  {
+    "stateName": "SidiBelAbbès",
+    "doctors": []
+  },
+  {
+    "stateName": "Skikda",
+    "doctors": []
+  },
+  {
+    "stateName": "SoukAhras",
+    "doctors": []
+  },
+  {
+    "stateName": "Sétif",
+    "doctors": []
+  },
+  {
+    "stateName": "Tamanrasset",
+    "doctors": []
+  },
+  {
+    "stateName": "Tarf",
+    "doctors": []
+  },
+  {
+    "stateName": "Tiaret",
+    "doctors": []
+  },
+  {
+    "stateName": "Tindouf",
+    "doctors": []
+  },
+  {
+    "stateName": "Tipaza",
+    "doctors": []
+  },
+  {
+    "stateName": "Tissemsilt",
+    "doctors": []
+  },
+  {
+    "stateName": "TiziOuzou",
+    "doctors": []
+  },
+  {
+    "stateName": "Tlemcen",
+    "doctors": []
+  },
+  {
+    "stateName": "Tébessa",
+    "doctors": []
+  },
+  {
+    "stateName": "Témouchent",
+    "doctors": []
+  },
+  {
+    "stateName":"Tips",
+    "tipsArray" : [
+      "This is Tip Hi There   1 ",
+      "This is Tip Hi There  2 ",
+      "This is Tip Hi There  3 "
+    ]
+    
+  }
+]
