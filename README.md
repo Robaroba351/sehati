@@ -1,0 +1,2 @@
+# sehati
+Après l'émergence des technologies mobiles beaucoup d'applications ont été développées dans  divers  domaines, mais Dans le domaine de la santé, le patient a des difficultés pour trouve un médecin ou un spécialiste pour faire une visite médicale ou le suivi de son état de santé d’où l'idée de créer  une application  Sehati pour aider chaque individu à trouver un médecin en cas de besoin ensuit il  peut alors donner son avis, en plus a travers cette application on donnent des information médicales a l’aide de Smartphone
