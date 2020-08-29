@@ -585,48 +585,184 @@
         "phone":"0552391466",
         "address":"حي بن إسماعيل محمد العمارة شراقة الجزائر",
         "specialty":"Minterne"
-      },
-       {
-        "name":"فايزة تاج",
-        "phone":"0773358318",
-        "address":"منطقة عبيط",
-        "specialty":"Pychitatrie"
-      },
-       {
-        "name":"مريم مخزومي",
-        "phone":"0699339219",
-        "address":"حي النور قرب مقر الولاية",
-        "specialty":"Pychitatrie"
-      },
-       {
-        "name":"جمانة عبيد",
-        "phone":"0662656425",
-        "address":"رويبة الجزائر",
-        "specialty":"Pychitatrie"
-      },
-       {
-        "name":"ريحانة حكيمي",
-        "phone":"0551566434",
-        "address":"حي المزوني لعربي",
-        "specialty":"Pychitatrie"
-      },
-       {
-        "name":"كريم عطرون",
-        "phone":"0772576496",
-        "address":"bd Mohamed Naili",
-        "specialty":"Pychitatrie"
-      },
-       {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Pychitatrie"
-      }  
+      }
+      
     ]
   },
    {
     "stateName": "Adrar",
-    "doctors": []
+    "doctors": [
+      {
+        "name":"محمد بوعافية",
+        "phone":"0776314142",
+        "address":"حي شريخي مخلوف المهير",
+        "specialty":"Mgénéral"
+      },
+        {
+        "name":"حميدي سمية",
+        "phone":"0697182416",
+        "address":"حي بوناب بوزيان",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"عمران عمار",
+        "phone":"0668570615",
+        "address":"حي واد الناقص",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"أوسيدهم",
+        "phone":"0668259516",
+        "address":"Cité Aek-reggan",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"حاج صدوق",
+        "phone":"0659031066",
+        "address":"الحي الاداري القديم",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"عمراني فاطمةالزهراء",
+        "phone":"0655816646",
+        "address":"فيلا رقم 191 ،حي الأمل،عين فكرون",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"مراح  ن",
+        "phone":"0557265464",
+        "address":"شارع بن دحو عماره. مولاي سليسن",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"فاني عبد القادر",
+        "phone":"0664089195",
+        "address":"حي الحطابة سوق بودة الطابق 1",
+        "specialty":"Dentiste"
+      },
+      {
+        "name":"الطيب عبد الرحمن",
+        "phone":"0664012360",
+        "address":"شارع بلقايد محمد رقم 6 ولاية أدرار",
+        "specialty":"Dentiste"
+      },
+     {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Orl"
+      },
+        {
+        "name":"محمد مهداوي",
+        "phone":"0661275461",
+        "address":"مركز التسوق الجديد رقم 4",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"بن خدجة ن",
+        "phone":"0664866930",
+        "address":"أدرار",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"ايت محند السعيد مصطفى",
+        "phone":"033805355",
+        "address":"06 شارع السعيد صحراوي",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"رمضان برماتي",
+        "phone":"0663839282",
+        "address":"في نوفمبر كتلة المدينة 1ST ن 31",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"إسماعين فايزة",
+        "phone":"0662437469",
+        "address":"حي 05 جويلية فراج شاوش",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"ايمان واكدة",
+        "phone":"0662049529",
+        "address":"طلمين",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"عيسى شتيك",
+        "phone":"0557802200",
+        "address":"حي الوئام بجوار المؤسسة الاستشفائية",
+        "specialty":"Cardiologie"
+      },
+     {
+        "name":"عدة اسماعيل",
+        "phone":"",
+        "address":"القرية الفلاحية وداى الجمعة",
+        "specialty":"Neurologie"
+      },
+      {
+        "name":"سيف الدين زيادة",
+        "phone":"0672479445",
+        "address":"حي عدل عين المالحة",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"كباب محمد",
+        "phone":"0542313856",
+        "address":"قرب مسجد الشيخ سيدي محمد بلكبير",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"سي علي علي",
+        "phone":"0661897972",
+        "address":"تبرغامين اوقروت ادرار",
+        "specialty":"Digestif"
+      },
+       {
+        "name":"لوجاني محمد الهادي",
+        "phone":"0696742282",
+        "address":"شارع العربي بن مهيدي",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"لوجاني محمد الهادي",
+        "phone":"0696742282",
+        "address":"شارع العربي بن مهيدي",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"إبتسام النجيب",
+        "phone":"0636631171",
+        "address":"مدينة تيفلت حي الرشاد",
+        "specialty":"ChirurgieG"
+      },
+      {
+        "name":"الرحماني عبد الحفيظ",
+        "phone":"0671615474",
+        "address":"تيميمون",
+        "specialty":"ChirurgieG"
+      },
+      {
+        "name":"امال ناجمي",
+        "phone":"0667530233",
+        "address":"ولاية ادرار",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"بعزيز عبدالعلي",
+        "phone":"0664796253",
+        "address":"ادغا",
+        "specialty":"Minterne"
+      }
+      
+    
+    ]
   },
   {
     "stateName": "Annaba",
@@ -810,7 +946,104 @@
   },
   {
     "stateName": "Témouchent",
-    "doctors": []
+    "doctors": [
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Dentiste"
+      },
+     {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Orl"
+      },
+        {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Cardiologie"
+      },
+     {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Neurologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Minterne"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Pychitatrie"
+      }
+    ]
   },
   {
     "stateName":"Tips",
