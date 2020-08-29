@@ -13,25 +13,25 @@
         "name":"عدلي خالد",
         "phone":"0558538591",
         "address":"3شارع مختار شبوط المقريه",
-        "specialty":"M.général"
+        "specialty":"Mgénéral"
       },
       {
         "name":"حماني فاطمة الزهراء",
         "phone":"0699093501",
         "address":"حي الاوراس الرغاية",
-        "specialty":"M.général"
+        "specialty":"Mgénéral"
       },
       {
         "name":"زروانة امال",
         "phone":"0790145918 ",
         "address":"حي 2004 مسكن براقي ",
-        "specialty":"M.général"
+        "specialty":"Mgénéral"
       },
       {
         "name":"عبدات مروان",
         "phone":" 0561374838",
         "address":"باب الواد",
-        "specialty":"M.général"
+        "specialty":"Mgénéral"
       },
       {
         "name":"بوعلام شبين",
@@ -43,103 +43,103 @@
         "name":"مصطفى بن تعواتي",
         "phone":"0772519911",
         "address":"زمورا",
-        "specialty":"M.général"
+        "specialty":"Mgénéral"
       },
       {
         "name":"كمداجي سامية",
         "phone":"0552667783",
         "address":" حي محمد بوضياف اولاد هداج بومرداس ",
-        "specialty":"M.général"
+        "specialty":"Mgénéral"
       },
       {
         "name":"فتيحة حشاني",
         "phone":"0699599226",
         "address":"شارع يوغرطا الجزائر",
-        "specialty":"M.général"
+        "specialty":"Mgénéral"
       },
       {
         "name":"حسينة بلعروسي",
         "phone":"0662595644",
         "address":"الجزائر",
-        "specialty":"M.général"
+        "specialty":"Mgénéral"
       },
         {
         "name":"نبيل حمدود",
         "phone":"0558569207",
         "address":"شراقة الجزائر",
-        "specialty":"M.général"
+        "specialty":"Mgénéral"
       },
         {
         "name":"بوجاجة سلوى",
         "phone":"0794411020",
         "address":" حي موقراني رقم 16 الحراش الجزائر",
-        "specialty":"M.général"
+        "specialty":"Mgénéral"
       },
         {
         "name":"بن عبيدي عبد الباري",
         "phone":"0794030146",
         "address":"11 شارع الرايس حميدو . الجزائر",
-        "specialty":"M.général"
+        "specialty":"Mgénéral"
       },
        {
         "name":"وليد كربوب",
         "phone":"0783005795",
         "address":"4 شارع خالد دكار",
-        "specialty":"M.général"
+        "specialty":"Mgénéral"
       },
        {
         "name":"واعلي ايت كاكي دليلة",
         "phone":"0674286750",
         "address":"العاصمة وسط",
-        "specialty":"M.général"
+        "specialty":"Mgénéral"
       },
        {
         "name":"طلحي الطاهر",
         "phone":"0672167881",
         "address":"لجزائر شاطيء الجزائر العاصمة",
-        "specialty":"M.général"
+        "specialty":"Mgénéral"
       },
        {
         "name":"سعداوي نسيم",
         "phone":"0663079090",
         "address":"براقي",
-        "specialty":"M.général"
+        "specialty":"Mgénéral"
       },
        {
         "name":"دايخ باديس",
         "phone":"0655816646",
         "address":"فيلا 191،حي الأمل،عين فكرون",
-        "specialty":"M.général"
+        "specialty":"Mgénéral"
       },
        {
         "name":"حجاب اسماء",
         "phone":"0560691849",
         "address":"براقي",
-        "specialty":"M.général"
+        "specialty":"Mgénéral"
       },
         {
         "name":"امال ارتوزوني",
         "phone":"0558694844",
         "address":"الناضور",
-        "specialty":"M.général"
+        "specialty":"Mgénéral"
       },
         {
         "name":"خليل دراجي",
         "phone":"0556662729",
         "address":"الرايس حميدو",
-        "specialty":"M.général"
+        "specialty":"Mgénéral"
       },
         {
         "name":"زيان سمية",
         "phone":"0550249038",
         "address":"بليدة",
-        "specialty":"M.général"
+        "specialty":"Mgénéral"
       },
         {
         "name":"سهى عبيد",
         "phone":"0541496899",
         "address":"حي 2 عمارة ك رقم الباب 67 المقرية",
-        "specialty":"M.général"
+        "specialty":"Mgénéral"
       },
         {
         "name":"لمياء الصلاح",
@@ -362,7 +362,7 @@
         "phone":"",
         "address":"",
         "specialty":"Gynécologie"
-      },
+      }
     
       
       
