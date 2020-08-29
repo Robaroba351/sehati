@@ -8,7 +8,367 @@
         "phone":"067687886",
         "address":"",
         "specialty":"Mgénéral"
-      }
+      },
+      {
+        "name":"عدلي خالد",
+        "phone":"0558538591",
+        "address":"3شارع مختار شبوط المقريه",
+        "specialty":"M.général"
+      },
+      {
+        "name":"حماني فاطمة الزهراء",
+        "phone":"0699093501",
+        "address":"حي الاوراس الرغاية",
+        "specialty":"M.général"
+      },
+      {
+        "name":"زروانة امال",
+        "phone":"0790145918 ",
+        "address":"حي 2004 مسكن براقي ",
+        "specialty":"M.général"
+      },
+      {
+        "name":"عبدات مروان",
+        "phone":" 0561374838",
+        "address":"باب الواد",
+        "specialty":"M.général"
+      },
+      {
+        "name":"بوعلام شبين",
+        "phone":"0773825701",
+        "address":"القبة جنادي عزيوز لاكروا القبة",
+        "specialty":"M.général"
+      },
+      {
+        "name":"مصطفى بن تعواتي",
+        "phone":"0772519911",
+        "address":"زمورا",
+        "specialty":"M.général"
+      },
+      {
+        "name":"كمداجي سامية",
+        "phone":"0552667783",
+        "address":" حي محمد بوضياف اولاد هداج بومرداس ",
+        "specialty":"M.général"
+      },
+      {
+        "name":"فتيحة حشاني",
+        "phone":"0699599226",
+        "address":"شارع يوغرطا الجزائر",
+        "specialty":"M.général"
+      },
+      {
+        "name":"حسينة بلعروسي",
+        "phone":"0662595644",
+        "address":"الجزائر",
+        "specialty":"M.général"
+      },
+        {
+        "name":"نبيل حمدود",
+        "phone":"0558569207",
+        "address":"شراقة الجزائر",
+        "specialty":"M.général"
+      },
+        {
+        "name":"بوجاجة سلوى",
+        "phone":"0794411020",
+        "address":" حي موقراني رقم 16 الحراش الجزائر",
+        "specialty":"M.général"
+      },
+        {
+        "name":"بن عبيدي عبد الباري",
+        "phone":"0794030146",
+        "address":"11 شارع الرايس حميدو . الجزائر",
+        "specialty":"M.général"
+      },
+       {
+        "name":"وليد كربوب",
+        "phone":"0783005795",
+        "address":"4 شارع خالد دكار",
+        "specialty":"M.général"
+      },
+       {
+        "name":"واعلي ايت كاكي دليلة",
+        "phone":"0674286750",
+        "address":"العاصمة وسط",
+        "specialty":"M.général"
+      },
+       {
+        "name":"طلحي الطاهر",
+        "phone":"0672167881",
+        "address":"لجزائر شاطيء الجزائر العاصمة",
+        "specialty":"M.général"
+      },
+       {
+        "name":"سعداوي نسيم",
+        "phone":"0663079090",
+        "address":"براقي",
+        "specialty":"M.général"
+      },
+       {
+        "name":"دايخ باديس",
+        "phone":"0655816646",
+        "address":"فيلا 191،حي الأمل،عين فكرون",
+        "specialty":"M.général"
+      },
+       {
+        "name":"حجاب اسماء",
+        "phone":"0560691849",
+        "address":"براقي",
+        "specialty":"M.général"
+      },
+        {
+        "name":"امال ارتوزوني",
+        "phone":"0558694844",
+        "address":"الناضور",
+        "specialty":"M.général"
+      },
+        {
+        "name":"خليل دراجي",
+        "phone":"0556662729",
+        "address":"الرايس حميدو",
+        "specialty":"M.général"
+      },
+        {
+        "name":"زيان سمية",
+        "phone":"0550249038",
+        "address":"بليدة",
+        "specialty":"M.général"
+      },
+        {
+        "name":"سهى عبيد",
+        "phone":"0541496899",
+        "address":"حي 2 عمارة ك رقم الباب 67 المقرية",
+        "specialty":"M.général"
+      },
+        {
+        "name":"لمياء الصلاح",
+        "phone":"0772295412",
+        "address":"16 مكرر شارع فرحات بن سعد",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"منير وازن",
+        "phone":"0554054519",
+        "address":"03 rue belhadj othmane saoula ",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"دكتور هرتي",
+        "phone":"0773252964",
+        "address":"Rue Elchahid Mechmache Ahmed ",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"حاج موسى جيلالي",
+        "phone":"0771756323",
+        "address":" شارع المستقبل واد الرمان العاشور 5 درارية ",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"بركات نجاة",
+        "phone":"0557308385",
+        "address":"حي المقام الجميل رقم 2 بوزريعة الجزائر",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"الحكيم زعبي طيب",
+        "phone":"0699888373",
+        "address":"   02 شارع قدور رحيم حسين داي ",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"محي الدين إيمان",
+        "phone":"0551111981",
+        "address":"47 شارع قعلول برج البحري",
+        "specialty":"Dentiste"
+      },
+         {
+        "name":"حبيرش النذير",
+        "phone":"0550301722",
+        "address":"الحميز",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"وازن منير",
+        "phone":"0542084192",
+        "address":"03 شارع بلحاج عثمان السحاولة",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"الدكتورة شهرزاد",
+        "phone":"0541313000",
+        "address":"بئر خادم الجزائر العاصمة",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"محمد مخناش",
+        "phone":"0663422093",
+        "address":"باب الزوار",
+        "specialty":"Orl"
+      },
+       {
+        "name":"حمو قروشي",
+        "phone":"0550444545",
+        "address":"بن عكنون",
+        "specialty":"Orl"
+      },
+       {
+        "name":"ابتسام قوير عومي",
+        "phone":"0554258885",
+        "address":"الجزائر",
+        "specialty":"Orl"
+      },
+       {
+        "name":"علي زيان علي",
+        "phone":"0771845253",
+        "address":"100 طريق 1 نوفمبر زرالدة الجزائر",
+        "specialty":"Orl"
+      },
+       {
+        "name":"محمد بن مشيري",
+        "phone":"0698309794",
+        "address":"Bt 2 C N35 Hlm ALGER",
+        "specialty":"Orl"
+      },
+       {
+        "name":"مصطفى باشا",
+        "phone":"0621303844",
+        "address":"عين البنيان 57 شارع الكولنيل سيدي محمد",
+        "specialty":"Orl"
+      },
+       {
+        "name":"جديد رمضان",
+        "phone":"0555245391",
+        "address":"104 الأمل التعاوني عين النعجة الجزائر",
+        "specialty":"Orl"
+      },
+        {
+        "name":"حميد اولاد سعدي",
+        "phone":"0772385838",
+        "address":"rue Belkacem Tabount الحراش ",
+        "specialty":"Opthtlmologie"
+      },
+      {
+        "name":"مصطفى ياسين",
+        "phone":"036937079",
+        "address":"25 شارع 1 نوفمبر 1954 سطيف",
+        "specialty":"Opthtlmologie"
+      },
+      {
+        "name":"سمية ناكب",
+        "phone":"0779705899",
+        "address":"الجزائر",
+        "specialty":"Opthtlmologie"
+      },
+      {
+        "name":"بوكور",
+        "phone":"0661658091",
+        "address":"أولاد فايت",
+        "specialty":"Opthtlmologie"
+      },
+       {
+        "name":"حبي عبد الكريم",
+        "phone":"0771143004",
+        "address":" حي عليوة فضيل عمارة شراقة العاصمة ",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"نوي وليد",
+        "phone":"0558024259",
+        "address":"حي الامل سيڨنا الرغاية",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"نكري نجوى",
+        "phone":"0558805560",
+        "address":"حي بن جعيدة",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"حفيضة زيراركا",
+        "phone":"0556993269",
+        "address":"benchicao-médea",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"بوشماخ حسنة",
+        "phone":"0555902561",
+        "address":"Cité 8 mai 45 BEZ",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"طبيب سمير",
+        "phone":"0553340134",
+        "address":"جنان المبروك باش جراح",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"الحكيمة ص.لعرابي",
+        "phone":"0549122271",
+        "address":"رقم 209 حي محمودي بن طلحة براقي",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"صلاح رودان",
+        "phone":"072379129",
+        "address":"حي مافال - مبنى أ - رقم 92",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Gynécologie"
+      },
+    
+      
+      
+      
+      
+      
     ]
   },
   {
