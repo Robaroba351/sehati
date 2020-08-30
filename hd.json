@@ -1067,9 +1067,21 @@
         "specialty":"Neurologie"
       },
       {
-        "name":"",
-        "phone":"",
-        "address":"",
+        "name":"بن رحال رتيبة",
+        "phone":"0663221438",
+        "address":"شارع الاستقلال",
+        "specialty":"Penumologie"
+      },
+      {
+        "name":"عطية نورالدين",
+        "phone":"0667713513",
+        "address":"افلو 03001 شارع العقيد لطفي",
+        "specialty":"Penumologie"
+      },
+      {
+        "name":"احمد خرصي",
+        "phone":"665297562",
+        "address":"مستشفى احمد ابن عجيلة",
         "specialty":"Penumologie"
       },
      {
@@ -1097,9 +1109,9 @@
         "specialty":"ChirurgieG"
       },
     {
-        "name":"",
+        "name":"سلت ثامر",
         "phone":"",
-        "address":"",
+        "address":"مقابل صيدلية بن شرشافة حي الوئام",
         "specialty":"Minterne"
       }
     ]
@@ -1783,16 +1795,319 @@
     "stateName": "Biskra",
     "doctors": []
   },
+   {
+    "stateName": "Béchar",
+    "doctors": [
+    {
+        "name":"مريم شافي",
+        "phone":"0662623892",
+        "address":"عمارة ب رقم 14 حي البدر",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"بلحميدة نورية",
+        "phone":"0675586293",
+        "address":"Haï le djihani 220",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"لعقبي ميلود",
+        "phone":"0671927654",
+        "address":"وسط المدينة - بني ونيف",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"بن قطاف",
+        "phone":"0775510251",
+        "address":"26 Rue Cheikh Bendjoudi",
+        "specialty":"Dentiste"
+      },
+     {
+        "name":"الواد محمد",
+        "phone":"",
+        "address":"41 BOULEVARD COLONEL LOTFI 62 LOGTS CENTRE VILLE",
+        "specialty":"Orl"
+      },
+        {
+        "name":"وعراب لخضر",
+        "phone":"0674566315",
+        "address":"reu sliman belakhdim",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"بربار سمية",
+        "phone":"",
+        "address":"CITE 622 LOGTS BLOC 12 LOCAL N° 32 HEY ELB ",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"زياني سالم",
+        "phone":"",
+        "address":"8 RUE DU MARCHE BECHAR",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"قوراري",
+        "phone":"",
+        "address":"Rue Akid lotfi (benali boudghene)",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"عيادة عماري مصطفى",
+        "phone":"0674000026",
+        "address":"بشار",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"خوجة ز بوقرة",
+        "phone":"0664484166",
+        "address":"5 hai kerma، Bechar",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"سمراء سنوسي",
+        "phone":"0662663561",
+        "address":"حي 80مسكن بشار",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"شقرون لطفي",
+        "phone":"",
+        "address":"RUE DE LA MOSQUE N° 12 A 45 BECHAR",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"حوالف",
+        "phone":"0770976683",
+        "address":"",
+        "specialty":"Cardiologie"
+      },
+     {
+        "name":"الحاج بوزياني",
+        "phone":"",
+        "address":"48 حي 10 مسكن CNEP بشار",
+        "specialty":"Neurologie"
+      },
+      {
+        "name":"حمادو صبيحة",
+        "phone":"0770923290",
+        "address":"17/40 شارع وجيش التحرير الوطني",
+        "specialty":"Penumologie"
+      },
+        {
+        "name":"جلول ميلود",
+        "phone":"0772267893",
+        "address":"CITE 68 LOGTS BLOC L1 CTRE VILLE Bechar",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"ولد أحمد عبد القادر",
+        "phone":"0662676910",
+        "address":"CITE 62 LOGTS Bechar",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"بن عامر",
+        "phone":"",
+        "address":"وسط مدينة بشار قرب الخطوط الجوية",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"اسماعيل جمال",
+        "phone":"",
+        "address":"CITE 62 LOGTS 250 CETRE VILLE",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"صالحي صادق",
+        "phone":"",
+        "address":"CITE 80 LOGTS BLOC 43 CITE EL BADR Bechar",
+        "specialty":"Minterne"
+    },
+    
+    
+    
+    ]
+  },
+  {
+    "stateName": "Blida",
+    "doctors": [
+      {
+        "name":"خليفة عبد الفتاح",
+        "phone":"",
+        "address":"27 Rue Didouche Mourad -BLIDA",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"رحيم شيفا",
+        "phone":"0774439821",
+        "address":"البليدة",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"الدكتور رابحي فاروق",
+        "phone":"",
+        "address":"حي cnep بلدية الاربعاء",
+        "specialty":"Dentiste"
+      },
+     {
+        "name":"طبيب لعريبي",
+        "phone":"0541336748",
+        "address":"طريق مستشفى بن بولعيد البليدة",
+        "specialty":"Orl"
+      },
+        {
+        "name":"سيدي عاشور",
+        "phone":"",
+        "address":"وسط المدينة مقابل اوريدو",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"الحكيمة عفاف بن عيشوبة",
+        "phone":"0673684160",
+        "address":"شارع الاخوة بن يخلف - موزاية",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"بن ناصر كمال",
+        "phone":"0771808169",
+        "address":"شارع الأمير عبد القادر، بوفاريك",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"محمد بلال السمانه",
+        "phone":"0540321683",
+        "address":"boulevard Larbi Tebessi",
+        "specialty":"Pédiatrie"
+       },
+       {
+        "name":"جاهيش أمال",
+        "phone":"0560957602",
+        "address":"حي محطة  القطار بوقرة ولاية البليدة",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"امينه زواق",
+        "phone":"0656113549",
+        "address":"سويداني بوجمعه بوفاريك",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"مقدم باية",
+        "phone":"0549452691",
+        "address":"Rue Hamadouche Boufarik",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"خلادي الياس",
+        "phone":"0661252930",
+        "address":"البليدة",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"عدالة محمد",
+        "phone":"0550436927",
+        "address":"بوفاريك ولاية البليدة",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"بوزيد عبدالقادر",
+        "phone":"0560129601",
+        "address":"03 شارع الاخوة عليلي بوفاريك",
+        "specialty":"Cardiologie"
+      },
+      {
+        "name":"العيادي محي الدين",
+        "phone":"0771231006",
+        "address":"23 شارع بن بولعيد ولاية البليدة",
+        "specialty":"Cardiologie"
+      },
+      {
+        "name":"سارة رابية",
+        "phone":"0549497417",
+        "address":"ab dzair (pharmacie bensahli 1er etage",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"معسفن بشير",
+        "phone":"0549035818",
+        "address":"شارع ١ نوفمبر العفرون",
+        "specialty":"Cardiologie"
+      },
+     {
+        "name":"حنوس  م ل",
+        "phone":"0778918610",
+        "address":"03 ، شارع دويسي عبد القادر ، العفرون",
+        "specialty":"Neurologie"
+      },
+      {
+        "name":"بوخاري",
+        "phone":"",
+        "address":"باب السبت البليدة",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"زهير برڨوڨ",
+        "phone":"0662130867",
+        "address":"محمد بوضياف البليدة",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"بن مبارك نور الدين",
+        "phone":"",
+        "address":"طريق سيدي موسى",
+        "specialty":"Digestif"
+      },
+      {
+        "name":"بن سالم مروان",
+        "phone":"",
+        "address":"مطلاوي بوفرة البليدة",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"مرابط صبرينة",
+        "phone":"0557191534",
+        "address":"حي الموز عمارة 12  الطابق الأول البليدة",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"كامل باشا",
+        "phone":"",
+        "address":"Dr Cherif Zahar Arbaa",
+        "specialty":"ChirurgieG"
+      },
+       {
+        "name":"بولحبال جعفر",
+        "phone":"",
+        "address":"Cité 200 logements cnep bt5 cageA l'Arbaa",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"بن عودة ايمان",
+        "phone":"06624024022",
+        "address":"العفرون حي بوعزة جلول",
+        "specialty":"Minterne"
+      } 
+    ]
+  },
   {
     "stateName": "Annaba",
     "doctors": []
   },
   {
     "stateName": "Bayadh",
-    "doctors": []
-  },
-  {
-    "stateName": "Blida",
     "doctors": []
   },
   {
@@ -1807,12 +2122,6 @@
     "stateName": "Boumerdès",
     "doctors": []
   },
-  {
-    "stateName": "Béchar",
-    "doctors": []
-  },
- 
- 
   {
     "stateName": "Constantine",
     "doctors": []
