@@ -764,6 +764,143 @@
     
     ]
   },
+   {
+    "stateName": "Chlef",
+    "doctors": [
+     {
+        "name":"قادة عيسى خديجة",
+        "phone":"0777187287",
+        "address":"حي مجاجي",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"أمينة بوطيبة",
+        "phone":"0776472998",
+        "address":"SITY من enseingants",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"خربوش محمد",
+        "phone":"0772444523",
+        "address":"دائرة مرسى بلدية المرسى شلف",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"معمري كلتوم",
+        "phone":"0698277056",
+        "address":"الظهرة مركز",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"منور كمال",
+        "phone":"0676799979",
+        "address":"حي  الجديد بني راشد",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"درارجه زوجه كيبو",
+        "phone":"0663375614",
+        "address":"حي الحجره لديه الشطيه",
+        "specialty":"Dentiste"
+      },
+     {
+        "name":"قلال",
+        "phone":"661631697",
+        "address":"الشطية الشلف",
+        "specialty":"Orl"
+      },
+        {
+        "name":"علي عرفي",
+        "phone":"",
+        "address":"مدينة المسؤولين BT C1 رقم 3",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"ممجاهدي منصور",
+        "phone":"0552278549",
+        "address":"حي  مداحي (الزبوج) الشلف",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"بن يوسف نورالدين",
+        "phone":"0668689595",
+        "address":"شارع الأمير عبد القادر",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"بن احمد مصطفى",
+        "phone":"0772152820",
+        "address":"Cite 136  cnep centre ville feu rouge",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"بن عبورة فاطمة الزهراء",
+        "phone":"0771549510",
+        "address":"حي بن سونة الشلف",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"قويدر الواحد اسمهان",
+        "phone":"0771484538",
+        "address":"La cité les bâtiments les giko",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"بربحة توفيق",
+        "phone":"",
+        "address":"حي الليمون الشلف",
+        "specialty":"Cardiologie"
+      },
+     {
+        "name":"دكيش محمد",
+        "phone":"",
+        "address":"6 شارع غزال ولاية شلف",
+        "specialty":"Neurologie"
+      },
+      {
+        "name":"بوشهده",
+        "phone":"",
+        "address":"Chlef cité des fonctionnaires",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"بوزانة",
+        "phone":"",
+        "address":"لاسيتي",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"قدورجبار",
+        "phone":"0541001675",
+        "address":"جوار صيدلية رابح بحي عروح الصليب الاحمر سابقا",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"ناصري إسماعيل",
+        "phone":"0773979779",
+        "address":"حي شيريفي قدور، الصليب الاحمر",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"بوشاقور رضا",
+        "phone":"0676470691",
+        "address":"حي البدر منطقة 1",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"مرجان سميرة",
+        "phone":"0560466116",
+        "address":"500 مسكن احمد شاقوري",
+        "specialty":"Minterne"
+      }
+    ]
+  },
   {
     "stateName": "Laghout",
     "doctors": [
@@ -968,27 +1105,690 @@
     ]
   },
    {
+    "stateName": "OumElBouaghi",
+    "doctors": [
+     {
+        "name":"علاوة نورالدين",
+        "phone":"0776891908",
+        "address":"حي تعاونية الكاهنة ام البواقي",
+        "specialty":"Mgénéral"
+      },
+        {
+        "name":"عثماني سميرة",
+        "phone":"0775185489",
+        "address":"",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"نزال شهرة",
+        "phone":"0774624764",
+        "address":"Route de la poste",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"أوشن النذير",
+        "phone":"0772468140",
+        "address":"شارع محمد بعطوط",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"لكبير وسيل",
+        "phone":"0550519608",
+        "address":"عين مليلة",
+        "specialty":"Mgénéral"
+      },
+       { 
+        "name":"رابحي رزيقة",
+        "phone":"0790231523",
+        "address":"عين مليلة",
+        "specialty":"Dentiste"
+      },
+      { 
+        "name":"محمد نجيب مشري",
+        "phone":"0699073188",
+        "address":"حي EPLF أم البواقي",
+        "specialty":"Dentiste"
+      },
+        { 
+        "name":"بوقرة",
+        "phone":"0669602428",
+        "address":"Oum El Bouaghi",
+        "specialty":"Dentiste"
+      },
+      { 
+        "name":"الدكتور بوبشو رابح",
+        "phone":"0668053605",
+        "address":"حي المستقبل (الدشرة) - أم البواقي",
+        "specialty":"Dentiste"
+      },
+     {
+        "name":"طالبي سمير",
+        "phone":"0661319799",
+        "address":"89 CITE LAFRI Oum El Bouaghi, Algérie",
+        "specialty":"Orl"
+      },
+       {
+        "name":"بوفار",
+        "phone":"0792419352",
+        "address":"عين البيضاء",
+        "specialty":"Orl"
+      },
+       {
+        "name":"بورية",
+        "phone":"0772808493",
+        "address":"عين البيضاء",
+        "specialty":"Orl"
+      },
+        {
+        "name":"الحكيم مجادي",
+        "phone":"0793801162",
+        "address":"أم البواقي",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"عمران",
+        "phone":"0779033396",
+        "address":"عين البيضاء",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"عمارة",
+        "phone":"0699936429",
+        "address":"عين البيضاء",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"خلدون محمد",
+        "phone":"0772920857",
+        "address":"حي منصوري علي رقم 1 عين البيضاء",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"زعروري",
+        "phone":"0552919423",
+        "address":"عين البيضاء",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"بوطمين",
+        "phone":"0773360779",
+        "address":"عين البيضاء",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"الحكيمة حسيل وليدة",
+        "phone":"0555102683",
+        "address":"ام بواقي",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"فرجاني",
+        "phone":"0772461692",
+        "address":"عين البيضاء",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"نفير نور الدين",
+        "phone":"0776797705",
+        "address":"ساحة فلسطين - عين البيضاء",
+        "specialty":"Orthopédique"
+      },
+      {
+        "name":"حيول",
+        "phone":"0775557988",
+        "address":"عين البيضاء",
+        "specialty":"Orthopédique"
+      },
+      {
+        "name":"بودماغ",
+        "phone":"0697874594",
+        "address":"عين البيضاء",
+        "specialty":"Orthopédique"
+      },
+     {
+        "name":"ماموني",
+        "phone":"0663451429",
+        "address":"عين البيضاء حي السعادة 2",
+        "specialty":"Orthopédique"
+      }, 
+        {
+        "name":"صايم",
+        "phone":"0661457500",
+        "address":"عين البيضاء",
+        "specialty":"Orthopédique"
+      }, 
+       {
+        "name":"بوهراوة",
+        "phone":"0667868536",
+        "address":"عين البيضاء",
+        "specialty":"Orthopédique"
+      }, 
+       {
+        "name":"بن عباس",
+        "phone":"0540483260",
+        "address":"ام بواقي",
+        "specialty":"Cardiologie"
+      },
+        {
+        "name":"عبد اللاوي",
+        "phone":"0666623341",
+        "address":"Route de khenchela en face café chioua Ain Beida",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"شدادي",
+        "phone":"0661400532",
+        "address":"Marrienne Ain Beida Cité",
+        "specialty":"Cardiologie"
+      },
+     {
+        "name":"الحكيم بوشريط",
+        "phone":"0774405574",
+        "address":"ام بواقي",
+        "specialty":"Neurologie"
+      },
+      {
+        "name":"لحكيم خالفي علي",
+        "phone":"0663167642",
+        "address":"حي حيحي المكي",
+        "specialty":"Penumologie"
+      },
+       {
+        "name":"جنون عايدة",
+        "phone":"0699933320",
+        "address":"حي الحرية (الدشرة) ام البواقي",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"قمري ناجي",
+        "phone":"0791735898",
+        "address":"حي البلدي. عين مليلة. (مقابل المحكمة",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"بركاني محمد",
+        "phone":"0541909449",
+        "address":"عين ببوش ام البواقي",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"عيسوس",
+        "phone":"0540209081",
+        "address":"حي سوناتيبا جوار مسجد الصحابة عين مليلة",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"بن حمادة ياسين",
+        "phone":"0790160949",
+        "address":"عين مليلة",
+        "specialty":"Endocrinolog"
+      },
+          {
+        "name":"قدور أمال",
+        "phone":"0667254816",
+        "address":" ام البواقي",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"العايب",
+        "phone":"0771487887",
+        "address":"عين البيضاء",
+        "specialty":"ChirurgieG"
+      },
+       {
+        "name":"سلطاني",
+        "phone":"0792348022",
+        "address":"عين البيضاء",
+        "specialty":"ChirurgieG"
+      },
+       {
+        "name":"قادري",
+        "phone":"0771336867",
+        "address":"عين البيضاء",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Minterne"
+      }
+    ]
+  },
+   {
+    "stateName": "Batna",
+    "doctors": [
+    {
+        "name":"قاسمية فضيلة",
+        "phone":"0770554490",
+        "address":"بالقرب من كلية الحقوق و التكوين الكهني باتنة",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"بشايرية سلاف",
+        "phone":"0663452175",
+        "address":"حي 1نوفمبر عمارة11 باب202 اريس",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"رحموني عبد الوهاب",
+        "phone":"0661644407",
+        "address":"بلدية القصبات",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"وليد الادريسي",
+        "phone":"0549071035",
+        "address":"بوعقال",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"حمزة عثامن",
+        "phone":"0777013317",
+        "address":"راس العيون أمام الاكمالية",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"زرقين ايوب",
+        "phone":"0771457139",
+        "address":"حي الشهداء بالقرب من عيادة سمايلي, باتنة",
+        "specialty":"Dentiste"
+      },
+     {
+        "name":"بن براهيم رضا",
+        "phone":"0676622000",
+        "address":"29 حي 50مسكن مقابل اكمالية بن شادي باتنة",
+        "specialty":"Orl"
+      },
+        {
+        "name":"مغلاتي عصام",
+        "phone":"",
+        "address":"cité 800 logts, bloc 44– Batna",
+        "specialty":"Orl"
+      },
+        {
+        "name":"جوهرة شليحي",
+        "phone":"0560010022",
+        "address":"حي كموني",
+        "specialty":"Ophtalmologie"
+      },
+        {
+        "name":"عاقل سمير",
+        "phone":"0685499210",
+        "address":"طريق دوار الديس - مقابل معهد التكوين المهني",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"يمينة أوشن",
+        "phone":"0541726464",
+        "address":"عماراتايكوتاك مقابل جامعة CUB",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"سرحاني محمد فاتح",
+        "phone":"0799874009",
+        "address":"410 logement numero 41ecotec",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"نور الدين يوسف",
+        "phone":"0778733386",
+        "address":"Cité 200 lgt Barika 5400 Batna",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"ليندة لوسيف",
+        "phone":"0554710709",
+        "address":"Rue des Frères Abdellah, Batna",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"لحبيب ماجور",
+        "phone":"0661304186",
+        "address":"حي 500 مسكن وراء مسجد الغفران- باتنة",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"لميني اجوني",
+        "phone":"0656568986",
+        "address":"قطعة 500, 19 الشهيد  ولاية باتنة",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"محمد النذير موس",
+        "phone":"0779105518",
+        "address":"قرب مسجد اول نوفمبر",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"زيتي شافية",
+        "phone":"0665860477",
+        "address":"Rue des Frères Bouabsa, Batna",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"معشوش مصطفي",
+        "phone":"0551727783",
+        "address":"سيتي 345",
+        "specialty":"Orthopédique"
+      },
+      {
+        "name":"سليماني سامي",
+        "phone":"0542507402",
+        "address":"باتنة - حي 500 مسكن",
+        "specialty":"Orthopédique"
+      },
+     {
+        "name":"الدكتور بوفنيك",
+        "phone":"0781372892",
+        "address":"حي 200 مسكن بريكة",
+        "specialty":"Orthopédique"
+      },
+      {
+        "name":"مراد خليف",
+        "phone":"0772586905",
+        "address":"حي الشهداء 1200 مسكن",
+        "specialty":"Orthopédique"
+      },
+     {
+        "name":"حمادي",
+        "phone":"0771700895",
+        "address":"cité el zouhor,  Batna",
+        "specialty":"Orthopédique"
+      },
+      {
+        "name":"معزوز",
+        "phone":"0657403536",
+        "address":"Batna",
+        "specialty":"Orthopédique"
+      }, 
+       {
+        "name":"عيسوق امال",
+        "phone":"0554907464",
+        "address":"Rue Abdellah Aissa, Batna",
+        "specialty":"Orthopédique"
+      }, 
+       {
+       "name":"بوجلال توفيق",
+        "phone":"0656324253",
+        "address":"Route de Biskra, Batna",
+        "specialty":"Cardiologie"
+      },
+      {
+        "name":"نموشي حمزة",
+        "phone":"0666530036",
+        "address":"حي بارك أفوراج باتنة",
+        "specialty":"Cardiologie"
+      },
+     {
+        "name":"دايخ عبد الحق",
+        "phone":"0554396110",
+        "address":"حي 800 مسكن",
+        "specialty":"Neurologie"
+      },
+      {
+        "name":"عبد السلام بن المجات",
+        "phone":"",
+        "address":"حي 46 مسكن رقم 38 حي النصر باتنة",
+        "specialty":"Neurologie"
+      },
+      {
+        "name":"بوشفة لبنى حرم عبدالاله",
+        "phone":"0699132943",
+        "address":"حي 05جويلية مروانة أمام المسجد العتيق مروانة",
+        "specialty":"Penumologie"
+      },
+       {
+        "name":"شرقي سماح",
+        "phone":"0696818213",
+        "address":"105 rue Salah Haddad,cité Chouhada, Batna",
+        "specialty":"Penumologie"
+      },
+       {
+        "name":"إبراهيم روابح",
+        "phone":"0771629736",
+        "address":"عين التوتة",
+        "specialty":"Penumologie"
+      },
+       {
+        "name":"شليح طارق",
+        "phone":"0676484305",
+        "address":"حي الأخوة لمباركية",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"قادة خليفة",
+        "phone":"0550142277",
+        "address":"مجمع نجمة كا باتنة بجانب المركز الثقافي",
+        "specialty":"Urologie"
+      },
+       {
+        "name":"شلغوم عبد النور منير",
+        "phone":"0663580080",
+        "address":"المستشفى الجامعي باتنة",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"محمد كمال عبابسة",
+        "phone":"0550477126",
+        "address":"36 شارع الإستقلال مقابل مركز الدرك القديم",
+        "specialty":"Digestif"
+      },
+        {
+        "name":"درغال خليفة",
+        "phone":"",
+        "address":"17 RUE HAMIDA BEN CHAABANE",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"لوشن حسان",
+        "phone":"0661609064",
+        "address":"16 Rue L’aures Stand Batna",
+        "specialty":"Endocrinolog"
+      },
+       {
+        "name":"بن زيد نريمان",
+        "phone":"0772029409",
+        "address":"تجزئة المجاهدين حي 800 سكن باتنة",
+        "specialty":"Endocrinolog"
+      },
+       {
+        "name":"شعيب حنان",
+        "phone":"0663326469",
+        "address":"حي 32 مسكن العمارة 13",
+        "specialty":"Endocrinolog"
+      },
+       {
+        "name":"برحايل",
+        "phone":"0657283719",
+        "address":"Rue des Frères Bouabsa, Batna",
+        "specialty":"Endocrinolog"
+      },
+      {
+        "name":"عقون محمد عادل",
+        "phone":"0556324456",
+        "address":"طريق تازولت بجانب مسجد عمر بن العاص",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"حمزة أحمد",
+        "phone":"",
+        "address":"59 وحدة كيموني باتنة",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"صالحة بن شيبة",
+        "phone":"0667492424",
+        "address":"مدينة سكينة",
+        "specialty":"Minterne"
+      },
+      {
+        "name":"مزوار محمد كمال",
+        "phone":"0672401877",
+        "address":"Bouakal, Batna",
+        "specialty":"Minterne"
+      },
+    {
+        "name":"دموش فريد",
+        "phone":"0558655650",
+        "address":"كشيدة",
+        "specialty":"Minterne"
+      }
+    ]
+  },
+   {
     "stateName": "Béjaia",
     "doctors": [
-    
-    
-    
+      {
+        "name":"نبيل سكلاب",
+        "phone":"0792358216",
+        "address":"بجاية",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"خالدي محند امقران",
+        "phone":"0698367854",
+        "address":"شارع الحرية عمارة نبيلة جينين بجاية",
+        "specialty":"Dentiste"
+      },
+     {
+        "name":"عبد المجيد عباسي",
+        "phone":"034201409",
+        "address":"rue Ouabdelkader",
+        "specialty":"Orl"
+      },
+       {
+        "name":"رزقي ندير",
+        "phone":"034253860",
+        "address":"مسكن 130-131 القصور بجاية",
+        "specialty":"Orl"
+      },
+        {
+        "name":"يايسي مراد",
+        "phone":"0699887766",
+        "address":"Sidi aich",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"مجيد هواري",
+        "phone":"034356952",
+        "address":"Route de Sidi Ali, Akbou",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"منديل باديس",
+        "phone":"034292929",
+        "address":"Cite seghie Bejia BEJAIA",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"حمور حكيم",
+        "phone":"0537378983",
+        "address":"ولاية بجاية",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"سيدني محيد",
+        "phone":"034861221",
+        "address":"سيدي عيش ولاية بجاية",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"جعدي سمير",
+        "phone":"0773729220",
+        "address":"39 طريق الأوراس بجاية",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"لعلاوي علي",
+        "phone":"034357671",
+        "address":"Cité des 12 logts Scolaires AKBOU",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"أهنية حميد",
+        "phone":"034355346",
+        "address":"130 logts BT C1 n°1 AKBOU",
+        "specialty":"Cardiologie"
+      },
+      {
+        "name":"محمد الدوادجي",
+        "phone":"034215665",
+        "address":"138 bis Route de l’Aurès",
+        "specialty":"Cardiologie"
+      },
+      {
+        "name":"جمال برازا",
+        "phone":"034109388",
+        "address":"40 cité tonalités Bat ANo7",
+        "specialty":"Cardiologie"
+      },
+     {
+        "name":"جعدي سمير",
+        "phone":"0773729220",
+        "address":"39 طريق الأوراس بجاية",
+        "specialty":"Neurologie"
+      },
+      {
+        "name":"نذير رزقي",
+        "phone":"034253860",
+        "address":"Lot 130/131 Elkseur",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"عزيبي إبراهيم",
+        "phone":"0541790065",
+        "address":"أدكار",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"براكي سمرة ليلى",
+        "phone":"034365570",
+        "address":"Cité Gueldamane Guendouza",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"رحول عمار",
+        "phone":"034358887",
+        "address":"Cité des 90 logts Bt C 1 n° 02 AKBOU",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"بركة عبد الغاني",
+        "phone":"0561803118",
+        "address":"شارع لوطة وسط سوق الإثنين بجاية",
+        "specialty":"ChirurgieG"
+      },
+       {
+        "name":"حامني فريد",
+        "phone":"034358379",
+        "address":"Lot. Sidi Oucheddad",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"أولاد علي قادة",
+        "phone":"034357719",
+        "address":"Cité des 60 logts Bt 43 n° 01 AKBOU",
+        "specialty":"Minterne"
+      },
+     {
+        "name":"رجدال محند اوقاسي",
+        "phone":"034357627",
+        "address":"130 logts app n° 102 bloc C 6 AKBOU",
+        "specialty":"Minterne"
+      }
     ]
+  },
+  {
+    "stateName": "Biskra",
+    "doctors": []
   },
   {
     "stateName": "Annaba",
     "doctors": []
   },
   {
-    "stateName": "Batna",
-    "doctors": []
-  },
-  {
     "stateName": "Bayadh",
-    "doctors": []
-  },
-  {
-    "stateName": "Biskra",
     "doctors": []
   },
   {
@@ -1012,10 +1812,7 @@
     "doctors": []
   },
  
-  {
-    "stateName": "Chlef",
-    "doctors": []
-  },
+ 
   {
     "stateName": "Constantine",
     "doctors": []
@@ -1082,10 +1879,6 @@
   },
   {
     "stateName": "Oran",
-    "doctors": []
-  },
-  {
-    "stateName": "OumElBouaghi",
     "doctors": []
   },
   {
