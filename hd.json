@@ -1793,7 +1793,355 @@
   },
   {
     "stateName": "Biskra",
-    "doctors": []
+    "doctors": [
+       {
+        "name":"بوطبة سليم رياض",
+        "phone":"033575304",
+        "address":"شارع لعشر علي رقم 6 ليشانة طولقة",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"علالي اسماء",
+        "phone":"0662783827",
+        "address":"حي البلدية زريبة الوادي",
+        "specialty":"Mgénéral"
+      }, {
+        "name":"بن جاب الله حكيمة",
+        "phone":"0774765777",
+        "address":"العالية الشمالية",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"بورزڨ كمال",
+        "phone":"0772681452",
+        "address":"ولاية بسكرة حي المنشي",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"سعد الدين عثماني",
+        "phone":"0771796364",
+        "address":"حي النصر بني مرة ولاية بسكرة",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"حمريط لخضر",
+        "phone":"0662583514",
+        "address":"حي 20 أوت أولاد جلال",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"محمد العربي غادي",
+        "phone":"033731700",
+        "address":"العمر بسكرة",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"قحماز و مبروكي",
+        "phone":"033587103",
+        "address":"أحياء رسوطةالغربية طولقة",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"عدنان مزغيش",
+        "phone":"033578760",
+        "address":"حي 50 مسكن طولقة",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"ضحوة شريف",
+        "phone":"0665036279",
+        "address":"في المدينة",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"عثماني بلال",
+        "phone":"0662093743",
+        "address":"شارع حكيم سعدان 90 مسكن",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"الدكتور عماري هشام",
+        "phone":"070555929",
+        "address":"حي بنقانة بسكرة",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"عبد الكريم عزاوي",
+        "phone":"033605480",
+        "address":"مدينة سيدي عقبة",
+        "specialty":"Dentiste"
+      },
+     {
+        "name":"بوخالفي عبد اللطيف",
+        "phone":"033578733",
+        "address":"144 مسكن حي سعدة طولقة بسكرة",
+        "specialty":"Orl"
+      },
+      {
+        "name":"طارق غريب",
+        "phone":"0696186614",
+        "address":"10 شارع طارق ع الرزاق بسكرة",
+        "specialty":"Orl"
+      },
+       {
+        "name":"فاضل عبد الوهاب",
+        "phone":"0799562152",
+        "address":"شارع 8 مارس",
+        "specialty":"Orl"
+      },
+       {
+        "name":"شوبان حسان",
+        "phone":"0771616515",
+        "address":"حي قوراري بسكرة",
+        "specialty":"Orl"
+      },
+      {
+        "name":"قاسم جمال",
+        "phone":"033749090",
+        "address":"الشارع 22 الأمير عبد القادر بسكرة",
+        "specialty":"Orl"
+      },
+      {
+        "name":"خبزي",
+        "phone":"033656367",
+        "address":"حي 726 مسكن",
+        "specialty":"Orl"
+      },
+       {
+        "name":"سامية عزيز",
+        "phone":"0798418722",
+        "address":"ص ب 227 سيدي عقبة",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"ميهوبي",
+        "phone":"0770249936",
+        "address":"clinique palmaraie",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"دردور انور",
+        "phone":"0696972869",
+        "address":"بجانب عيادة طرشي حي السعادة",
+        "specialty":"Ophtalmologie"
+      },
+      {
+        "name":"بورغود سعاد",
+        "phone":"0661545188",
+        "address":"22 شارع ناصري محمد",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"غمري",
+        "phone":"0560303549",
+        "address":"ببسكرة",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"مغربي محمد الطاهر",
+        "phone":"033738976",
+        "address":"حي العالية بسكرة",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"الحكيم ميلودي فيصل",
+        "phone":"0667351485",
+        "address":"حي العمارات hlm  بسكرة",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"الطبيب هيثم غول",
+        "phone":"0771747070",
+        "address":"الكورس",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"بوطي نزيهة",
+        "phone":"033594867",
+        "address":"شارع مخلوف ساعد",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"كينان عمر",
+        "phone":"033503445",
+        "address":"لكورس",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"جنان شريف عدلان",
+        "phone":"0771930783",
+        "address":"شارع باتنة 04  الامير عبد القادر",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"الدكتورة جلولي ن",
+        "phone":"0666407805",
+        "address":"شارع حشاني رمضان طولقة",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"نجاح هدى",
+        "phone":"0778613210",
+        "address":"حي السعادة بلدية طولقة",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"ماراد عبدالحميد",
+        "phone":"0771919078",
+        "address":"شارع قوراري",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"الدكتورة بن عباس",
+        "phone":"0664299316",
+        "address":"حي العالية بجانب مقهى الزياني",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"مزيو عز الدين",
+        "phone":"033541141",
+        "address":"1000مسكن",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"بوستة حسان",
+        "phone":"054605718",
+        "address":"حي بلعياط (العمارات) بسكرة",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"كلالة بوناب",
+        "phone":"03534103",
+        "address":"RUE 90 LOG APP  61 biskra",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"افروخ مخطار",
+        "phone":"097261123",
+        "address":"cite 92 bloc 19",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"عقبي رضا",
+        "phone":"094155055",
+        "address":"حي 150 مسكن رقم 12 بني مرة",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"لزهاري دبابش",
+        "phone":"03520207",
+        "address":"4 شارع رشيد حليمي",
+        "specialty":"Cardiologie"
+      },
+     {
+        "name":"شوالي نادية",
+        "phone":"075150102",
+        "address":"بسكرة",
+        "specialty":"Neurologie"
+      },
+      {
+        "name":"حاجي عبدالله",
+        "phone":"071071791",
+        "address":"حي العالية الشمالية رقم 179",
+        "specialty":"Penumologie"
+      },
+       {
+        "name":"رماضنة امير",
+        "phone":"780830071",
+        "address":"بسكرة",
+        "specialty":"Penumologie"
+      },
+       {
+        "name":"شريط نبيل",
+        "phone":"058469955",
+        "address":"شارع العالية",
+        "specialty":"Penumologie"
+      },
+       {
+        "name":"بكوش رضا",
+        "phone":"03530159",
+        "address":"حي الواد",
+        "specialty":"Penumologie"
+      },
+      {
+        "name":"يوسف براك",
+        "phone":"073556037",
+        "address":"شارع الامير عبدالقادر",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"قرقب فيصل",
+        "phone":"0770740553",
+        "address":"حي 150 مسكن بني مرة بلدية بسكرة",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"صباء صلاح",
+        "phone":"03528260",
+        "address":"رقم 19 باب الدرب",
+        "specialty":"Digestif"
+      },
+      {
+        "name":"عثماني عزيزة",
+        "phone":"0698821963",
+        "address":"الحي الجامعي 500 مسكن",
+        "specialty":"Endocrinolog"
+      },
+    {
+        "name":"محمد حوحو",
+        "phone":"0656212181",
+        "address":"حي 90 مسكن",
+        "specialty":"Endocrinolog"
+      },
+       {
+        "name":"بوضياف لمين",
+        "phone":"033503650",
+        "address":"شارع الاخوة عصمان",
+        "specialty":"ChirurgieG"
+      },
+       {
+        "name":"رعاش رشيد",
+        "phone":"0773175984",
+        "address":"حي فرحات",
+        "specialty":"ChirurgieG"
+      },
+        {
+        "name":"عوينات منير",
+        "phone":"0770414864",
+        "address":"شارع باتنة عيادة palmariai بسكرى",
+        "specialty":"ChirurgieG"
+      },
+       {
+        "name":"بلقاسم فوزي",
+        "phone":"0557287506",
+        "address":"شارع أولاد موسى العربي أولاد جلال",
+        "specialty":"ChirurgieG"
+      },
+       {
+        "name":"الجراح الحاج يوسف",
+        "phone":"033577373"
+        "address":"حي400مسكن طولقة",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"ميمون ميلود",
+        "phone":"0778594389",
+        "address":"حي 1000 سكن",
+        "specialty":"Minterne"
+      },
+        {
+        "name":"فرج الله محمد",
+        "phone":"033500575",
+        "address":"حي 150 سكن عمارة 01",
+        "specialty":"Minterne"
+      },
+        {
+        "name":"الصادق جوامع",
+        "phone":"033526913",
+        "address":"شارع مدلل محمد حي البوخاري",
+        "specialty":"Minterne"
+      }
+    ]
   },
    {
     "stateName": "Béchar",
@@ -1935,10 +2283,8 @@
         "phone":"",
         "address":"CITE 80 LOGTS BLOC 43 CITE EL BADR Bechar",
         "specialty":"Minterne"
-    },
-    
-    
-    
+    }
+     
     ]
   },
   {
