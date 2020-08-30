@@ -2449,6 +2449,242 @@
     ]
   },
   {
+    "stateName": "Tamanrasset",
+    "doctors": [
+    {
+        "name":"الخير بن عيشة",
+        "phone":"0664055863",
+        "address":"حي القصر 11000 تمنراست",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"مسعودي سامية",
+        "phone":"",
+        "address":"سرسوف مقابل العيادة العمومية",
+        "specialty":"Dentiste"
+      },
+      {
+        "name":"ملوحي سمية",
+        "phone":"0667285907",
+        "address":"Ksar Elfougani",
+        "specialty":"Orl"
+      },
+      {
+        "name":"ملوحي س زوجةبن سخرية",
+        "phone":"0667285907",
+        "address":"القصر الفوقاني تمنراست",
+        "specialty":"Orl"
+      },
+        {
+        "name":"التوجي خديجة",
+        "phone":"",
+        "address":"حي سرسوف",
+        "specialty":"Orl"
+      },
+        {
+        "name":"سامي الطويل",
+        "phone":"0658385427",
+        "address":"حي أمشون قرب المستسفى-تمنراست",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Pédiatrie"
+      },
+   {
+        "name":"جواح ز.تلي",
+        "phone":"0696734400",
+        "address":"وسط المدينة فوق صيدلية السلام",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"سلمة طويل",
+        "phone":"0668866062",
+        "address":"قرب دار صناعة تقليدية",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"بامون أسماء",
+        "phone":"0673632828",
+        "address":"تمنراست",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Cardiologie"
+      },
+     {
+        "name":"الحكيم سيدي محمد عقبه",
+        "phone":"",
+        "address":"سرسف الحفرة",
+        "specialty":"Neurologie"
+      },
+      {
+        "name":"مجبور",
+        "phone":"",
+        "address":"EL Kissar El Fourgani",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"مراحي اسماعيل",
+        "phone":"",
+        "address":"SERSOUF Tamanrasset",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Minterne"
+      }
+    ]
+  },
+   "stateName": "Tébessa",
+    "doctors": [
+  {
+        "name":"رزايقية منجي",
+        "phone":"0791080379",
+        "address":"العوينات",
+        "specialty":"Mgénéral"
+      },
+  {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Dentiste"
+      },
+  {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Dentiste"
+      },
+  {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Dentiste"
+      },
+  {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Dentiste"
+      },
+     {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Orl"
+      },
+        {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Cardiologie"
+      },
+     {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Neurologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Minterne"
+      },
+
+
+
+
+
+]
+  },
+  {
     "stateName": "Annaba",
     "doctors": []
   },
@@ -2597,9 +2833,6 @@
     "doctors": []
   },
   {
-    "stateName": "Tébessa",
-    "doctors": []
-  },
   {
     "stateName": "Témouchent",
     "doctors": [
