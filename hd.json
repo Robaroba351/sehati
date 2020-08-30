@@ -2569,29 +2569,274 @@
         "address":"العوينات",
         "specialty":"Mgénéral"
       },
+   {
+       "name":"عبد الحكيم عثماني",
+        "phone":"0553139940",
+        "address":"بئر مقدم",
+        "specialty":"Mgénéral"
+      },
   {
-        "name":"",
-        "phone":"",
-        "address":"",
+         "name":"رايس ياسن",
+        "phone":"037401400",
+        "address":"حي المدارس بلدية الحمامات",
+        "specialty":"Mgénéral"
+      },
+  {
+        "name":"قزولي عبد المالك",
+        "phone":"0661193045",
+        "address":"حي الأمل العمارة أ10 رقم 1 تبسة",
+        "specialty":"Mgénéral"
+      },
+  {
+        "name":"سيفي كمال سليمان",
+        "phone":"0772926357",
+        "address":"تبسة",
+        "specialty":"Mgénéral"
+      },
+   {
+        "name":"لمين عثماني",
+        "phone":"037624445",
+       "address":"حي 100 مسكن طريق تبسه",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"سالم ونيس",
+        "phone":"0668251817",
+        "address":"الحمامات",
         "specialty":"Dentiste"
       },
   {
-        "name":"",
-        "phone":"",
-        "address":"",
+        "name":"عيسوق زياد",
+        "phone":"037561014",
+        "address":"تبسة",
         "specialty":"Dentiste"
       },
   {
-        "name":"",
-        "phone":"",
-        "address":"",
+        "name":"سارة",
+        "phone":"0653869884",
+        "address":"Tebessa",
+        "specialty":"Dentiste"
+      },
+   {
+        "name":"عيسوق زياد",
+        "phone":"0665344050",
+        "address":"تبسة",
         "specialty":"Dentiste"
       },
   {
+        "name":"أحمد رزايقية",
+        "phone":"0791003111",
+        "address":"حي المسجد الكويف",
+        "specialty":"Dentiste"
+      },
+  {
+        "name":"رزقي جمال",
+        "phone":"0771403035",
+        "address":"طريق عنابه حي فاطمه الزهراء تبسه",
+        "specialty":"Dentiste"
+      },
+  {
+        "name":"سلطاني رضوان",
+        "phone":"0665591750"
+        "address":"حي 06 ماي. الونزة",
+        "specialty":"Dentiste"
+      },
+     {
+        "name":"قاسمي عادل",
+        "phone":"0659959091",
+        "address":"حي الأمل بجانب فندق الامير",
+        "specialty":"Orl"
+      },
+     {
+        "name":"شيباني عادل",
+        "phone":"0696673517",
+        "address":"الجرف ولايه تبسة",
+        "specialty":"Orl"
+      },
+     {
+        "name":"بن جمعة عصام",
+        "phone":"0669754013",
+        "address":"Tebessa N°12 boulvard",
+        "specialty":"Orl"
+      },
+     {
+        "name":"بوسكين عبد الرحمن",
+        "phone":"0550348322",
+        "address":"شارع الهواري بومدين حي EPLF",
+        "specialty":"Orl"
+      },
+   {
+        "name":"بهلولي نوال",
+        "phone":"0790244308",
+        "address":"Rue Mokrani Lazhar",
+        "specialty":"Ophtalmologie"
+      },
+   {
+        "name":"فاطمي محمد امين",
+        "phone":"0666445236",
+        "address":"Bvd Houari",
+        "specialty":"Ophtalmologie"
+      },
+        {
+        "name":"قربوسي ابو سفيان",
+        "phone":"0656535515",
+        "address":"N°133,Lot 163 Boulvard",
+        "specialty":"Ophtalmologie"
+      },
+   {
+        "name":"بن شوري بوعزيز",
+        "phone":"0556833376",
+        "address":"حي مدرسة الحياة الشريعة ولاية تبسة",
+        "specialty":"Pédiatrie"
+      },
+   {
+        "name":"ساكر جمال",
+        "phone":"0676148464",
+        "address":"Tbessa",
+        "specialty":"Pédiatrie"
+      },
+   {
+        "name":"مناوي",
+        "phone":"0699790873",
+        "address":"طريق قسنطينه مقابل فندق الامير تبسه",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"بسطانجي احمد",
+        "phone":"0674735029",
+        "address":"تبسة",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"زروالي هدى",
+        "phone":"0777099322",
+        "address":"بئر العاتر خلف حمام السعادة - تبسة",
+        "specialty":"Gynécologie"
+      },
+   {
+        "name":"بلحبيب آسيا",
+        "phone":"0659488080",
+        "address":"طريق عنابة",
+        "specialty":"Gynécologie"
+      },
+   {
+        "name":"بايزيد نجاة",
+        "phone":"0560667273",
+        "address":"Nouvelle Cité N° 06 A",
+        "specialty":"Gynécologie"
+      },
+  {
+        "name":"نصر الشريف الشادلي",
+        "phone":"0783036801"
+        "address":"حي 100 سكن",
+        "specialty":"Orthopédique"
+      },
+  {
+        "name":"عيساوي عبدالكريم",
+        "phone":"0771327794",
+        "address":"La Commune de Chéria",
+        "specialty":"Orthopédique"
+      },
+      {
+        "name":"تاتاي جميل",
+        "phone":"0674232355",
+        "address":"Rue Houari Boumedien face",
+        "specialty":"Orthopédique"
+      },
+  {
+        "name":"مشير احمد",
+        "phone":"0661367832",
+        "address":"الجرف",
+        "specialty":"Orthopédique"
+      },
+  {
+        "name":"تاهيل فزياي",
+        "phone":"0659907909",
+        "address":"تبسة",
+        "specialty":"Orthopédique"
+      },
+   {
+        "name":"بوهنشير مبروكة",
+        "phone":"0666673732",
+        "address":"تبسة",
+        "specialty":"Cardiologie"
+      },
+   {
+        "name":"بشيشي علاء الدين",
+        "phone":"0664621821",
+        "address":"حي الجرف مقابل المحكمة  ولاية تبسة",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"طيورة حياة",
+        "phone":"0660232112"
+        "address":"تبسة",
+        "specialty":"Cardiologie"
+      },
+  {
+        "name":"مراجي عبد الحق",
+        "phone":"0673483379",
+        "address":"Cité thevest",
+        "specialty":"Neurologie"
+      },
+     {
+        "name":"شنيخر شيراز",
+        "phone":"0542842759",
+        "address":"Cité Erriadh",
+        "specialty":"Neurologie"
+      },
+      {
+        "name":"بن دير عبد القادر",
+        "phone":"0549863223",
+        "address":"Cite amrani bloc B N°03 Djorf deriere",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"صميدة سليم",
+        "phone":"0775063144",
+        "address":"مقابل مقر الدائرة بجانب ثانوية سعدي",
+        "specialty":"Urologie"
+      },
+   {
+        "name":"سعديه رضوان",
+        "phone":"",
+        "address":"الحي العمراني بجانب المدرسة الإبتدائية بن حمدنور الدين",
+        "specialty":"Digestif"
+      },
+      {
+        "name":"حمداني",
+        "phone":"0699992778",
+        "address":"طريق عنابة مقابل مسجد حمزة",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"صابرينا بنكا",
+        "phone":"0696139243",
+        "address":"تبسة",
+        "specialty":"Endocrinolog"
+      },
+        {
         "name":"",
         "phone":"",
         "address":"",
-        "specialty":"Dentiste"
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"عبدالله ذيب",
+        "phone":"0655743368"
+        "address":"حي سكانسكا بجانب المسجد الكبير",
+        "specialty":"Minterne"
+      }
+]
+  },
+{
+    "stateName": "Tlemcen",
+    "doctors": [
+     {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Mgénéral"
       },
        {
         "name":"",
@@ -2677,12 +2922,10 @@
         "address":"",
         "specialty":"Minterne"
       },
-
-
-
-
-
-]
+    
+    
+    
+    ]
   },
   {
     "stateName": "Annaba",
@@ -2828,12 +3071,7 @@
     "stateName": "TiziOuzou",
     "doctors": []
   },
-  {
-    "stateName": "Tlemcen",
-    "doctors": []
-  },
-  {
-  {
+ {
     "stateName": "Témouchent",
     "doctors": [
       {
