@@ -2833,19 +2833,294 @@
     "stateName": "Tlemcen",
     "doctors": [
      {
-        "name":"",
-        "phone":"",
-        "address":"",
+        "name":"بن عيش بوسيف",
+        "phone":"0795196822",
+        "address":"حي العزوني مغنية",
         "specialty":"Mgénéral"
       },
        {
-        "name":"",
-        "phone":"",
-        "address":"",
+        "name":"عبدالعالي عمر",
+        "phone":"0771325044",
+        "address":"رقم 4رائد جابر وسط المدينة تلمسان",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"طير عبد الله",
+        "phone":"0550569203",
+        "address":"المؤسسة العمومية للصحة الجزائرية مغنية",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"بلحاج ياسر",
+        "phone":"0777537338",
+        "address":"فلاوسن بالقرب من الدائرة",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"عزوني هدايات",
+        "phone":"0553854566",
+        "address":"حي 1060 مسكن عمارة P رقم 3",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"معاصري محمد",
+        "phone":"0696357234"
+        "address":"حي القلعة،نهج بالحبيب جمال .تلمسان",
         "specialty":"Dentiste"
       },
      {
+        "name":"بوزيان عزالدين",
+        "phone":"0661226278"
+        "address":"Cité Kiffane section 151",
+        "specialty":"Orl"
+      },
+      {
+        "name":"عابد عبدالقادر",
+        "phone":"0672968487",
+        "address":"عين تالوت ، عين نكروف رقم البيت",
+        "specialty":"Ophtalmologie"
+      },
+        {
+        "name":"بيبون زوجة طفياوي",
+        "phone":"0659771772",
+        "address":"07 cité Bel Horizon",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"عمور نعيمة",
+        "phone":"0699050202",
+        "address":"Cité l'Abattoir rue 0 n° 16",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"حياة بوعالي",
+        "phone":"0661227213",
+        "address":"Cité Abou-Tachfine",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"مقراني بومدين",
+        "phone":"0666414857",
+        "address":"01, Rue des frères Zerrouki cité El-Kalâa",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"عمور نعيمة",
+        "phone":"0699050202",
+        "address":"Cité l'Abattoir rue 0 n° 16",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"بورصالي سيدي محمد",
+        "phone":"0794285134",
+        "address":"مستشفى شعبان حمدون .مغنية .تلمسان",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"سلاجي محمد",
+        "phone":"0770763030",
+        "address":"2 allée des pins en face fac des médcins Tlemcen",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"كازي اول شفيق",
+        "phone":"0773981088",
+        "address":"01, Bd Larbi Benmehidi (Les Amandiers)",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"صبية مراد",
+        "phone":"0560257995",
+        "address":"Rue des Martyrs n° 02 - Ghazaouet",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"ستوتي ابراهيم",
+        "phone":"0556238317",
+        "address":"Oudjelida Bt  B1  - Tlemcen TLEMCEN",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"فرحات بيداوي",
+        "phone":"0774741478",
+        "address":"Cité  Les Castors  n° 06 - Sebdou SEBDOU",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"مهدي زكريا مزوار",
+        "phone":"0540634379",
+        "address":"العنوان الافق الجميل مقابل شبه طبي",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"شوقي بن عامر",
+        "phone":"0771452785",
+        "address":"Cité des 20 Villas n° MC 03 B Imama ",
+        "specialty":"Orthopédique"
+      },
+      {
+        "name":"طالب سيد احمد",
+        "phone":"0552945863",
+        "address":"02 Rue Boukli hassen mohamed el kalaa",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"نوال بوشناق",
+        "phone":"0561351803",
+        "address":"101 عمارة k 270 مسكن شتوان",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"بن منصور محمد لطفي",
+        "phone":"0772350985",
+        "address":"Lot 121 groupe de propriété n° 88 Kiffane",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"بن دادوش هشام",
+        "phone":"0770996870",
+        "address":"Cité les Oliviers 1060 logts Bt  F  n° 12",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"سيدي محمد بركسي رقيق",
+        "phone":"0552621281",
+        "address":"Rue Feddan Sebâa, Ghers",
+        "specialty":"Neurologie"
+      },
+       {
+        "name":"حكيم آيت عبد الرحيم",
+        "phone":"0778325881",
+        "address":"حي النسيم _ إمامة مقابل مديرية",
+        "specialty":"Neurologie"
+      },
+      {
+        "name":"بركسي رقيق محمد امين",
+        "phone":"0772864304",
+        "address":"11, Bd Henaoui Belkacem groupe de propriété n° 56",
+        "specialty":"Penumologie"
+      },
+       {
+        "name":"حكيم آيت عبد الرحيم",
+        "phone":"0778325881",
+        "address":"حي النسيم _ إمامة (مقابل مديرية التجارة لتلمسان)",
+        "specialty":"Penumologie"
+      },
+       {
+        "name":"كمال بلعياشي",
+        "phone":"0552788359",
+        "address":"Bab El Hdid, section 206",
+        "specialty":"Urologie"
+      },
+     {
+        "name":"بن عزة عبد الرحيم",
+        "phone":"0776893245",
+        "address":"مقابل مركز بودغن تلمسان",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"بن عزة عبد الرحيم",
+        "phone":"0776893245",
+        "address":"مقابل مركز بودغن تلمسان",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"عياد عبدالرحمن",
+        "phone":"0794534418",
+        "address":"حي سيدي عبدالرحمن دائرةأولادميمون",
+        "specialty":"Endocrinolog"
+      },
+        {
         "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"بن دحمان ياسمين",
+        "phone":"0774737809",
+        "address":"Lot Kiffane n° 546",
+        "specialty":"Minterne"
+      },
+       {
+        "name":"خليفي عباس",
+        "phone":"0556949307",
+        "address":"N° 08, cité Tafna groupe de propriété n° 274",
+        "specialty":"Minterne"
+      },
+       {
+        "name":"ثابتي امينة",
+        "phone":"0770936417",
+        "address":"Cité Tafna Bt J bloc n° 01, section 207 groupe",
+        "specialty":"Minterne"
+      } 
+    ]
+  },
+ {
+    "stateName": "Tiaret",
+    "doctors": [
+     {
+        "name":"بوحادة يوسف",
+        "phone":"0772106636",
+        "address":"شارع الحمداني أدا مهدية ولاية تيارت",
+        "specialty":"Mgénéral"
+      },
+        {
+        "name":"بلهوشات عبدالقادر",
+        "phone":"0775486098",
+        "address":"حي النصر مهدية تيارت",
+        "specialty":"Mgénéral"
+      },
+        {
+        "name":"معسكري محمد",
+        "phone":"0775549582",
+        "address":"طريق بوقطوطة، قرية توى مهدية",
+        "specialty":"Mgénéral"
+      },
+        {
+        "name":"تازمالت",
+        "phone":"0791909806",
+        "address":"تيارت",
+        "specialty":"Mgénéral"
+      },
+        {
+        "name":"زيات أحمد",
+        "phone":"0771282879",
+        "address":"قصر الشلالة ولاية تيارت",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"الدكتور عراب",
+        "phone":"0699581243",
+        "address":"حي شعطوطة بجانب صيدلية خياطي",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"خالد زواوي",
+        "phone":"0774188335",
+        "address":"حي الإخوة بن صغير",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"بكي سمية",
+        "phone":"0797986898",
+        "address":"شارع خويدمي عبدقادر بجانب محطة",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"ايت سعيد بلعيد",
+        "phone":"0778619514",
+        "address":"Rue colonel amirouch n68, 14003 Sougueur",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"عيادة د صدوقي",
+        "phone":"0658091727",
+        "address":"تيارت",
+        "specialty":"Dentiste"
+      },
+     {
+        "name":"عراب محمد",
         "phone":"",
         "address":"",
         "specialty":"Orl"
@@ -2922,9 +3197,6 @@
         "address":"",
         "specialty":"Minterne"
       },
-    
-    
-    
     ]
   },
   {
@@ -3049,10 +3321,6 @@
   },
   {
     "stateName": "Tarf",
-    "doctors": []
-  },
-  {
-    "stateName": "Tiaret",
     "doctors": []
   },
   {
