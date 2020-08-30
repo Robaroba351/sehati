@@ -765,6 +765,217 @@
     ]
   },
   {
+    "stateName": "Laghout",
+    "doctors": [
+     {
+        "name":"ياسين بنور",
+        "phone":"0661187880",
+        "address":"مؤسسة الصحة العمومية الجوارية",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"حبيبة بوعبد الله",
+        "phone":"0550771433",
+        "address":"الدرعام,الوحدة الصحية دوامي علي",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"الدكتور قريشي ثامر",
+        "phone":"0770526895",
+        "address":"شارع الأمير عبد القادر",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"بشير بن الصغير",
+        "phone":"0675248584",
+        "address":"حي 08ماي 1945",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"الطبيبة بعزي فاطمة",
+        "phone":"0672241424",
+        "address":"بلدية البيضاء ولاية الأغواط",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"زواوي احمد",
+        "phone":"0671990673",
+        "address":"بلدية الحاج المشري دائيرة بريد",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"الدكتورة حني دنيا",
+        "phone":"0551566237",
+        "address":"عيادة طب الأسنان الندى الوام",
+        "specialty":"Dentiste"
+      },
+      {
+        "name":"الدكتور رابحي مبروك",
+        "phone":"0772025025",
+        "address":"حي الوئام الاغواط",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"خليفي عبد الحميد",
+        "phone":"0790024000",
+        "address":"الأغواط",
+        "specialty":"Dentiste"
+      },
+      {
+        "name":"بن عمر أحمد",
+        "phone":"0780118006",
+        "address":"الأغواط",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"علوط نور الهدى",
+        "phone":"0676458995",
+        "address":"الأغواط",
+        "specialty":"Dentiste"
+      },
+      {
+        "name":"زيتوني مراد",
+        "phone":"0663591664",
+        "address":"الأغواط",
+        "specialty":"Dentiste"
+      },
+      {
+        "name":"أولمهدي وداد",
+        "phone":"0656769557",
+        "address":"حي الوئام مقابل عمارات صحراوي",
+        "specialty":"Dentiste"
+      },
+        {
+        "name":"مايدي مريم",
+        "phone":"0550175094",
+        "address":"الأغواط",
+        "specialty":"Dentiste"
+      }, 
+     {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Orl"
+      },
+        {
+        "name":"شتيح رقية",
+        "phone":"",
+        "address":"شارع الإستقلال",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"حارك خديجة",
+        "phone":"0665767508",
+        "address":"حي الساسي بولفعة 728، الأغواط",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"علالي نصر الدين",
+        "phone":"0771620344",
+        "address":"الأغواط",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"طالب مهيري نعيمة",
+        "phone":"0662591241",
+        "address":"حي الغربية",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"مخلوفي حواء",
+        "phone":"0792130019",
+        "address":"الأغواط",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"بلحبيب سارة",
+        "phone":"0698218882",
+        "address":"الخنق",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"قنو خديجة",
+        "phone":"0558406997",
+        "address":"الأغواط",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"بن رحال رتيبة",
+        "phone":"0663221438",
+        "address":"شارع الاستقلال",
+        "specialty":"Orthopédique"
+      },
+      {
+        "name":"عطية نورالدين",
+        "phone":"0667713513",
+        "address":"شارع العقيد لطفي",
+        "specialty":"Orthopédique"
+      },
+      {
+        "name":"احمد خرصي",
+        "phone":"0665297562",
+        "address":"مستشفى احمد ابن عجيلة",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"رماش جلول",
+        "phone":"0780035355",
+        "address":"المجمع الطبي",
+        "specialty":"Cardiologie"
+      },
+     {
+        "name":"لعساكر الحاج سليمان",
+        "phone":"559385903",
+        "address":"الأغواط",
+        "specialty":"Neurologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"مالكي عيسى",
+        "phone":"0778251803",
+        "address":"الأغواط",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"نازف نسيم",
+        "phone":"0542094198",
+        "address":"الوئام (الشارع المقابل لعيادة سيفون)",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"كمارا عمر",
+        "phone":"0550909111",
+        "address":"الأغواط",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"الرمة بشير",
+        "phone":"0661640101",
+        "address":"المجمع الطبي",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Minterne"
+      }
+    ]
+  },
+   {
+    "stateName": "Béjaia",
+    "doctors": [
+    
+    
+    
+    ]
+  },
+  {
     "stateName": "Annaba",
     "doctors": []
   },
@@ -800,10 +1011,7 @@
     "stateName": "Béchar",
     "doctors": []
   },
-  {
-    "stateName": "Béjaia",
-    "doctors": []
-  },
+ 
   {
     "stateName": "Chlef",
     "doctors": []
