@@ -3121,74 +3121,158 @@
       },
      {
         "name":"عراب محمد",
-        "phone":"",
-        "address":"",
+        "phone":"0542824349",
+        "address":"تيارت",
         "specialty":"Orl"
       },
+       {
+        "name":"د بن طاهر",
+        "phone":"0782349626",
+        "address":"تيارت",
+        "specialty":"Ophtalmologie"
+      },
         {
-        "name":"",
-        "phone":"",
-        "address":"",
+        "name":"بن معزوز ش",
+        "phone":"0553264018",
+        "address":"حي التفاح تيارت",
         "specialty":"Ophtalmologie"
       },
        {
-        "name":"",
-        "phone":"",
-        "address":"",
+        "name":"الحكيمة بوخاري ر",
+        "phone":"0697114240",
+        "address":"حي الاخوة قيطون عمارة 50 رقم 04",
         "specialty":"Pédiatrie"
       },
        {
-        "name":"",
-        "phone":"",
-        "address":"",
+        "name":"عيادة دكتور شيخي",
+        "phone":"0662673908",
+        "address":"249 rue messéri djilali eplf tiaret",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"باية أمحمد",
+        "phone":"0783137089",
+        "address":"حي الفريقو مقابل ثانوية الرائد زوبير",
         "specialty":"Gynécologie"
       },
       {
-        "name":"",
-        "phone":"",
-        "address":"",
+        "name":"مداح أمال",
+        "phone":"0555591084",
+        "address":"فرندة حي لاكراش",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"هدو بو عبد الله",
+        "phone":"0772177516",
+        "address":"Tiaret Cité 63 LogtsBt 05 Volani",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"بوفارس سعاد",
+        "phone":"775706783",
+        "address":"طريق ملعب ايت عبدلرحيم عمارة A",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"الطبيب غزال سفيان",
+        "phone":"0779594556",
+        "address":"التفاح",
+        "specialty":"Orthopédique"
+      },
+      {
+        "name":"الدكتور بولنوار",
+        "phone":"0771387227",
+        "address":"Boulevard freres SAADI, Tiart",
         "specialty":"Orthopédique"
       },
        {
-        "name":"",
-        "phone":"",
-        "address":"",
+        "name":"سنيسنة",
+        "phone":"0778379659",
+        "address":"تيارت",
         "specialty":"Cardiologie"
       },
+       {
+        "name":"بلهوشات عبدالقادر",
+        "phone":"0664665535",
+        "address":"شارع الامير عبدالقادر مهدية تيارت",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"الدكتور تازمالت محمد",
+        "phone":"0791909806",
+        "address":"تيارت",
+        "specialty":"Cardiologie"
+      }, 
      {
-        "name":"",
-        "phone":"",
-        "address":"",
+        "name":"ممدود امين",
+        "phone":"0673464647",
+        "address":"Cité des 200 logements route d’Alger Tiaret",
         "specialty":"Neurologie"
       },
+        {
+        "name":"اومان رابح",
+        "phone":"0551373700",
+        "address":"تيارت",
+        "specialty":"Penumologie"
+      },
       {
-        "name":"",
-        "phone":"",
-        "address":"",
+        "name":"د مريح ف",
+        "phone":"0777010203",
+        "address":"ADS / tiaret",
         "specialty":"Penumologie"
       },
      {
-        "name":"",
-        "phone":"",
-        "address":"",
+        "name":"بنية أمحمد",
+        "phone":"0552851508",
+        "address":"حي الشهداء فيلا رقم 5 تيارت مقابل العيادة متعددالخدمات la cada  ",
         "specialty":"Urologie"
       },
+        {
+        "name":"مدام بلحاج",
+        "phone":"0777083469",
+        "address":"تيارت",
+        "specialty":"Digestif"
+      },
+        {
+        "name":"دكتور بلعربي",
+        "phone":"0770182883",
+        "address":"1 CITE 63 LOGTS BT A 1 RTE DE AIN GUESMA Tiaret",
+        "specialty":"Digestif"
+      },
       {
-        "name":"",
-        "phone":"",
-        "address":"",
+        "name":"معتوق",
+        "phone":"0550755556",
+        "address":"تيارت",
         "specialty":"Digestif"
       },
     {
-        "name":"",
-        "phone":"",
-        "address":"",
+        "name":"بوخاتم",
+        "phone":"0561322233",
+        "address":"تيارت",
+        "specialty":"Endocrinolog"
+      },
+       {
+        "name":"منتفخ",
+        "phone":"0540185663",
+        "address":"تيارت",
         "specialty":"Endocrinolog"
       },
         {
-        "name":"",
-        "phone":"",
-        "address":"",
+        "name":"دكتور شهروري محمد رضا",
+        "phone":"0667838074",
+        "address":"شارع 78 ، شارع يوسف دمرجي للمستشفى ",
+        "specialty":"Endocrinolog"
+      },
+       {
+        "name":"بن عواد خديجة",
+        "phone":"0795198627",
+        "address":"حي ٢٠سكن غليزان",
+        "specialty":"ChirurgieG"
+      },
+        {
+        "name":"زمار الشريف",
+        "phone":"0663400519",
+        "address":"قصر الشلالة",
         "specialty":"ChirurgieG"
       },
     {
@@ -3196,7 +3280,7 @@
         "phone":"",
         "address":"",
         "specialty":"Minterne"
-      },
+      }
     ]
   },
   {
