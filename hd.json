@@ -6290,6 +6290,203 @@
       }
     ]
   },
+   {
+    "stateName": "Médéa",
+    "doctors": [
+    {
+        "name":"عريب عمر",
+        "phone":"0674105623",
+        "address":"عيادة حي واد القلات البرواقية",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"بن عروس كمال",
+        "phone":"0664236227",
+        "address":"مقابل ثانوية بن عليا يحي",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"حسين رازم",
+        "phone":"0771567738",
+        "address":"المدية",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"زميرلين سعد الدين",
+        "phone":"0776557005",
+        "address":"QUARTIER AIN ELKBIR  MEDEA",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"صبيح محمد شريف",
+        "phone":"0772316608",
+        "address":"QUARTEIR M'SALLAH MEDEA",
+        "specialty":"Orl"
+      },
+       {
+        "name":"الدكتور ابراهيم سمون",
+        "phone":"0551480738",
+        "address":"حي المحطة القديمةبن مزيان البرواقية المدية",
+        "specialty":"Orl"
+      },
+       {
+        "name":"منصور فوضيل",
+        "phone":"0558901897",
+        "address":"QUARTIER M'SALLA BATI/14/01 MEDEA",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"شوقي مازيغي",
+        "phone":"",
+        "address":"Cité 20 Logts Route d'Alger",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"حفيضة زيراركا",
+        "phone":"0556993269",
+        "address":"بن شكاو-المدية",
+        "specialty":"Pédiatrie"
+      },
+        {
+        "name":"دكتور كمال زميرلين",
+        "phone":"0551279754",
+        "address":"حي عين الكبير المدية",
+        "specialty":"Pédiatrie"
+      },
+        {
+        "name":"كرشي حسنة",
+        "phone":"0550609861",
+        "address":"QUARTIER M'HAMDI N°04 BERROUAGHIA",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"مرواني سهام",
+        "phone":"0795250241",
+        "address":"QUARTIER M'SALLAH BT BERBER N° 01 MEDEA",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"روابحي علي",
+        "phone":"0561181487",
+        "address":"QUARTIER EL GHERBI AIN BOUCIF",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"لشهب صهيب",
+        "phone":"0557104243",
+        "address":"QUARTIER HANTABLI N 12 BERROUAGHIA",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"العشناني نجيب",
+        "phone":"0772901263",
+        "address":"QUARTIER FONCTIONNAIRE M'SALA COMLEXE N053 146 N°97",
+        "specialty":"Orthopédique"
+      },
+        {
+        "name":"شايب مليكة",
+        "phone":"0663593221",
+        "address":"QUARTIER OUED GLETT BERROUAGHIA",
+        "specialty":"Orthopédique"
+      },
+          {
+        "name":"محيوف حبيبة",
+        "phone":"0799344674",
+        "address":"OUED LOUGLET BERROUAGHIA",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"رؤوف بن حوحو",
+        "phone":"0661812227",
+        "address":"Rue amir abdelkader lot 25 medea",
+        "specialty":"Cardiologie"
+      },
+     {
+        "name":"نصرالدين زوار",
+        "phone":"0780475273",
+        "address":"دائرة بني سليمان ولاية المدية",
+        "specialty":"Neurologie"
+       }, 
+       {
+        "name":"عيسات فريدة",
+        "phone":"0555162665",
+        "address":"QUARTIER AIN ELKBIR MEDEA",
+        "specialty":"Neurologie"
+       }, 
+        {
+        "name":"محمد صلاح يالا",
+        "phone":"",
+        "address":"CITE 20 LOGTS N° 09 MEDEA",
+        "specialty":"Neurologie"
+       }, 
+       {
+        "name":"حميدي سميرة",
+        "phone":"0556732404",
+        "address":"QUARTIE BALKHIRAT MANSOR BT 02/49 KSAR EL BOUKHARI",
+        "specialty":"Penumologie"
+      },
+       {
+        "name":"حميدوش حكيمة",
+        "phone":"0654676366",
+        "address":"POLE URBIN N°01 BT B5 MEDEA",
+        "specialty":"Penumologie"
+      },
+      {
+        "name":"حمراوي سمير",
+        "phone":"0555871161",
+        "address":"QUARTIER M'HAMDI N°135 BERROUAGHIA",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"حمداني عزالدين",
+        "phone":"0550241075",
+        "address":"QUARTIER HANTABLI N 12 BERROUAGHIA",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"الدكتور طيبي",
+        "phone":"",
+        "address":"بني سليمان",
+        "specialty":"Digestif"
+      },
+       {
+        "name":"بن زينب مراد",
+        "phone":"0772522061",
+        "address":"طريق الجزائر بجانب مسجد الفرقان المدية",
+        "specialty":"Endocrinolog"
+      },
+    {
+        "name":"زيتوني شفيق",
+        "phone":"0661311680",
+        "address":"QUARTIER 05 JUILLET THINIET EL HDJER",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"طبيب الزوالي",
+        "phone":"0674671418",
+        "address":"واد الڨلات البرواڨية المدية",
+        "specialty":"ChirurgieG"
+      },
+      {
+        "name":"بن غيتة فيصل",
+        "phone":"0665753907",
+        "address":"QUARTIER OUED GLETT BERROUAGHIA",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"منصور نصيرة",
+        "phone":"0772846452",
+        "address":"QUARTIER 24 FEVRIER BT303 N°06 MEDEA",
+        "specialty":"Minterne"
+      },
+       {
+        "name":"تواتي حسن",
+        "phone":"0552754865",
+        "address":"QUARTIER MORDJ ELCHKIR BT 15 N°01 MEDEA",
+        "specialty":"Minterne"
+      } 
+    ]
+  },
   {
     "stateName": "Bayadh",
     "doctors": []
@@ -6344,10 +6541,6 @@
   },
   {
     "stateName": "Mostaganem",
-    "doctors": []
-  },
-  {
-    "stateName": "Médéa",
     "doctors": []
   },
   {
