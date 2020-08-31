@@ -6966,6 +6966,227 @@
     
     ]
   },
+    {
+    "stateName": "Mascara",
+    "doctors": [
+    {
+        "name":"بلقاسم وهيب",
+        "phone":"0770405738",
+        "address":"Cite des Fonctionnaires / Bat Noirs . Mascara",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"شنوفي حبيب",
+        "phone":"0549369682",
+        "address":"حي سيدي سنوسي .تيغنيف.معسكر",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"ليليا عبد الحميد",
+        "phone":"0794579365",
+        "address":"سيق ولاية معسكر  عيادة جراحة الاطفال لي الدكتورة ليليا عبد الحميد",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"رميل منير",
+        "phone":"0551479509",
+        "address":"واد الابطال معسكر",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"غراب يمينة",
+        "phone":"0799326107",
+        "address":"La Zone 8 mascara (A coté du nouvel hôpital ), Mascara",
+        "specialty":"Dentiste"
+      },
+         {
+        "name":"بوشنتوف انور",
+        "phone":"0662454022",
+        "address":"9 RUE mohamed tounesi, Mascara",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"د لخضاري",
+        "phone":"",
+        "address":"عنوان عمارة240 سكن طريق البرج تيغنيف معسكر",
+        "specialty":"Orl"
+      },
+      {
+        "name":"بوصالح. س",
+        "phone":"0559439253",
+        "address":"شارع طاسولي عبدالله.سيق. ",
+        "specialty":"Ophtalmologie"
+      },
+      {
+        "name":"بديدي عبد المجيد",
+        "phone":"0771839845",
+        "address":"Mascara Cité Emir AEK Zone 08 Stade nedjma",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"عيد فوزية",
+        "phone":"0561343244",
+        "address":"04 Rue Senouci Abdelkader, Mascara",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"خالد البودالي",
+        "phone":"0555084401",
+        "address":"شارع بوداع طاهر.  معسكر",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"نحنوح نوار",
+        "phone":"0771615687",
+        "address":"معسكر",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"شلال غزلان",
+        "phone":"0697334142",
+        "address":"Teghenif centre",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"د بيوض زوجة بن شني",
+        "phone":"0561947222",
+        "address":" 84 cité 300 logt Mohammadia mascara",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"دمرجي ڜريفة",
+        "phone":"0557620715",
+        "address":"تيغنيف 250 مسكن",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"د جعفري",
+        "phone":"",
+        "address":"حي سيدي سنوسي تيغنيف معسكر",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"د حيدرة",
+        "phone":"0783320484",
+        "address":"G5 120 logements sig حي عبد الحق بن حمودة",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"مسلم عبد الرزاق",
+        "phone":"0775951812",
+        "address":"شارع محمد التونسي مقابل الدرك الوطني معسكر",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"السيد حساني عبد القادر",
+        "phone":"0790052373",
+        "address":"مقابل قاعة متعددة الرياضات تيغنيف معسكر",
+        "specialty":"Orthopédique"
+      },
+      {
+        "name":"براشد صغير",
+        "phone":"0697287118",
+        "address":"مقابل طاكسي 300 مسكن محمدية بريقو معسكر",
+        "specialty":"Orthopédique"
+      }, 
+       {
+        "name":"رفيق ماحي عمر",
+        "phone":"0560649420",
+        "address":"Sig, Mascara N°86 Rue Sebbihi Abdelkader",
+        "specialty":"Cardiologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Cardiologie"
+      },
+      {
+        "name":"بن خطاب",
+        "phone":"0556019593",
+        "address":"Mascara Hai Mowadafine N°B11",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"سبيح",
+        "phone":"0552956244",
+        "address":"حي 100سكن dnc",
+        "specialty":"Cardiologie"
+      },
+{
+        "name":"سفيان منصورة",
+        "phone":"0550109574",
+        "address":"معسكر,مدينة 100 مسكن رقم البناء 6f رقم 150",
+        "specialty":"Neurologie"
+       }, 
+     {
+        "name":"الدكتور غربي طبيب",
+        "phone":"0665555387",
+        "address":"28,Avenue Mohamed tounsi , Mascara",
+        "specialty":"Neurologie"
+       },  
+      {
+        "name":"جبري كمال",
+        "phone":"0777727210",
+        "address":"78,Rue El Qods-1er étage- Mohammadia -Mascara-",
+        "specialty":"Penumologie"
+      },
+        {
+        "name":"هلال وليد",
+        "phone":"0798358174",
+        "address":"Mascara CitéZhun 08 Bloc Sonelga",
+        "specialty":"Urologie"
+      },
+     {
+        "name":"د حملات عبد الحق",
+        "phone":"0663839821",
+        "address":"Sidi Senouci, cité 40 logements LSP, Tighennif mascara",
+        "specialty":"Urologie"
+      },
+       {
+        "name":"بوغناية سعيد نصر الدين",
+        "phone":"0664812453",
+        "address":"7 Rue Zighout Youcef.  SIG. MASCARA",
+        "specialty":"Digestif"
+      },
+      {
+        "name":"مختار خروبي خديجة",
+        "phone":"0551371993",
+        "address":"حي 30 مسكن شارع ريح صافي العمارة 1 معسكر",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"قاسمي يوسف",
+        "phone":"0773246220",
+        "address":"Zone08 cite des 614 BT2 E A B 586 Mascara",
+        "specialty":"Endocrinolog"
+      },
+      {
+        "name":"عدة بن عطية محمد",
+        "phone":"0773354721",
+        "address":"Cité 300 logements, Mohammadia, MASCARA",
+        "specialty":"ChirurgieG"
+      },
+        {
+        "name":"درقال عبد الحفيظ",
+        "phone":"0661270345",
+        "address":"Cite des fonctionnaires, fg sidi moufok, Mascara",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"بن يمينة احمد",
+        "phone":"0662129274",
+        "address":"CITE AMIR ABDELKADER EN FACE EGA Mascara, Mascara(29",
+        "specialty":"Minterne"
+      },
+       {
+        "name":"بن موسى ماحي",
+        "phone":"0777881196",
+        "address":"شارع بن زهرة ع القادر، المحمدية، 6 معسكر قريب من العيادة، ولاية معسكر",
+        "specialty":"Minterne"
+      }
+    ]
+  },
   {
     "stateName": "Bayadh",
     "doctors": []
@@ -7004,10 +7225,6 @@
   },
   {
     "stateName": "Laghouat",
-    "doctors": []
-  },
-  {
-    "stateName": "Mascara",
     "doctors": []
   },
   {
