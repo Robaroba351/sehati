@@ -3283,6 +3283,646 @@
       }
     ]
   },
+ {
+    "stateName": "TiziOuzou",
+    "doctors": [
+       {
+        "name":"آيت محند السعيد صالح",
+        "phone":"0550349861",
+        "address":"Ouacif centre ,wilaya de tizi ou zou",
+        "specialty":"Mgénéral"
+      },
+        {
+        "name":"مراد كدير",
+        "phone":"0561837373",
+        "address":"حي الإخوة خليل ع 03",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"عرابي صبرينة",
+        "phone":"0777456227",
+        "address":"شارع لا لة فاطمة دراع الميزان",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"طالبي إسماعيل",
+        "phone":"0772605946",
+        "address":"Lot Nord proprieté Yamani coop colonel Ouamrane ouamrane D.E.Mizan",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"تمحجلت سليم",
+        "phone":"",
+        "address":"سوق الحد . مبنى تمازيرت",
+        "specialty":"Dentiste"
+      },
+      {
+        "name":"سيفر جميلة",
+        "phone":"0773247150",
+        "address":"2Rue des frères HAOUCHINE Tizi Ouzou",
+        "specialty":"Orl"
+      },
+      {
+        "name":"بوشقور كريم",
+        "phone":"0772901224",
+        "address":"Cité 400 logts, Bt E, N°92, Escalier 02 D.B.Khedda",
+        "specialty":"Orl"
+      },
+     {
+        "name":"إسماعيل كرجة",
+        "phone":"0663454468",
+        "address":"Route de Yakourene-Azazga",
+        "specialty":"Orl"
+      },
+        {
+        "name":"هنودة اميرة صورية",
+        "phone":"0662500207",
+        "address":"Vge Tizi Bouchene, prop MEZIANI local A Azazga",
+        "specialty":"Ophtalmologie"
+      },
+        {
+        "name":"سامية عبد الكريم",
+        "phone":"0771686447",
+        "address":"cité 60 logts CNEP DEM D.E.Mizan",
+        "specialty":"Ophtalmologie"
+      },
+        {
+        "name":"معطوب زهور",
+        "phone":"0662227808",
+        "address":"Immeuble Abdelli place 1er Novembre Tizi Ouzou",
+        "specialty":"Ophtalmologie"
+      },
+        {
+        "name":"شعبان شاوش وحيد",
+        "phone":"0557457869",
+        "address":"rue frères HAOUCHINE Tizi Ouzou",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"الطبيبة بوألدي",
+        "phone":"0551567554",
+        "address":"فريحة ولاية تيزي وزو",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"عوالي",
+        "phone":"0775867680",
+        "address":"Nouvelle ville tiziouzou",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"يعقوب عمار",
+        "phone":"0554383106",
+        "address":"106Rue KHODJA Khaled Tizi Ouzou",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"هابل سعدية",
+        "phone":"0552696842",
+        "address":"Zhun sud quartier B illot 10 N° A Tizi Ouzou",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"سعدية طهراوي",
+        "phone":"0776256814",
+        "address":"Cité 600 logements bâtiment b n°46 nouvelle ville",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"كمال حميد",
+        "phone":"0773501871",
+        "address":"Zhun sud quartier B Illot 10 N° B Tizi Ouzou",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"عياد فريد",
+        "phone":"0771587524",
+        "address":"Bd KRIM Belkacem Ouadhias",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"يرفة فريد",
+        "phone":"0560130407",
+        "address":"Coop imm col OUAMRANE, local 1, 1er étage D.E.Mizan",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"جلال ناصر",
+        "phone":"0556456960",
+        "address":"Lotissement Thala ex Stade 1er Novembre Tizi Ouzou",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"ربوح مولود",
+        "phone":"0770946452",
+        "address":"Azazga centre (prop ARRRIS) Azazga",
+        "specialty":"Orthopédique"
+      },
+      {
+        "name":"دابلي حميد",
+        "phone":"",
+        "address":"Cité 250 logts Bt E/1 esc1 RDC n°77 Boghni",
+        "specialty":"Orthopédique"
+      },
+        {
+        "name":"طاحيني جمال",
+        "phone":"0772512727",
+        "address":"Boulvard HADDAG Med Amokrane local n° 3 proprieté SAADI cne Azazga Azazga",
+        "specialty":"Cardiologie"
+      },
+        {
+        "name":"ملبوسي محند",
+        "phone":"0773842771",
+        "address":"Cité les genets BT C N° 15 Tizi Ouzou",
+        "specialty":"Cardiologie"
+      },
+        {
+        "name":"آيت علي مليكة",
+        "phone":"0772228116",
+        "address":"coop imm Panorama, local 4, lot111, HasnaouaTizi Ouzou",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"منصوري عمار",
+        "phone":"0771235625",
+        "address":"3Rue KHodja Khaled N° 106 Tizi Ouzou",
+        "specialty":"Cardiologie"
+      },
+      {
+        "name":"د مقنی",
+        "phone":"0541376007",
+        "address":"وراء المحطه القدیمه للمسافرین  ولاية  تيزي وزو",
+        "specialty":"Neurologie"
+      }, 
+     {
+        "name":"أماني محند اوسعد",
+        "phone":"",
+        "address":"Cité 48 logts Bt 1 N°2 Tizi Ouzou",
+        "specialty":"Neurologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"عمرون احسين",
+        "phone":"0661401153",
+        "address":"place stade 1 Nov prop ABDELLI 2e étage N4C Tizi Ouzou",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"جوهر يوسف",
+        "phone":"",
+        "address":"Lotisment HASNAOUA Tizi Ouzou",
+        "specialty":"Digestif"
+      },
+      {
+        "name":"باي فتيحة",
+        "phone":"0779335810",
+        "address":"Cité 62 logts Bt C N°26 D.B.Khedda",
+        "specialty":"Endocrinolog"
+      },
+      {
+        "name":"نعيمة عنان",
+        "phone":"0771646849",
+        "address":"Zhun Sud Quartier A N° 29 Tizi Ouzou",
+        "specialty":"Endocrinolog"
+      },
+      {
+        "name":"الكيشاي إلياس",
+        "phone":"0771441506",
+        "address":"cité 11 décembre Bt 02 Pôrte n° 18 Tizi Ouzou",
+        "specialty":"Endocrinolog"
+      },
+      {
+        "name":"تسعدت بن بوعبد الله",
+        "phone":"",
+        "address":"Cité 48 logts Bt A N°04 Tizi Ouzou",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"آيت مولا محمد صلاح",
+        "phone":"",
+        "address":"cité 6 logts Bt 1 Esc 1 RDC n°4 D.E.Mizan",
+        "specialty":"ChirurgieG"
+      },
+       {
+        "name":"شريفي نور",
+        "phone":"",
+        "address":"Bd de l'Emir Abdelkader Azazga",
+        "specialty":"Minterne"
+      },
+       {
+        "name":"علي الشرادي",
+        "phone":"",
+        "address":"Cité Khellil bt 11 n6 Draa Benkhedda",
+        "specialty":"Minterne"
+      },
+    {
+        "name":"بن ناصر صليحة",
+        "phone":"",
+        "address":"Cité les genets Bt C N° 24 Tizi Ouzou",
+        "specialty":"Minterne"     }
+    }
+    ]
+  },
+ {
+    "stateName": "Djelfa",
+    "doctors": [
+       {
+        "name":"نور الدين مختاري",
+        "phone":"0699450821",
+        "address":"حي عين اسرار 718/14 الجلفة",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"عزي بوعلام",
+        "phone":"0661638353",
+        "address":"حي 05 جويلية",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"دبوز محمد",
+        "phone":"0555349151",
+        "address":"حي عين الشيح 15/241",
+        "specialty":"Mgénéral"
+      },
+         {
+        "name":"بورحلة محمد لياس",
+        "phone":"0551360857",
+        "address":"حي بن عزيز بناية 74",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"قويدر ونوقي",
+        "phone":"0776122399",
+        "address":"شارع فلسطين بناية 174 رقم 81",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"نعيم ناعم",
+        "phone":"0791699961",
+        "address":"حي مسعودي",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"فيروز بن سيد",
+        "phone":"0773501371",
+        "address":"حي الفصحى بناية 45 رقم 71",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"الدكتور موفق احمد",
+        "phone":"0665100056",
+        "address":"حي الحدائق مقابل متوسطة بالحواجب",
+        "specialty":"Mgénéral"
+      },
+        {
+        "name":"عبدالرحمان برمان",
+        "phone":"0664213694",
+        "address":"حي البناء الذاتي",
+        "specialty":"Mgénéral"
+      },
+        {
+        "name":"لهطيل",
+        "phone":"0660931348",
+        "address":"بجانب الدرك الوطني .حاسي بحبح",
+        "specialty":"Mgénéral"
+      },
+        {
+        "name":"عروي مصطفى",
+        "phone":"0550885594",
+        "address":"حي 55 جويلية عمارة 4",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"شكالي س",
+        "phone":"0561624911",
+        "address":"حي عين الشيح مقابل التكوين المهني اناث",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"عبد الوهاب امير",
+        "phone":"0659845584",
+        "address":"حي باب الشارف مقابل مخبزة سيدي نايل",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"ضامن محمد",
+        "phone":"0698142543",
+        "address":"حي شعباني",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"بسيسة",
+        "phone":"0696780331",
+        "address":"حي فكاني مقابل طريق بوسعادة",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"محمدي عبدالقادر",
+        "phone":"0669796812",
+        "address":"حي بوتريفيس",
+        "specialty":"Dentiste"
+      },
+      {
+        "name":"يوسفي محمد",
+        "phone":"0553335873",
+        "address":"حي عين سرار بجوار الرادار",
+        "specialty":"Orl"
+      },
+      {
+        "name":"بن دكن بوحفص",
+        "phone":"0781990352",
+        "address":"حي قناني الجلفة",
+        "specialty":"Orl"
+      },
+      {
+        "name":"مزوز نورالدين",
+        "phone":"0772343576",
+        "address":"الطريق الجديد الجلفة بوسعادة",
+        "specialty":"Orl"
+      },
+      {
+        "name":"شيحاني عبدالقادر",
+        "phone":"0676368191",
+        "address":"حي غريسي عبدالغاني.عين وسارة",
+        "specialty":"Orl"
+      },
+        {
+        "name":"بوصوار عمر",
+        "phone":"0777701954",
+        "address":"حي عين سرار بجوار الرادار قرب سوق الرحمة",
+        "specialty":"Ophtalmologie"
+      },
+        {
+        "name":"الحاج عيسى ابراهيم",
+        "phone":"0666026600",
+        "address":"بجوار مقهى الرويني",
+        "specialty":"Ophtalmologie"
+      },
+      {
+        "name":"داسة رفيق",
+        "phone":"0662056155",
+        "address":"شارع أحمد بن سعد - البيرين",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"طالب عبدالكريم",
+        "phone":"0667850026",
+        "address":"حي 5 جويلية مقابل مديرية التربية",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"مقار سليم",
+        "phone":"0662237823",
+        "address":"حي 155 دار مقابل مسجد الهدى",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"حناشي امعمر",
+        "phone":"0668852621"",
+        "address":"حي بوتريفيس بجانب محطة البنزين",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"يحياوي مراد",
+        "phone":"0542713104",
+        "address":"حي قناني بناية 485",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"توات عماد",
+        "phone":"0540962197",
+        "address":"مقابل المستشفى عين وسارة",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"ن تابش",
+        "phone":"0794369221",
+        "address":"حي سليماني عميرات مقابل مسجد سيدي نايل",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"ب بن جدو",
+        "phone":"0559096605",
+        "address":"حي بلغزال بناية 867 رقم 15",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"حدوم ليلى",
+        "phone":"0558021945",
+        "address":"طريق التكوين البنات عين وسارة رقم ٦ ",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"بداوي خ",
+        "phone":"0560198815",
+        "address":"حي باب الشارف قريب من مدرسة حنيشي محمدالشمالية ",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"شارف لخضر",
+        "phone":"0774238831",
+        "address":"حي زيغود يوسف عين وسارة الجلفة",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"عمار يونسي",
+        "phone":"0771242577",
+        "address":"حي بربيح خلف إقامة الإناث",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"تونسي ن",
+        "phone":"0553251914",
+        "address":"(شارع سيدي نايل (بجوار محلات كوندور",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"الحكيمة قسمي نعيمة",
+        "phone":"0771084121",
+        "address":"حي البساتين مساكن عدل",
+        "specialty":"Orthopédique"
+      },
+        {
+        "name":"الاندلسي نورالدين",
+        "phone":"0560340406",
+        "address":"(حي 55 جويلية )بزار جواف",
+        "specialty":"Orthopédique"
+      },
+        {
+        "name":"محمد زعيميني",
+        "phone":"0558602766",
+        "address":"حي بلغزال بناية 596 رقم 27",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"م سيجري",
+        "phone":"0771163189",
+        "address":"ساحة محمد بوضياف عمارة 01",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"بن علي موسى",
+        "phone":"0773817025",
+        "address":"ain oussara ville Djelfa",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"لحرش رشيد علي",
+        "phone":"0556355110",
+        "address":"حي بلغزال بالقرب من مسجد بلغزال",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"حاشي ج",
+        "phone":"0553430093",
+        "address":"حي بربيح مقابل مديرية السكن",
+        "specialty":"Cardiologie"
+      },
+      {
+        "name":"بهلول عبدالنور",
+        "phone":"0550851384",
+        "address":"(حي شعباني (طريق جلفة جديدة",
+        "specialty":"Neurologie"
+      },
+    {
+        "name":"محي الدين الهاشمي",
+        "phone":"0541562262",
+        "address":"حي السعادات، مقابل معهد الشبه الطبي",
+        "specialty":"Neurologie"
+      },
+        {
+        "name":"كشيدة محمد عبدالصمد",
+        "phone":"0771889565",
+        "address":"حي دار البارود بناية رقم 427 رقم 6",
+        "specialty":"Penumologie"
+      },
+        {
+        "name":"حاكم",
+        "phone":"0558602766",
+        "address":"حي بلغزال بناية 596 رقم 27",
+        "specialty":"Penumologie"
+      },
+        {
+        "name":"س بجقينة",
+        "phone":"0551500635",
+        "address":"بزار رياض الفتح (جواف) الجلفة",
+        "specialty":"Penumologie"
+      },
+      {
+        "name":"حمرون حسيبة",
+        "phone":"0777079475",
+        "address":"(حي المسجد الجديد (دشرة الخونية",
+        "specialty":"Penumologie"
+      },
+       {
+        "name":"الدكتور حيطاشي",
+        "phone":"0795241345",
+        "address":"عين وسارة ولاية الجلفة",
+        "specialty":"Urologie"
+      },
+       {
+        "name":"شينون محمد",
+        "phone":"0772184804",
+        "address":"حي باب الشارف بناية 93 الجلفة",
+        "specialty":"Urologie"
+      },
+       {
+        "name":"بلغماري ع",
+        "phone":"0552765490",
+        "address":"حي قناني بالقرب من ملعب شيقيفارا",
+        "specialty":"Urologie"
+      },
+       {
+        "name":"بختي ع",
+        "phone":"0698987370",
+        "address":"حي بربيح طريق التكوين المهني الجلفة",
+        "specialty":"Urologie"
+      },
+     {
+        "name":"سبتي",
+        "phone":"0661566024",
+        "address":"حي بن جرمة بالقرب من السوق المغطاة",
+        "specialty":"Urologie"
+      },
+       {
+        "name":"أحمد غولة",
+        "phone":"0775157563",
+        "address":"مسعد ولاية الجلفة",
+        "specialty":"Digestif"
+      },
+      {
+        "name":"غلاب م",
+        "phone":"0551815578",
+        "address":"حي باب الشارف بناية 101-04",
+        "specialty":"Digestif"
+      },
+       { 
+        "name":"كراش ف",
+        "phone":"0791457100",
+        "address":"(حي بوتريفيس فوج 02 (خلف المحطةالحضرية ببحرارة",
+        "specialty":"Endocrinolog"
+      },
+       { 
+        "name":"بن لحرش ك ن",
+        "phone":"0780251105",
+        "address":"جي بوتريفيس طريق بوسعادة 357/02",
+        "specialty":"Endocrinolog"
+      },
+    { 
+        "name":"قزران سالم",
+        "phone":"0555427560",
+        "address":"شارع سيدي نايل بالقرب من النقل",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"صاحب السعيد",
+        "phone":"0771599805",
+        "address":"(حي بن جرمة (بالقرب من السوقالمغطاة",
+        "specialty":"ChirurgieG"
+      },
+        {
+        "name":"غزال احمد",
+        "phone":"0655185477",
+        "address":"Cité Moudjahidine, Messaad, Djelfa",
+        "specialty":"ChirurgieG"
+      },
+         {
+        "name":"خطبات مصطفى",
+        "phone":"0779735574",
+        "address":"حي 26 مسكن بناية 417 رقم 56",
+        "specialty":"Minterne"
+      },
+         {
+        "name":"قية شوقي",
+        "phone":"0559283245",
+        "address":"حي المسجد الجيد بناية 181",
+        "specialty":"Minterne"
+      },
+         {
+        "name":"أحمد دهينة",
+        "phone":"0665125483",
+        "address":"حي الظل الجميل بالقرب من فوج الكشافة",
+        "specialty":"Minterne"
+      },
+      {
+        "name":"ع السعودي",
+        "phone":"0559131385",
+        "address":"حي باب الشارف مقابل النقل الحضري لعين الشيح",
+        "specialty":"Minterne"
+      },
+    {
+        "name":"ساهل ر",
+        "phone":"0665125483",
+        "address":"المركز التجاري بحي 5 جويلية",
+        "specialty":"Minterne"
+      }
+    ]
+  },
   {
     "stateName": "Annaba",
     "doctors": []
@@ -3309,10 +3949,6 @@
   },
   {
     "stateName": "Defla",
-    "doctors": []
-  },
-  {
-    "stateName": "Djelfa",
     "doctors": []
   },
   {
@@ -3417,10 +4053,6 @@
   },
   {
     "stateName": "Tissemsilt",
-    "doctors": []
-  },
-  {
-    "stateName": "TiziOuzou",
     "doctors": []
   },
  {
