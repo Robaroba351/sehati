@@ -6702,6 +6702,270 @@
       }
     ]
   },
+   {
+    "stateName": "MSila",
+    "doctors": [
+    {
+        "name":"بن حميدة مراد",
+        "phone":"0662901428",
+        "address":"الشلال مسيلة",
+        "specialty":"Mgénéral"
+      },
+         {
+        "name":"عبد اللطيف غضبان",
+        "phone":"035551062",
+        "address":"المسيلة",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"بن ناصر ثامر",
+        "phone":"0775193378",
+        "address":"حي 40 مسكن أولاد عدي لقبالة",
+        "specialty":"Dentiste"
+      },
+      {
+        "name":"كمال يوسفي",
+        "phone":"0699492750",
+        "address":"حي 24 فيفري عين الملح",
+        "specialty":"Dentiste"
+      },
+      {
+        "name":"دوغة س",
+        "phone":"0676147044",
+        "address":"rue Cité Cheikh Tahar Ex Forestier, 28000 M'Sila",
+        "specialty":"Dentiste"
+      },
+     {
+        "name":"بودالي عادل",
+        "phone":"0674161901",
+        "address":"عين الحجل",
+        "specialty":"Dentiste"
+      }, 
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Orl"
+      },
+       {
+        "name":"محمد ريقاط",
+        "phone":"035546353",
+        "address":"حي 44 مسكن شارع سونيتاكس - المسيلة",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"بلحسين عبد الحليم",
+        "phone":"0797268380",
+        "address":"Cité 42 logements M'sila - Algerie",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"تونسي عماد",
+        "phone":"0696281606",
+        "address":"حي الزرقاء الشمالية لاسيتي المسيلة بالقرب من بزار الحضنة",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"رقيق برة رضا",
+        "phone":"0541975196",
+        "address":"مقابل مستشفى الزهراوي حي البدر المسيلة",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"حمادي",
+        "phone":"035352626",
+        "address":"امام مستشفي مكافحة السل",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"شباحي زيان",
+        "phone":"0661357574",
+        "address":"حي ابن باديس المسيلة",
+        "specialty":"Pédiatrie"
+      }, 
+      {
+        "name":"الدكتور بوضياف وليد",
+        "phone":"0698040055",
+        "address":"حى 316 مسكن وحدة رقم 3بجور مسجد الحسن البصرى ",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"فرجة ممدوح",
+        "phone":"0696126482",
+        "address":"50 600 logts, M'Sila",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"نابي",
+        "phone":"035552035",
+        "address":"Cite Des Villas Roses Et de Sensibilisation–M’sila-",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"شرقي بومدين",
+        "phone":"035334157",
+        "address":"امام مستشفى الزهراوي. المسيلة",
+        "specialty":"Orthopédique"
+      },
+     {
+        "name":"حنان بوخلاط",
+        "phone":"0663556145",
+        "address":"حي وعواع المداني المسيلة",
+        "specialty":"Orthopédique"
+      }, 
+        {
+        "name":"عوينة",
+        "phone":"0663141414",
+        "address":"M'Sila",
+        "specialty":"Orthopédique"
+      },
+      {
+        "name":"بختي محمد الأمين",
+        "phone":"0552131597",
+        "address":"مقابل مستشفى الزهراوي بجانب صيدلية بوغرارة",
+        "specialty":"Cardiologie"
+      },
+      {
+        "name":"بركات س",
+        "phone":"0675336331",
+        "address":"40 numero 09, cite aadl, M'Sila",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"تيطراوي نافع",
+        "phone":"0673306635",
+        "address":"حي الثقافة مقابل دار الشباب ياحي الجموعي 1000 ",
+        "specialty":"Cardiologie"
+      },
+      {
+        "name":"يونسي مراد",
+        "phone":"035405832",
+        "address":"سيدي عيسى",
+        "specialty":"Neurologie"
+       }, 
+      {
+        "name":"لكحل فاطمة",
+        "phone":"0558677547",
+        "address":"حي 16 افريل سيدي عيسى ولاية مسيلة",
+        "specialty":"Neurologie"
+       }, 
+     {
+        "name":"عقريب عبد الله",
+        "phone":"035553377",
+        "address":"مقابل مستشفى الزهراوي",
+        "specialty":"Neurologie"
+       }, 
+       {
+        "name":"سهلي أ فوزي",
+        "phone":"0668708115",
+        "address":"حي 26 مسكن - المسيلة",
+        "specialty":"Penumologie"
+      },
+       {
+        "name":"قرمة علي جمال",
+        "phone":"0775784571",
+        "address":"CITE OUAOUA MADANI M'sila",
+        "specialty":"Penumologie"
+      },
+      {
+        "name":"عتيق",
+        "phone":"0662101559",
+        "address":"Bou Saada, m'sila",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"عيسى ادريس",
+        "phone":"0794108399",
+        "address":"المسيلة",
+        "specialty":"Urologie"
+      },
+     {
+        "name":"خوجة",
+        "phone":"0673032247",
+        "address":"المسيلة",
+        "specialty":"Urologie"
+      }, 
+     {
+        "name":"لفقير حمزة",
+        "phone":"0656586599",
+        "address":"M'Sila",
+        "specialty":"Urologie"
+      }, 
+         {
+        "name":"شريفي خالد",
+        "phone":"0666601119",
+        "address":"طريق البرج 300 مسكن _مقابل ثانوية صلاح الدين الأيوبي",
+        "specialty":"Digestif"
+      },
+         {
+        "name":"دريسي محمد",
+        "phone":"0555155222",
+        "address":"حي الورود رقم 29 المسيلة",
+        "specialty":"Digestif"
+      },
+      {
+        "name":"عثماني محمد",
+        "phone":"035459113",
+        "address":"150/9 HAI EL-BADR (STAIH), 28200 Bou Sada, M'Sila",
+        "specialty":"Digestif"
+      },
+       {
+        "name":"مولاهوم س",
+        "phone":"0657333288",
+        "address":"12 سكن مقابل مديرية الصحة المسيلة",
+        "specialty":"Endocrinolog"
+      },
+       {
+        "name":"مذكور ن",
+        "phone":"0553629875",
+        "address":"حي وعواع المدني المسيلة",
+        "specialty":"Endocrinolog"
+      },
+    {
+        "name":"بوزرزور صبرينة",
+        "phone":"035556565",
+        "address":"حي البدر 500 مسكن (مقابل مستشفى الزهراوي)",
+        "specialty":"Endocrinolog"
+      },
+      {
+        "name":"هواري حمزة",
+        "phone":"035545190",
+        "address":"عيادة الحضنة غالية العيد المسيلة",
+        "specialty":"ChirurgieG"
+      },
+      {
+        "name":"عيادة سيدي تامر",
+        "phone":"035446593",
+        "address":"Nouvelle Route De Djelfa Bou Saada, M'Sila",
+        "specialty":"ChirurgieG"
+      },
+        {
+        "name":"بوسالم شريفة زوج بن صديق",
+        "phone":"0658742060",
+        "address":"حي النصر 1000 سكن بجانب سوبيرات زروتي المسيلة",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"جمال عبدون",
+        "phone":"0667452370",
+        "address":"حي 36 مسكن المسيلة",
+        "specialty":"Minterne"
+      },
+         {
+        "name":"بن صديق عزالدين",
+        "phone":"035506540",
+        "address":"حي 11 ديسمبر 1960 سيدي عيسى المسيلة",
+        "specialty":"Minterne"
+      },
+   {
+        "name":"بلاعدة نبيل",
+        "phone":"0558890426",
+        "address":"لاروكاد",
+        "specialty":"Minterne"
+        }
+    
+    ]
+  },
   {
     "stateName": "Bayadh",
     "doctors": []
@@ -6740,10 +7004,6 @@
   },
   {
     "stateName": "Laghouat",
-    "doctors": []
-  },
-  {
-    "stateName": "MSila",
     "doctors": []
   },
   {
