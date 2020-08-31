@@ -4364,36 +4364,132 @@
         "address":"سطيف",
         "specialty":"Penumologie"
       },
-     {
-        "name":"",
-        "phone":"",
-        "address":"",
+       {
+        "name":"شتواني سفيان",
+        "phone":"036512855",
+        "address":"cité 600 lgts Bt B7 N 142 Rez de chaussés a coté de la mosquée el-kawthar setif",
         "specialty":"Urologie"
       },
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
+       {
+        "name":"الحكيم لعرافي عبد الحليم",
+        "phone":"0556218489",
+        "address":"حي أبراج مقابل محطة الترم اي الأول",
+        "specialty":"Urologie"
+      },
+       {
+        "name":"عبد الوهاب عريبي",
+        "phone":"0555067780",
+        "address":"Cité Bellevue ex CRS",
+        "specialty":"Urologie"
+      },
+       {
+        "name":"فؤاد واريث",
+        "phone":"036912290",
+        "address":"Rue Saoudi -Coopérative IBN BADIS",
+        "specialty":"Urologie"
+      },
+     {
+        "name":"عبد المالك بوعديس",
+        "phone":"036833322",
+        "address":"CITE DES 80 LOGTS CHEMINOTS",
+        "specialty":"Urologie"
+      },
+       {
+        "name":"كفي وليد",
+        "phone":"0664731274",
+        "address":"حي 600 مسكن ",
         "specialty":"Digestif"
       },
-    {
-        "name":"",
-        "phone":"",
-        "address":"",
+       {
+        "name":"الحكيم مراحي",
+        "phone":"036664527",
+        "address":"سطيف",
+        "specialty":"Digestif"
+      },
+      {
+        "name":"لعمش عبد الوهاب",
+        "phone":"036452136",
+        "address":"حي بوعروة",
+        "specialty":"Digestif"
+      },
+      {
+        "name":"عبد الحليم كعبش",
+        "phone":"036829605",
+        "address":"Coopérative el Houda nÂ°5 Maabouda",
         "specialty":"Endocrinolog"
       },
+      {
+        "name":"محبوب طارق",
+        "phone":"0663912162",
+        "address":"حي 600 مسكن العمارة F6رقم 499 سطيف",
+        "specialty":"Endocrinolog"
+      },
+    {
+        "name":"كعباش عبد الحليم",
+        "phone":"036723671",
+        "address":"التعاوني الهدى رقم 5 معبودة",
+        "specialty":"Endocrinolog"
+      },
+      {
+        "name":"سعد رجح",
+        "phone":"036938551",
+        "address":"Lot N° 406 - Cité Tlidjene",
+        "specialty":"ChirurgieG"
+      },
+      {
+        "name":"نبيلة نكه",
+        "phone":"036841609",
+        "address":"Ain Sfiha",
+        "specialty":"ChirurgieG"
+      },
+      {
+        "name":"بوضياف بلقاسم",
+        "phone":"0771793727",
+        "address":"عيادة شوقي و الأشواق حي عين صفيحة سطيف",
+        "specialty":"ChirurgieG"
+      },
         {
-        "name":"",
-        "phone":"",
-        "address":"",
+        "name":"لبون جعفر",
+        "phone":"0771793727",
+        "address":"Clinique Chawky et Ashwak, Cité Ain-Sfih",
+        "specialty":"ChirurgieG"
+      },
+        {
+        "name":"بوعصيد عبد الكريم",
+        "phone":"0771214070",
+        "address":"19 شارع العيدي عبد الرزاق امام محطة قطار سطيف",
+        "specialty":"ChirurgieG"
+      },
+        {
+        "name":"إسماعيل سماتي",
+        "phone":"036919919",
+        "address":"Cité du 08 mai 1945-bt D2 n°232",
+        "specialty":"ChirurgieG"
+      },
+        {
+        "name":"تير نزيم",
+        "phone":"036580041",
+        "address":"583 logements Ain oulman",
         "specialty":"ChirurgieG"
       },
     {
-        "name":"",
-        "phone":"",
-        "address":"",
+        "name":"كامل بودوخه",
+        "phone":"036842726",
+        "address":"Ancien cabinet du Dr Belmahdi",
         "specialty":"Minterne"
       },
+       {
+        "name":"بودوخة كمال",
+        "phone":"0771212609",
+        "address":"المقر القديم للدكتور بالمهدي س فوبورج 5 فيزي سطيف",
+        "specialty":"Minterne"
+      },
+       {
+        "name":"أورت فؤاد",
+        "phone":"036912290",
+        "address":"15 شارع سعودي التعاوني IBN باديس سطيف",
+        "specialty":"Minterne"
+      }
     ]
   },
   {
