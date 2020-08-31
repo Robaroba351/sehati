@@ -6488,6 +6488,221 @@
     ]
   },
   {
+    "stateName": "Mostaganem",
+    "doctors": [
+    {
+        "name":"حجيج رضوان",
+        "phone":"0771282454",
+        "address":"21شارع الشهداء. حاسي ماماش",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"رانيا منصور",
+        "phone":"0794516855",
+        "address":"شارع 50 رقم 7",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"مداني فواتيح ريمان",
+        "phone":"0557557033",
+        "address":"52 Avenue Khemisti Mohamed",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"عربية محمد",
+        "phone":"0541475262",
+        "address":"شارع الحدائق عين النويصي",
+        "specialty":"Mgénéral"
+      }, 
+       {
+        "name":"بلكحل محمد امين",
+        "phone":"0799049942",
+        "address":"17 Rue Bentensi Allai, Mostaganem",
+        "specialty":"Dentiste"
+      },
+     {
+        "name":"بوراس بلقاسم",
+        "phone":"0782527993",
+        "address":"Mostaganem",
+        "specialty":"Dentiste"
+      },
+      {
+        "name":"شريف سيدي احمد",
+        "phone":"0772791059",
+        "address":"Sidi Ali Mostaganem",
+        "specialty":"Dentiste"
+      },
+        {
+        "name":"لطروش مختار",
+        "phone":"0551530615",
+        "address":"Cité 160 lgts Amara Hamida N°1",
+        "specialty":"Orl"
+      },
+       {
+        "name":"بحري زهير",
+        "phone":"0798257700",
+        "address":"حي 5 جويلية ولاية مستغانم.",
+        "specialty":"Orl"
+      },
+        {
+        "name":"بوتليليس عفيف",
+        "phone":"0655767763",
+        "address":"بلدية بن عبد المالك رمضان  السكن رقم 1",
+        "specialty":"Ophtalmologie"
+      },
+        {
+        "name":"صايم عبد القادر",
+        "phone":"0552680004",
+        "address":"22 RUE BERAIS ABDERRAHMANE",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"لطروش نور الدين",
+        "phone":"0560831806",
+        "address":"Cité 05 JUILLET BLOC 181 N°22 MOSTAGANEM",
+        "specialty":"Ophtalmologie"
+      },
+      {
+        "name":"اديب اسماء",
+        "phone":"0790765490",
+        "address":"Tigditt 1er étage MOSTAGANEM",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"بريسة خالدية",
+        "phone":"",
+        "address":"800 LOG BT D5 N 151 MOSTAGANEM",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"حبيب زهماني عبد الكريم",
+        "phone":"0770815519",
+        "address":"Cité si Abdelhak MESRA Mostaganem",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"امقران جابة",
+        "phone":"0658837060",
+        "address":"cité 150logement, Mostaganem",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"بن عيسى بن قبو فاطمة",
+        "phone":"0559214486",
+        "address":"2 cité 160 LGMT MOSTAGANEM",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"طاهر سعيد",
+        "phone":"0790827522",
+        "address":"en face cité solis tijdit mostaganem.",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"طالبي منير",
+        "phone":"0542527589",
+        "address":"Bouguirat",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"ن ورد امينة",
+        "phone":"0541550745",
+        "address":"cité 5 juillet 1962 Mostganem",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"غنيم عبد القادر",
+        "phone":"0552461679",
+        "address":"Mostaganem Cité 05 juillet 62 LogtsBt 48",
+        "specialty":"Cardiologie"
+      },
+     {
+        "name":"هني",
+        "phone":"0676537786",
+        "address":"حي 5 جويلية",
+        "specialty":"Neurologie"
+       }, 
+          {
+        "name":"قارة مصطفى حفصة",
+        "phone":"0664424585",
+        "address":"RUE SALAH YOUCEF FACE CEM",
+        "specialty":"Neurologie"
+       }, 
+        {
+        "name":"بن عبد الله نور الدين",
+        "phone":"0541550745",
+        "address":"Cité 5 Juillet Bt. En face marchè couvert. ( derriére APC)",
+        "specialty":"Penumologie"
+      },
+      {
+        "name":"صبري رحمونة",
+        "phone":"0558665549",
+        "address":"Cité ALN TIJDIT 800 Lgts BT S3 N631 MOSTAGANEM",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"غانمي بلقاسم",
+        "phone":"0779269687",
+        "address":"Cité 96 Logements Chemouma Bt A4 N°01 MOSTAGANEM",
+        "specialty":"Urologie"
+      },
+        {
+        "name":"طبوش محمد عبد السلام",
+        "phone":"",
+        "address":"Cité 5 Juillet 1962 BT 32 N 10",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"بوراس حكيم",
+        "phone":"0661219231",
+        "address":"Résidence Chelif Bt D N° 94 RDC MOSTAGANEM",
+        "specialty":"Digestif"
+      },
+        {
+        "name":"لزعر محمد",
+        "phone":"0774400679",
+        "address":"Résidence la Perle Kharouba près de la Faculté de Médecine MOSTAGANEM",
+        "specialty":"Digestif"
+      },
+       {
+        "name":"لوهيبي عبد الرحمان",
+        "phone":"0770674791",
+        "address":"Cité 05 juillet BLoc 198 N°14 MOSTAGANEM",
+        "specialty":"Digestif"
+      }, 
+        {
+        "name":"بن غرناط وهاب",
+        "phone":"0771283308",
+        "address":"شارع بنيد وداح بيموث مستغانم",
+        "specialty":"Endocrinolog"
+      },
+    {
+        "name":"حمودي مليكة",
+        "phone":"0655982129",
+        "address":"محطة امحمد عبد",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"بوزيد محمد",
+        "phone":"0773792921",
+        "address":"Rue de la poste ,souaflia ,mostaganem",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"خرشف عبد القادر",
+        "phone":"0774264982",
+        "address":"Rue ALN 800 Logement BT Y2 n°771 Tigditt",
+        "specialty":"Minterne"
+      },
+        {
+        "name":"لعربي يوسف زبير",
+        "phone":"0779460722",
+        "address":"CITE 160 BT D2 ABC ROUTE DE BELHACE",
+        "specialty":"Minterne"
+      }
+    ]
+  },
+  {
     "stateName": "Bayadh",
     "doctors": []
   },
@@ -6537,10 +6752,6 @@
   },
   {
     "stateName": "Mila",
-    "doctors": []
-  },
-  {
-    "stateName": "Mostaganem",
     "doctors": []
   },
   {
