@@ -6001,8 +6001,293 @@
         "address":"شارع سويداني بوجمعة ،نهج محمد",
         "specialty":"Minterne"
       }
-
-
+    ]
+  },
+  {
+    "stateName": "Constantine",
+    "doctors": [
+    {
+        "name":"بن يزار يزيد",
+        "phone":"0551140653",
+        "address":"وج 17  دمبري  212   سكن تساهمي علي منجلي",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"ماريا وفا خازندار",
+        "phone":"0555645038",
+        "address":"منطقة 20 أوت,اللازوردية,بناء ب7",
+        "specialty":"Mgénéral"
+      },
+     {
+        "name":"إبراهيم سميحة",
+        "phone":"0555131235",
+        "address":"17 شارع الإستقلال",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"خميسي خلفة",
+        "phone":"0674063274",
+        "address":"المدينة الجديدة علي منجلي",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"سويعد وفاء",
+        "phone":"0790711448",
+        "address":"المدينة الجديدة علي منجلي",
+        "specialty":"Dentiste"
+      },
+      {
+        "name":"صلاح خيري",
+        "phone":"031944544",
+        "address":"25 شارع 19 جوان 1965-25000",
+        "specialty":"Dentiste"
+      },
+      {
+        "name":"كربي سمير",
+        "phone":"0674303030",
+        "address":"لمدينة الجديدة علي منجلي",
+        "specialty":"Dentiste"
+      },
+      {
+        "name":"بوفلغد خالد",
+        "phone":"0561589762",
+        "address":"حي الزيادية عمارة 6 مدخل 2  رقم  162 قسنطينة",
+        "specialty":"Dentiste"
+      },
+      {
+        "name":"نور الدين عبد الحميد",
+        "phone":"0794943121",
+        "address":"2شارع لشهب رابح وسط المدينة (كازانوفا) قسنطينة",
+        "specialty":"Orl"
+      },
+      {
+        "name":"بوعبد الله دليلة",
+        "phone":"0554258915",
+        "address":"43 باستور المنظر الجميل قسنطينة",
+        "specialty":"Orl"
+      },
+       {
+        "name":"جنيبا سامية",
+        "phone":"031631198",
+        "address":"قسنطينة",
+        "specialty":"Orl"
+      },
+       {
+        "name":"خلاف خليل",
+        "phone":"0674758949",
+        "address":"UV 5 derrière  centre de formation en face resto nejma",
+        "specialty":"Ophtalmologie"
+      },
+      {
+        "name":"رجاح بلال",
+        "phone":"0778048533",
+        "address":"حي 1600مسكن عمارة 245 رقم 04",
+        "specialty":"Ophtalmologie"
+      },
+      {
+        "name":"بن البجاوي يمينة",
+        "phone":"031974214",
+        "address":"212 القصر رقم 52 عين السمار",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"بوعكاز علي مراد",
+        "phone":"031930630",
+        "address":"حي 19 جوان 1965 رقم 08 قسنطينة",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"عايش محمد",
+        "phone":"0773003413",
+        "address":"نهج بوالدهان حسين حامة بوزيان",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"بررحي مصطفى",
+        "phone":"031930630",
+        "address":"8 شارع الإستقلال قسنطينة",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"مسعودي و بلعلوي زهرة",
+        "phone":"0554201983",
+        "address":"المنظر الجميل قسنطينة",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"الدكتورة مزهود",
+        "phone":"0779904304",
+        "address":"المدينة الجديدة علي منجلي",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"بن دالي",
+        "phone":"0697291300",
+        "address":"قسنطينة",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"بالغوج ناجية",
+        "phone":"031926242",
+        "address":"حي فلالي العمارة G رقم 24 قسنطينة",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"معمري رياض",
+        "phone":"0556207995",
+        "address":"عيادة نوفل حي بلحاج قسنطينة",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"بوربية عيصام",
+        "phone":"0667091696",
+        "address":"عين الباي القطعة الثانية المدينة الجديدة علي منجلي",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"أحمد مدكور",
+        "phone":"0770994779",
+        "address":"سوق عاص",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"عزيز كمال",
+        "phone":"031911002",
+        "address":"شارع عبان رمضان رقم 13 قسنطينة",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"دهيمي يسرى",
+        "phone":"0669290767",
+        "address":"شارع حملاوي 21 ولاية قسنطينة ",
+        "specialty":"Cardiologie"
+      },
+         {
+        "name":"بباك فريدة",
+        "phone":"0552030251",
+        "address":"Constantine  nouvelle  ville",
+        "specialty":"Cardiologie"
+      },
+         {
+        "name":"الحكيم معمري أحمد",
+        "phone":"0542325519",
+        "address":"المدينة الجديدة علي منجلي",
+        "specialty":"Cardiologie"
+      },
+     {
+        "name":"منصف غانم",
+        "phone":"031666996",
+        "address":"حي 20 أوت 1955 مبنى د7 رقم 84 -25000",
+        "specialty":"Neurologie"
+       }, 
+       {
+        "name":"عروف لور شهدة",
+        "phone":"031937192",
+        "address":"حي بن بولعيد قسنطينة",
+        "specialty":"Neurologie"
+       }, 
+       {
+        "name":"عمرون أحمد",
+        "phone":"031923090",
+        "address":"شارع بلوزداد قسنطينة",
+        "specialty":"Neurologie"
+       }, 
+      {
+        "name":"خ بوبرطخ حرم زعفور",
+        "phone":"0781725981",
+        "address":"المدينة الجديدة علي منجلي",
+        "specialty":"Penumologie"
+      },
+       {
+        "name":"بشتارزي فيصل",
+        "phone":"031912244",
+        "address":"rue Benmeliek (ex rue Pinget)",
+        "specialty":"Penumologie"
+      },
+      {
+        "name":"شعلال حميد",
+        "phone":"031874771",
+        "address":"نهج حملاوي قسنطينة",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"عياد عبد العزيز",
+        "phone":"031662132",
+        "address":"حي بوصوف العمارة 45 رقم 03 قسنطينة",
+        "specialty":"Urologie"
+      },
+     {
+        "name":"بن قدجة مصطفى",
+        "phone":"031637370",
+        "address":"حي الإخوة عباس العمارة B1 جناح 01 رقم 1 قسنطينة",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"بن مغنية رشيد",
+        "phone":"031929858",
+        "address":"45 شارع عوطي مصطفى قسنطينة",
+        "specialty":"Digestif"
+      },
+        {
+        "name":"بن جاباالله عزالدين",
+        "phone":"0771696461",
+        "address":"المدينة الجديدة علي منجلي",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"توفيق زعيبط",
+        "phone":"0770846328",
+        "address":"الخروب مدينة قسنطينة",
+        "specialty":"Endocrinolog"
+      },
+       {
+        "name":"بن عزوز ميلود",
+        "phone":"031964026",
+        "address":"حي 1039 مسكن العمارة 39 الخروب قسنطينة",
+        "specialty":"Endocrinolog"
+      },
+      {
+        "name":"حطاش كريم",
+        "phone":"031931854",
+        "address":"48 طريق بلوزداد قسنطينة",
+        "specialty":"Endocrinolog"
+      }, 
+        {
+        "name":"ممعي لطفي",
+        "phone":"0770937513",
+        "address":"المدينة الجديدة علي منجلي",
+        "specialty":"ChirurgieG"
+      },
+        {
+        "name":"بيطام حسين",
+        "phone":"031662191",
+        "address":"حي بوصوف 180 مسكن العمارة ت6 رقم 35 قسنطينة",
+        "specialty":"ChirurgieG"
+      },
+        {
+        "name":"بن مصباح عزالدين",
+        "phone":"031619013",
+        "address":"شارع 11 ديسمبر 1960 رقم 76 حبل  الوحش قسنطينة",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"بوالجدري كريمة حرم شرفة",
+        "phone":"0541001907",
+        "address":"المدينة الجديدة علي منجلي",
+        "specialty":"Minterne"
+      },
+        {
+        "name":"عمار نبيلة",
+        "phone":"031943980",
+        "address":"شارع 19 جوان 1965 رقم 20 قسنطينة",
+        "specialty":"Minterne"
+      },
+       {
+        "name":"حطاش كريم",
+        "phone":"031931854",
+        "address":"48 طريق بلوزداد قسنطينة",
+        "specialty":"Minterne"
+      }
     ]
   },
   {
@@ -6019,10 +6304,6 @@
   },
   {
     "stateName": "Boumerdès",
-    "doctors": []
-  },
-  {
-    "stateName": "Constantine",
     "doctors": []
   },
   {
