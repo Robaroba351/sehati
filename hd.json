@@ -2561,6 +2561,7 @@
       }
     ]
   },
+  {
    "stateName": "Tébessa",
     "doctors": [
   {
@@ -4129,6 +4130,270 @@
  {
     "stateName": "Sétif",
     "doctors": [
+       {
+        "name":"بن حميش العربي بلال",
+        "phone":"036445644",
+        "address":"حي ١٠١٤ مسكن سطيف",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"بلال سيفاري",
+        "phone":"0541429775",
+        "address":"العلمة",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"كروش عياشة",
+        "phone":"0796231850",
+        "address":"شارع عيساوي عزدين",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"جلال",
+        "phone":"0795928470",
+        "address":"عين الحجر سطيف",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"سعودي محمد",
+        "phone":"0657348908",
+        "address":"الزمالة عموشة",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"شواش خديجة",
+        "phone":"036402888",
+        "address":"شارع 01 نوفمبر 1954 بوقاعة. 19003",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"بلام امحمد خير الدين",
+        "phone":"0675677070",
+        "address":"عين لحجر سطيف",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"كركار معاذ",
+        "phone":"0670202541",
+        "address":"عين ولمان",
+        "specialty":"Dentiste"
+      },
+     {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Orl"
+      },
+       {
+        "name":"دكتور رضا نجيب",
+        "phone":"036512488",
+        "address":"cité 600 lgts B C3 N171 Setif",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"بشمار شوقي",
+        "phone":"0551215453",
+        "address":"عين الحجر",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"مبروك بلعطار",
+        "phone":"036937602",
+        "address":"سطيف",
+        "specialty":"Ophtalmologie"
+      },
+        {
+        "name":"كريم بلعيد",
+        "phone":"036876074",
+        "address":"Cité 19 juin El-Eulma",
+        "specialty":"Ophtalmologie"
+      },
+        {
+        "name":"آيت علي أرزقي",
+        "phone":"036843330",
+        "address":"Promotion Smara",
+        "specialty":"Ophtalmologie"
+      },
+        {
+        "name":"تومي علجية",
+        "phone":"0665148796",
+        "address":"حي 84 مسكن رقم 26 باتنة",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"ناصري شافية",
+        "phone":"0553051995",
+        "address":"80 logts cité des Cheminots",
+        "specialty":"Pédiatrie"
+      },
+        {
+        "name":"بلجرو عبد الحميد",
+        "phone":"0696620303",
+        "address":"عين أرنات بجانب الدرك الوطني و بنك البدر سطيف",
+        "specialty":"Pédiatrie"
+      },
+        {
+        "name":"مساعدية ياسين",
+        "phone":"0664548034",
+        "address":"بوقاعة سطيف",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"محمد مريان",
+        "phone":"036936567",
+        "address":"O3 Rue Benchekribou Abdelaziz 2ème étage",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"صبايحي عبد اللطيف",
+        "phone":"0774729005",
+        "address":"حي 400مسكن عين ولمان ",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"بوقحقوح عبد الفتاح",
+        "phone":"0771504456",
+        "address":"عيادة المحابي مقابل جامعة فرحات عباس حي المعبودة",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"بن سي سعيد نورالدين",
+        "phone":"0661567690",
+        "address":"حي لعبيدي شارع مواسة يوسف ر18 العلمة",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"بلام محمد سامي",
+        "phone":"0773689742",
+        "address":"Cite le caire(ex la pinède ) bt  n  1",
+        "specialty":"Orthopédique"
+      },
+      {
+        "name":"زينون مخلفا",
+        "phone":"077563381",
+        "address":"Cité 450 logts BtF2 N 14",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"بوعبدالله ليندة ",
+        "phone":"0779254243",
+        "address":"حي 600 مسكن عمارة او 8 رقم 386 مقابل حديقة التسلية",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"الدكتور سعيدي مصطفى",
+        "phone":"0540434660",
+        "address":"حي 600 مسكن،  عمارة B2 رقم 95 ",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"دهيل فوزية",
+        "phone":"036828686",
+        "address":"حي الأسوار",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"جمال الدين عبد اللطيف",
+        "phone":"36722322",
+        "address":"Cité Hacene Belkhired (750 Logts) D38 N°571",
+        "specialty":"Cardiologie"
+      },
+      {
+        "name":"لعمش حميد",
+        "phone":"036844777",
+        "address":"Cité des remparts Bt D6 N°47",
+        "specialty":"Neurologie"
+      },
+      {
+        "name":"بلام رياض",
+        "phone":"03604502146",
+        "address":"حي 150 مسكن (ربوح ) عمارة G -بوعروة - سطيف",
+        "specialty":"Neurologie"
+      },
+      {
+        "name":"فوزي بن الصغير",
+        "phone":"0772131946",
+        "address":"العلمة",
+        "specialty":"Neurologie"
+      },
+      {
+        "name":"صبيا مختار",
+        "phone":"036939773",
+        "address":"حي 40 مسكن N38 سطيف",
+        "specialty":"Neurologie"
+      },
+      {
+        "name":"حورية خنوف",
+        "phone":"036832525",
+        "address":"Cité des 80 logts Bt B n°17",
+        "specialty":"Neurologie"
+      },
+     {
+        "name":"احمد جليل الصباغ",
+        "phone":"036722240",
+        "address":"Cité Belkhired Hassen Bt.19 n° 223",
+        "specialty":"Neurologie"
+      },
+       {
+        "name":"دهيل فلة",
+        "phone":"0665039899",
+        "address":"عين أرنات مقابل السوق قرب الدائرة سطيف",
+        "specialty":"Penumologie"
+      },
+       {
+        "name":"خالد ديغش",
+        "phone":"0661833710",
+        "address":"سطيف",
+        "specialty":"Penumologie"
+      },
+       {
+        "name":"دكتورة هواري ف",
+        "phone":"0671104430",
+        "address":"العنوان تجزئة 188 القطعة عين ازال سطيف",
+        "specialty":"Penumologie"
+      },
+      {
+        "name":"لعريبي علاوة",
+        "phone":"036743800",
+        "address":"سطيف",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Minterne"
+      },
     ]
   },
   {
