@@ -5030,6 +5030,197 @@
     ]
   },
   {
+    "stateName": "Skikda",
+    "doctors": [
+    {
+        "name":"كمال صخري",
+        "phone":"0665718784",
+        "address":"سكيكدة",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"حساني سهام حرم بورافة",
+        "phone":"0794146371",
+        "address":"حي قوس قزح",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":" بن خلاف طارق",
+        "phone":"0559070402",
+        "address":"صالح بوالشعور شارع بودخانة",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"علوان ن",
+        "phone":"0674677127",
+        "address":"قرب مقهى فرخ الذيب بلدية بين الويدان",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"بورمة حسين",
+        "phone":"0770357777",
+        "address":"حي الاخوة ساكر",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"حميد بولعراس",
+        "phone":"0776175044",
+        "address":"حي محمد رهواج تمالوس ولاية سكيكدة",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"قريني هشام",
+        "phone":"0777546196",
+        "address":"شارع دماغ العتروس.. مقابل المجلس القضائي الحروش",
+        "specialty":"Orl"
+      },
+       {
+        "name":"حكرور عبد الرؤف",
+        "phone":"038751166",
+        "address":"قصر 12 مرج الديب سكيكدة",
+        "specialty":"Orl"
+      },
+       {
+        "name":"عومار علي",
+        "phone":"038762139",
+        "address":"حي الإخوة ساكر عمارة رقم2- سكيكدة",
+        "specialty":"Ophtalmologie"
+      },
+        {
+        "name":"بن شرنين",
+        "phone":"0771118610",
+        "address":"مقابل إبتدائية خراط عمار ، عزابة ولاية سكيكدة",
+        "specialty":"Pédiatrie"
+      },
+        {
+        "name":"شايب سمية حرم جكيرف",
+        "phone":"0699310782",
+        "address":"قرب مستشفى الولادة القل",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"بداي دنيا",
+        "phone":"0555525950",
+        "address":"حي بوجمعة لباردي",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"فهمي عواشرية",
+        "phone":"0779522275",
+        "address":"شارع العربي طبيسي",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"نويسي هند",
+        "phone":"0675010260",
+        "address":"الحروش قرب البازار",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"شليغم حرم مساسط",
+        "phone":"0674130347",
+        "address":"القل قرب مستشفى التوليد",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"ناصري بسمة",
+        "phone":"0699050800",
+        "address":"رمضان جمال",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"بوشحم محمد",
+        "phone":"0552715216",
+        "address":"شارع بوڨاموزة مقابل مستشفى الحروش",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"بورشاق مهدي شرف الدين",
+        "phone":"0542902837",
+        "address":"حي صالح بولكروة 2 عمارة 7 رقم 2",
+        "specialty":"Orthopédique"
+      },
+        {
+        "name":"بابوري حميد",
+        "phone":"0661330495",
+        "address":"شارع 66 علي عبد النور سكيكدة",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"بورفيس توفيق",
+        "phone":"0558571456",
+        "address":"ليزالي سكيكدة",
+        "specialty":"Cardiologie"
+      },
+    {
+        "name":"نغوش عبدالقادر",
+        "phone":"0771249869",
+        "address":"حي ٢٠ اوت١٩٥٥.    عمارة ٣٠ ",
+        "specialty":"Neurologie"
+       }, 
+       {
+        "name":"بوصوفة عبد الحميد",
+        "phone":"038757670",
+        "address":"شارع بن كرية عمار سكيكدة",
+        "specialty":"Neurologie"
+       }, 
+       {
+        "name":"ل بوغليمة",
+        "phone":"0559726857",
+        "address":"حي صالح بوالكروة عمارة 48 رقم 01",
+        "specialty":"Penumologie"
+      },
+       {
+        "name":"شايب سمية حرم جكيرف",
+        "phone":"0699310782",
+        "address":"قرب مستشفى التوليد بالقل",
+        "specialty":"Penumologie"
+      },
+      {
+        "name":"ح بن حملاوي حرم زناتي",
+        "phone":"0665158391",
+        "address":"حي بوڨاموزة رقم 4 الحروش سكيكدة",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"سناني نوار",
+        "phone":"0796357462",
+        "address":"حي 700 مسكن سكيكدة",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"سوداني سليم",
+        "phone":"0775963923",
+        "address":"حي الإخوة ساكر العمارة BM سكيكدة",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"ChirurgieG"
+      },
+        {
+        "name":"العربي قدور",
+        "phone":"0655202221",
+        "address":"سكيكدة عزابة السبت",
+        "specialty":"Minterne"
+      },
+    {
+        "name":"عوار نادية حرم خطابي",
+        "phone":"0557664500",
+        "address":"عيادة أبوالقاسم (حناني) حي الممرات سكيكدة",
+        "specialty":"Minterne"
+      }
+    ]
+  },
+  {
     "stateName": "Annaba",
     "doctors": []
   },
@@ -5115,10 +5306,6 @@
   },
   {
     "stateName": "SidiBelAbbès",
-    "doctors": []
-  },
-  {
-    "stateName": "Skikda",
     "doctors": []
   },
   {
