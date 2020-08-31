@@ -4492,6 +4492,157 @@
       }
     ]
   },
+   {
+    "stateName": "Naama",
+    "doctors": [
+     {
+        "name":"جن البارود ب",
+        "phone":"0556972933",
+        "address":"مقابل سوق الفلاح المشرية",
+        "specialty":"Mgénéral"
+      },
+        {
+        "name":"غول",
+        "phone":"0776186012",
+        "address":"عين الصفراء",
+        "specialty":"Mgénéral"
+      },
+        {
+        "name":"عويجان فضيلة",
+        "phone":"0670333535",
+        "address":"Naama Ain Safra Centre-Ville",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"تيغدوين سليمة",
+        "phone":"0779600081",
+        "address":"Naama Ain Safra Centre-Ville",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"قدور محمد",
+        "phone":"0549477591",
+        "address":"Naama Mechria Centre-Ville.",
+        "specialty":"Dentiste"
+      },
+     {
+        "name":"بوزار السعيدى نورالدين",
+        "phone":"0557791594",
+        "address":"مقابل polyclinique حي الوءام المشرية الجديدة   بلدية المشرية",
+        "specialty":"Orl"
+      },
+        {
+        "name":"آغا محمد",
+        "phone":"0556992949",
+        "address":"قرب الابتدائية الداخلية الاخوة شعبان المشرية",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"جن البارود محمد",
+        "phone":"",
+        "address":"قرب متوسطة ابن رشد المشرية",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"قصباوي مختار",
+        "phone":"0779394085",
+        "address":"مقابل مقر الدايرة المشرية",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"لارقو ميلود",
+        "phone":"0558939278",
+        "address":"وسط المدينة مقابل مقر حزب FLN المشرية",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"قصباوي المختار",
+        "phone":"0779394085",
+        "address":"مقابل مقر الدائرة المشرية",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"سماعيل عبد الحميد",
+        "phone":"0699693143",
+        "address":"حي النصر",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"ين ديمة رشيد",
+        "phone":"0666792589",
+        "address":"Naama Ain Safra Centre-Ville",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"ميموني إلياس",
+        "phone":"0790174142",
+        "address":"وسط المدينة مقابل وكالة أوريدو المشرية",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"ملعب زوجة اغا",
+        "phone":"0551617923",
+        "address":"العمارة رقم 5 الطريق الوطني رقم 6 المشرية النعامة",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"جباري عبد المنتصر",
+        "phone":"0771920327",
+        "address":"شارع خديم سليمان قوس قزح ب جانب الاستعجالات القديمه",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"فرواني بومدين",
+        "phone":"0656392246",
+        "address":"العمارات المقابلة لمركز ت.مهني المشرية",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"عبد الحليم الكروداو",
+        "phone":"",
+        "address":"حي السلام قرب وكالة Actel المشرية",
+        "specialty":"Neurologie"
+      },
+      {
+        "name":"رماسي سمير",
+        "phone":"",
+        "address":"مشرية ولاية النعامة",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"علامي بوبكر",
+        "phone":"0666824323",
+        "address":"حي 66 مسكن المشرية النعامة",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"لارقو ميلود",
+        "phone":"0558939278",
+        "address":"وسط المدينة مقابل مقر حزب FLN المشرية",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"صابر",
+        "phone":"",
+        "address":"قوس قزح المشرية",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"حمزاوي عبدالسلام",
+        "phone":"0799508580",
+        "address":"مقابل المحكمة المشرية",
+        "specialty":"Minterne"
+      }
+     {
+    
+    ]
+  },
   {
     "stateName": "Annaba",
     "doctors": []
@@ -4562,10 +4713,6 @@
   },
   {
     "stateName": "Médéa",
-    "doctors": []
-  },
-  {
-    "stateName": "Naama",
     "doctors": []
   },
   {
