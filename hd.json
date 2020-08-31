@@ -3524,7 +3524,7 @@
         "name":"بن ناصر صليحة",
         "phone":"",
         "address":"Cité les genets Bt C N° 24 Tizi Ouzou",
-        "specialty":"Minterne"     }
+        "specialty":"Minterne"     
     }
     ]
   },
@@ -3923,6 +3923,214 @@
       }
     ]
   },
+{
+    "stateName": "Jijel",
+    "doctors": [
+       {
+        "name":"بوشافة رشيد",
+        "phone":"0783125236",
+        "address":"حي الحدادة جيجل",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"بن طاهر نورهان",
+        "phone":"0659102925",
+        "address":"حي عزيرو اعمر زيامة منصورية جيجل",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"عبد الليواء مسعود",
+        "phone":"034556948",
+        "address":"شارع لدرع حسين وسط المدينة سيدي عبد العزيز  ",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"د ياصي سفيان",
+        "phone":"34505555",
+        "address":"حي 40 مسكن ع01 رقم02 40 هكتار جيجل",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"بوسديرة عبد النور",
+        "phone":"034495528",
+        "address":"حي 400 مسكن رقم العمارة 12",
+        "specialty":"Mgénéral"
+      },
+     {
+        "name":"بن طاهر نورهان",
+        "phone":"0659102925",
+        "address":"حي عزيرو اعمر زيامة منصورية جيجل",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"بولبينة عزالدين",
+        "phone":"0773874406",
+        "address":"حي زعرور مخلوف العنصر جيجل",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"ضربان عبد المجيد",
+        "phone":"0799664437",
+        "address":"شارع دخلي المختار بوشرقة الطاهير",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"كيراب أمال",
+        "phone":"034524220",
+        "address":"حي زهابي إسماعيل العمارة A2 رقم 6 الميلية جيجل",
+        "specialty":"Orl"
+      },
+     {
+        "name":"عبود عبد الحميد",
+        "phone":"034472005",
+        "address":"حي الفرسان بجانب بريد الجزائر camp chevalier",
+        "specialty":"Orl"
+      },
+        {
+        "name":"بوسنة سمير",
+        "phone":"0552608388",
+        "address":"حي زاهر قرب مستشفى بشير منتوري الميلية",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"عمري ايمان زوجة لعلوش",
+        "phone":"0541920085",
+        "address":"شارع العربي بن مهيدي رقم 43 أ السيرك جيجل",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"بودلاعة إبراهيم",
+        "phone":"034553275",
+        "address":"شارع دخلي مختار بوشرقة الطاهير",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"العمري جمال",
+        "phone":"à34478282",
+        "address":"07 شارع الإخوة قشاشة وسط مدينة جيجل",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"م مرياي زوجة فركاجي",
+        "phone":"à659150693",
+        "address":"حي 80 مسكن عمارة ف رقم 02 بوشرقة  الطاهير ",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"محمد الصالح بن حلولو",
+        "phone":"à34492626",
+        "address":"حي موساوي م ( باب السور) عمارة أ",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"زرارة هجيرة",
+        "phone":"034478836",
+        "address":"فيلاج موسى",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"يوسفي فريد",
+        "phone":"0698702844",
+        "address":"تجزئة بوخدنة رقم 04 وادي القنطرة حي العقابي",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"ضربان محمد",
+        "phone":"0672709918",
+        "address":"حي 200 مسكن قرب المستشفى ومقابل حديقة التسلية جيجل",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"بوكابو عز الدين",
+        "phone":"0671721206",
+        "address":"مستشفى محمد الصديق بن يحي جيجل",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"منصوري محمد",
+        "phone":"034503333",
+        "address":"حي الشهداء كميحة العمارة سي رقم 01 جيجل",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"بن شيطة فاتح",
+        "phone":"0792823036",
+        "address":"حي 200 مسكن العمارة 13 الشقة 03 معسكر شوفالي جيجل",
+        "specialty":"Neurologie"
+      },
+     {
+        "name":"بوسجيرة عبد الحفيظ",
+        "phone":"034478203",
+        "address":"حي معسكر شوفالي العمارة H رقم 1 جيجل",
+        "specialty":"Neurologie"
+      },
+      {
+        "name":"دباح رشيد",
+        "phone":"0771418526",
+        "address":"حي بوشارف دائرة سطارة",
+        "specialty":"Penumologie"
+      },
+       {
+        "name":"محمد بوبدنيخ",
+        "phone":"034546169",
+        "address":"شارع أول نوفمبر الطاهر وسط ولاية جيجل",
+        "specialty":"Urologie"
+      },
+     {
+        "name":"صابي عبد العزيز",
+        "phone":"034471193",
+        "address":"فوق المستشفى جيجل",
+        "specialty":"Urologie"
+      },
+       {
+        "name":"نورهان",
+        "phone":"0699887776",
+        "address":"حي طهير",
+        "specialty":"Digestif"
+      },
+      {
+        "name":"بيراما خالد",
+        "phone":"034472535",
+        "address":"جيجل وسط المدينة",
+        "specialty":"Digestif"
+      },
+        {
+        "name":"بواب ضياء الدين",
+        "phone":"034497575",
+        "address":"(46 شارع كعولة مختار ( مقابل الحي الإداري سابقا",
+        "specialty":"Endocrinolog"
+      },
+    {
+        "name":"بودندونة أحسن",
+        "phone":"0550793676",
+        "address":"شارع 20 أوت 1955 الميلية 18300 جيجل",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"ذريعة علي",
+        "phone":"",
+        "address":"مقابل الدرك الوطني الميلية",
+        "specialty":"ChirurgieG"
+      },
+       {
+        "name":"بوفروم عبد الحميد",
+        "phone":"0540820862",
+        "address":"حي 160 مسكن عمارة ب رقم 08 بوشرقة الطاهير",
+        "specialty":"Minterne"
+      },
+    {
+        "name":"بودندونة أحسن",
+        "phone":"0550793676",
+        "address":"شارع 20 أوت 1955 الميلية 18300 جيجل",
+        "specialty":"Minterne"
+      }
+    ]
+  },
+ {
+    "stateName": "Sétif",
+    "doctors": [
+    ]
+  },
   {
     "stateName": "Annaba",
     "doctors": []
@@ -3965,10 +4173,6 @@
   },
   {
     "stateName": "Illizi",
-    "doctors": []
-  },
-  {
-    "stateName": "Jijel",
     "doctors": []
   },
   {
@@ -4029,10 +4233,6 @@
   },
   {
     "stateName": "SoukAhras",
-    "doctors": []
-  },
-  {
-    "stateName": "Sétif",
     "doctors": []
   },
   {
