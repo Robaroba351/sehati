@@ -5813,6 +5813,199 @@
     ]
   },
   {
+    "stateName": "Gulma",
+    "doctors": [
+    {
+        "name":"عروال ليلى",
+        "phone":"0661486847",
+        "address":"حمام دباغ حي البساتين الرقم 165",
+        "specialty":"Mgénéral"
+      },
+        {
+        "name":"بروق مسعود",
+        "phone":"0661263211",
+        "address":"41 نهج يوغرطة قالمة24000",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"وردسي محمد فخر الاسلام",
+        "phone":"037151212",
+        "address":"ريوإساني سعيد ڨالمة",
+        "specialty":"Mgénéral"
+      }, 
+       {
+        "name":"زغدودي الياس",
+        "phone":"0658656125",
+        "address":"حي عياد لخضر رقم 21. هيليوبوليس",
+        "specialty":"Dentiste"
+      },
+        {
+        "name":"تومي ابتسام",
+        "phone":"0664282887",
+        "address":"حي واد المعيز التعاونية cooperative",
+        "specialty":"Dentiste"
+      },
+        {
+        "name":"بوقرة محمد زين الدين",
+        "phone":"0659399517",
+        "address":"حي صديقي رقم 34 قالمة",
+        "specialty":"Dentiste"
+      },
+        {
+        "name":"أكرم مختاري",
+        "phone":"0659399517",
+        "address":"بلدية عين العربي",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"زغدودي الياس",
+        "phone":"0658656125",
+        "address":"حي عياد لخضر رقم 21. هيليوبوليس",
+        "specialty":"Orl"
+      },
+      {
+        "name":"تومي ابتسام",
+        "phone":"0664282887",
+        "address":"حي واد المعيز التعاونية cooperative عمارة رقم 48 باب 01 قالمة.",
+        "specialty":"Orl"
+      },
+      {
+        "name":"بوقرة محمد زين الدين",
+        "phone":"0659399517",
+        "address":"حي صديقي رقم 34 قالمة",
+        "specialty":"Orl"
+      },
+      {
+        "name":"أكرم مختاري",
+        "phone":"0658257863",
+        "address":"بلدية عين العربي",
+        "specialty":"Orl"
+      },
+       {
+        "name":"عبد الحليم تقيدة",
+        "phone":"0671641875",
+        "address":"باب رقم 64 قالمة",
+        "specialty":"Ophtalmologie"
+      },
+      {
+        "name":"براهمية خالد",
+        "phone":"037114404",
+        "address":"18, شارع 19 جوان 24000 ڨالمة",
+        "specialty":"Ophtalmologie"
+      },
+     {
+        "name":"علي مغمول",
+        "phone":"0661360590",
+        "address":"حمام دباغ",
+        "specialty":"Ophtalmologie"
+      },
+      {
+        "name":"براهمية خالد",
+        "phone":"037114404",
+        "address":"18, شارع 19 جوان 24000 ڨالمة",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"فوغالي",
+        "phone":"0661442845",
+        "address":"قالمه",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"الحكيم خلاف عبد الغاني",
+        "phone":"0664052084",
+        "address":"مقابل حديقة سريدي محمد الطاهر",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"بن شيخ فريد",
+        "phone":"0556814035",
+        "address":"19جوان بجانب المقبرة القديمة المسيحية",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"بوعالي امينة",
+        "phone":"0665963295",
+        "address":"Cité ancien stade HLM",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"الحكيمه دلهوم",
+        "phone":"0659226662",
+        "address":"حي 120 طابق الامير عبد القادر",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"بن سعادة محمد الشريف",
+        "phone":"0560755512",
+        "address":"19جوان بجانب المقبرة الفرنسية القديمة",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"البكري الشريف",
+        "phone":"0661360604",
+        "address":"26 نهج 08 ماي 1945 قالمة",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"الدكتورة فرفار س",
+        "phone":"0660008200",
+        "address":"حي ڨهدور الطاهر عمارة 49 الباتني",
+        "specialty":"Cardiologie"
+      },
+{
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Neurologie"
+       }, 
+      {
+        "name":"شعلال محي الدين",
+        "phone":"0698730632",
+        "address":"في  بلدية بومهرة احمد قالمة",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"ميهوب",
+        "phone":"0662558506",
+        "address":"قالمة",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"بورشاق سعدان",
+        "phone":"0666577068",
+        "address":"بجانب مسجد الامام مالك بن نبي",
+        "specialty":"Minterne"
+      },
+      {
+        "name":"مكموش ناجي",
+        "phone":"0557678816",
+        "address":"شارع سويداني بوجمعة ،نهج محمد",
+        "specialty":"Minterne"
+      }
+
+
+    ]
+  },
+  {
     "stateName": "Bayadh",
     "doctors": []
   },
@@ -5842,10 +6035,6 @@
   },
   {
     "stateName": "Ghardaia",
-    "doctors": []
-  },
-  {
-    "stateName": "Gulma",
     "doctors": []
   },
   {
