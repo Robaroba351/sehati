@@ -2119,7 +2119,7 @@
       },
        {
         "name":"الجراح الحاج يوسف",
-        "phone":"033577373"
+        "phone":"033577373",
         "address":"حي400مسكن طولقة",
         "specialty":"ChirurgieG"
       },
@@ -2637,7 +2637,7 @@
       },
   {
         "name":"سلطاني رضوان",
-        "phone":"0665591750"
+        "phone":"0665591750",
         "address":"حي 06 ماي. الونزة",
         "specialty":"Dentiste"
       },
@@ -2727,7 +2727,7 @@
       },
   {
         "name":"نصر الشريف الشادلي",
-        "phone":"0783036801"
+        "phone":"0783036801",
         "address":"حي 100 سكن",
         "specialty":"Orthopédique"
       },
@@ -2769,7 +2769,7 @@
       },
        {
         "name":"طيورة حياة",
-        "phone":"0660232112"
+        "phone":"0660232112",
         "address":"تبسة",
         "specialty":"Cardiologie"
       },
@@ -2823,13 +2823,13 @@
       },
     {
         "name":"عبدالله ذيب",
-        "phone":"0655743368"
+        "phone":"0655743368",
         "address":"حي سكانسكا بجانب المسجد الكبير",
         "specialty":"Minterne"
       }
 ]
   },
-{
+  {
     "stateName": "Tlemcen",
     "doctors": [
      {
@@ -2864,13 +2864,13 @@
       },
        {
         "name":"معاصري محمد",
-        "phone":"0696357234"
+        "phone":"0696357234",
         "address":"حي القلعة،نهج بالحبيب جمال .تلمسان",
         "specialty":"Dentiste"
       },
      {
         "name":"بوزيان عزالدين",
-        "phone":"0661226278"
+        "phone":"0661226278",
         "address":"Cité Kiffane section 151",
         "specialty":"Orl"
       },
@@ -3683,7 +3683,7 @@
       },
       {
         "name":"حناشي امعمر",
-        "phone":"0668852621"",
+        "phone":"0668852621",
         "address":"حي بوتريفيس بجانب محطة البنزين",
         "specialty":"Pédiatrie"
       },
