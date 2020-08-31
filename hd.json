@@ -4856,6 +4856,179 @@
       }
     ]
   },
+   {
+    "stateName": "Saida",
+    "doctors": [
+         {
+        "name":"الدكتور محمد بوعزة",
+        "phone":"0773519429",
+        "address":"حي 46 سكن. الجناح c3.عين الحجر- سعيدة",
+        "specialty":"Mgénéral"
+      },
+         {
+        "name":"الحكيم بوطالب بورحلة",
+        "phone":"0773161755",
+        "address":"Cité 80 logts N°01 Rebahia",
+        "specialty":"Mgénéral"
+      },
+         {
+        "name":"منقور ك",
+        "phone":"0793604987",
+        "address":"حي رفافة ميلود عمارة مونبيتشو",
+        "specialty":"Mgénéral"
+      },
+         {
+        "name":"ميموني بن عومر",
+        "phone":"0661700874",
+        "address":"بالول بلدية اولاد براهيم",
+        "specialty":"Mgénéral"
+      },
+        {
+        "name":"رماس محمد",
+        "phone":"0560187418",
+        "address":"حي النصر -سعيدة",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"علا محمد",
+        "phone":"0557197074",
+        "address":"Rue Ibrahim Djelloul  N°11",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"بوعلام عبدالكريم",
+        "phone":"",
+        "address":"رقم 6 شارع عيسات ايدير سعيدة",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"بوعنان نور الدين",
+        "phone":"0792116949",
+        "address":"حي السلام سعيدة",
+        "specialty":"Orl"
+      },
+        {
+        "name":"الحكيم العربي سيد احمد",
+        "phone":"0698579517",
+        "address":"حي سيد شيخ رقم 226 ولاية سعيدة",
+        "specialty":"Orl"
+      },
+        {
+        "name":"الدكتور مجاهد",
+        "phone":"",
+        "address":"حي 400 سكن ولاية سعيدة",
+        "specialty":"Orl"
+      },
+       {
+        "name":"بن عمارة شكيب",
+        "phone":"0783066154",
+        "address":"مقابل مسجد المذاهب الأربعة وسط مدينة سعيدة",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"بوكرش محمد الكبير",
+        "phone":"0554107911",
+        "address":"شارع عيساة ادير",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"مكي دين",
+        "phone":"0773569228",
+        "address":"53log n 09 cite salam saida",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"مختاري خديجة",
+        "phone":"O553199099",
+        "address":"بوقادة -الغاز- بجانب جمعية السلام ولاية سعيدة",
+        "specialty":"Pédiatrie"
+      },
+        {
+        "name":"بن مولاي",
+        "phone":"0556250610",
+        "address":"لامارين",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"مدام ساسي",
+        "phone":"0554175623",
+        "address":"النصر سعيدة",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"مرحوم دريسي عبد الكريم",
+        "phone":"0655198041",
+        "address":"الرباحية (ولاد خالد) سعيدة",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"علي شريف",
+        "phone":"0656443046",
+        "address":"خي السرسور رقم ١٥ سعيدة",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"أوشيش سليم",
+        "phone":"0549786673",
+        "address":"حي النصر سعيدة",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"جديد",
+        "phone":"0673671021",
+        "address":"عمارة الكابوس-الزيتون-طريق بوخرص",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"بلماحي منير",
+        "phone":"075273951",
+        "address":"سيدي الشيخ",
+        "specialty":"Neurologie"
+       }, 
+      {
+        "name":"شوان زينل",
+        "phone":"0560353233",
+        "address":"حي رفافة ميلود بلوك 5 رقم1 الطابق الأرضي",
+        "specialty":"Penumologie"
+      },
+      {
+        "name":"شنينة عادل",
+        "phone":"0799134047",
+        "address":"",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"عجال هشام",
+        "phone":"0554895884",
+        "address":"حي الكاسطور مقابل مسجد بودويك",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"ركراك ربيع",
+        "phone":"0772599640",
+        "address":"حي سيد الشيخ",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Minterne"
+      }
+    ]
+  },
   {
     "stateName": "Annaba",
     "doctors": []
@@ -4938,10 +5111,6 @@
   },
   {
     "stateName": "Relizane",
-    "doctors": []
-  },
-  {
-    "stateName": "Saida",
     "doctors": []
   },
   {
