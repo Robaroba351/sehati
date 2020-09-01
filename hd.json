@@ -7935,12 +7935,151 @@
     
     ]
   },
-  {
-    "stateName": "Bouira",
-    "doctors": []
+   {
+    "stateName": "Boumerdès",
+    "doctors": [
+    {
+        "name":"طبيبة حشلاف",
+        "phone":"0561207362",
+        "address":"قريبة من محطة البنزين بومرداس",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"فقيري عبد القادر",
+        "phone":"0776140730",
+        "address":"ولاية بومرداس",
+        "specialty":"Mgénéral"
+      }, 
+       {
+        "name":"محمد بشوي",
+        "phone":"0795473296",
+        "address":"دلس بومرداس",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"ن.محالي زوجة درقاوي",
+        "phone":"0556328331",
+        "address":"شارع رقم 1 ،الطابق الأول الشباشب ولاية بومرداس",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"نسيم رقراج",
+        "phone":"0558181611",
+        "address":"Cité 1406 lgts Bt 74-A N°01",
+        "specialty":"Orl"
+      },
+       {
+        "name":"علي بوشاكي",
+        "phone":"0771114929",
+        "address":"اولاد موسى",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"منور زواتين",
+        "phone":"0557138775",
+        "address":"دلس	Les Jardins acoté de l'hopital, Dellys",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"م قاصب",
+        "phone":"0556814320",
+        "address":"رقم 1 حي الشباشب الطابق الثاني خميس الخشنة ولاية بومرداس",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"بن دريهم",
+        "phone":"0790243239",
+        "address":"زموري البحري بومرداس",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"طبيبة غريب فاطمة",
+        "phone":"0774027589",
+        "address":"بالقرب من مركز التامين الاجتماعي تيجلابين",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"الياس الاطرش",
+        "phone":"0550394276",
+        "address":"",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"دوهمان مليكة",
+        "phone":"0772523265",
+        "address":"حي 11 ديسمبر 1960 العمارة 125 رقم 1 بومرداس",
+        "specialty":"Cardiologie"
+      },
+      {
+        "name":"امراح عبد الناصر",
+        "phone":"035681880",
+        "address":"Cité du 17 octobre N°16",
+        "specialty":"Cardiologie"
+      },
+{
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Neurologie"
+       }, 
+      {
+        "name":"حبيلي سمير",
+        "phone":"0555930149",
+        "address":"Cité EPLF 105 logts Bloc 33 n° 2 - HAMMADI",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"محمد بودهان",
+        "phone":"",
+        "address":"بومرداس وسط قرب محطة القطار",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"نسيمة",
+        "phone":"",
+        "address":"حي بوكحيل الماء والجار",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"كلفالي الصادق",
+        "phone":"0667555555",
+        "address":"باب الزوار",
+        "specialty":"Minterne"
+      },
+       {
+        "name":"عز الدين بهلول",
+        "phone":"0771558862",
+        "address":"خميس الخشنة04Rue des freresdjaknouni",
+        "specialty":"Minterne"
+      },
+       {
+        "name":"سريم سفيان",
+        "phone":"0771999818",
+        "address":"دلس",
+        "specialty":"Minterne"
+      } 
+    ]
   },
   {
-    "stateName": "Boumerdès",
+    "stateName": "Bouira",
     "doctors": []
   },
   {
