@@ -8853,6 +8853,155 @@
       }
     ]
   },
+   {
+    "stateName": "Tipaza",
+    "doctors": [
+      {
+        "name":"سحنون محمد",
+        "phone":"0779069423",
+        "address":"مسجد احمر العين (تيبازة)",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"بوزيد حسناء",
+        "phone":"0552703622",
+        "address":"3حي هواري بواسماعيل",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"عسال محمد",
+        "phone":"065355676",
+        "address":"حي 5 جويلية",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"زغندري محمد",
+        "phone":"",
+        "address":"حي 140 مسكن تيبازة",
+        "specialty":"Mgénéral"
+      }, 
+       {
+        "name":"غيث ل",
+        "phone":"0676265363",
+        "address":"حي التوفير (لاكناب) رقم 67",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"كروشي المخطار",
+        "phone":"",
+        "address":"حي النصر",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"دحماني محمد نجيب",
+        "phone":"0662734126",
+        "address":"بوإسماعيل ولاية تيبازة",
+        "specialty":"Orl"
+      },
+        {
+        "name":"دحماني محمد نجيب",
+        "phone":"0662734126",
+        "address":"بوإسماعيل ولاية تيبازة",
+        "specialty":"Orl"
+      },
+       {
+        "name":"الدكتورة أ.  جمعة",
+        "phone":"0662721388",
+        "address":"Citè du stade bt. C1 1er",
+        "specialty":"Orl"
+      },
+       {
+        "name":"دينا ترخوش",
+        "phone":"055107425",
+        "address":"بوسماعيل ولاية تيبازة",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"بيتش مكي",
+        "phone":"0556409988",
+        "address":"حي 150 مسكن العمارة A3 رقم 2",
+        "specialty":"Cardiologie"
+      },
+        {
+        "name":"قمري محمد شفيق",
+        "phone":"031621991",
+        "address":"حي حمود إيخلف تيبازة",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"بومدين",
+        "phone":"0662736190",
+        "address":"حجوط 200 مسكن",
+        "specialty":"Cardiologie"
+      }, 
+     {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Neurologie"
+       }, 
+      {
+        "name":"لعرابي سمير",
+        "phone":"0552481616",
+        "address":"أمام مستشفى القليعة",
+        "specialty":"Penumologie"
+      },
+       {
+        "name":"جدي ناصر",
+        "phone":"",
+        "address":"بلدية حجوط ولاية تيبازة",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"زموشي ياسين",
+        "phone":"",
+        "address":"20 شارع بونطيرو جلول القليعة تيبازة",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"كلينيك السلام",
+        "phone":"0561751479",
+        "address":"Douaouda tipzza",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"تيتش مكي",
+        "phone":"",
+        "address":"حي 150 مسكن العمارة A3 رقم 2",
+        "specialty":"Minterne"
+      }
+    ]
+  }, 
   {
     "stateName": "Defla",
     "doctors": []
@@ -8883,10 +9032,6 @@
   },
   {
     "stateName": "Tamanrasset",
-    "doctors": []
-  },
-  {
-    "stateName": "Tipaza",
     "doctors": []
   },
  {
