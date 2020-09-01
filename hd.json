@@ -7559,7 +7559,122 @@
   },
   {
     "stateName": "Bayadh",
-    "doctors": []
+    "doctors": [
+    {
+        "name":"علاء ناصر الدين",
+        "phone":"0664477962",
+        "address":"شارع أول نوفمبر الأبيض سيدي الشيخ",
+        "specialty":"Mgénéral"
+      },
+        {
+        "name":"معطى سميرة",
+        "phone":"0793944921",
+        "address":"Lot CHEIKH BOUAMAMA EL BAYADH",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"غيث ل",
+        "phone":"0676265363",
+        "address":"حي التوفير (لاكناب) رقم 67, 32000 البيض",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"بلقرينات كريم",
+        "phone":"0555041077",
+        "address":"مقابل المشفي الولاءي محمد بوضياف  لولاية البيض",
+        "specialty":"Orl"
+      },
+       {
+        "name":"الدكتور بن ساحة سمير",
+        "phone":"0560875045",
+        "address":"وسط مدينةالبيض ",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"الدكتورة حبيبي زهرة",
+        "phone":"0699285459",
+        "address":"مصلحة الامومة الموسسة العمومية الاستشفاءية بالبيض",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"دكتورة بلغماري",
+        "phone":"0557047129",
+        "address":"مقابل مدرسة خداوي",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"قنيش امال",
+        "phone":"0657407892",
+        "address":"طريق أفلو خلف مقهي نسيم ولاية البيض",
+        "specialty":"Orthopédique"
+      },
+        {
+        "name":"دقة محمد",
+        "phone":"0697159695",
+        "address":"حي الصديقية البيض",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Cardiologie"
+      },
+{
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Neurologie"
+       }, 
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"بروان نور الهدى",
+        "phone":"0797767616",
+        "address":"حي السلام",
+        "specialty":"ChirurgieG"
+      },
+       {
+        "name":"درار محمد",
+        "phone":"0771593815",
+        "address":"البيض",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Minterne"
+      }
+    ]
   },
   {
     "stateName": "BordjBouArreridj",
