@@ -9643,85 +9643,125 @@
   },
   {
     "stateName": "Defla",
-    "doctors": []
-  },
-  {
-    "stateName": "Ghardaia",
-    "doctors": []
-  },
-  {
-    "stateName": "Laghouat",
-    "doctors": []
-  },
-  {
-    "stateName": "Relizane",
-    "doctors": []
-  },
-  {
-    "stateName": "Tamanrasset",
-    "doctors": []
-  },
- {
-    "stateName": "Témouchent",
     "doctors": [
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
+    {
+        "name":"بن رقية عبد الكريم",
+        "phone":"0549055390",
+        "address":"حي مازوني عين الدفلى",
         "specialty":"Mgénéral"
       },
        {
-        "name":"",
-        "phone":"",
-        "address":"",
+        "name":"ابراهيم بن يحي",
+        "phone":"0699789767",
+        "address":"عين الدفلى قرب الصندوق الوطني للتقاعد CNR",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"محمدي عبد القادر",
+        "phone":"0791199328",
+        "address":"دائرة العبادية مقابل للضمان الاجتماعي ",
         "specialty":"Dentiste"
       },
        {
-        "name":"",
+        "name":"سمير المداني",
+        "phone":"0697950160",
+        "address":"بلدية بئر ولد خليفة ولاية عين الدفلى",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"محمد أمين عيوش",
         "phone":"",
-        "address":"",
+        "address":"خميس مليانة Cité abatoire Bat 31",
         "specialty":"Orl"
       },
        {
-        "name":"",
-        "phone":"",
-        "address":"",
+        "name":"بن حليمة",
+        "phone":"0542402095",
+        "address":"ليسكادرو",
         "specialty":"Ophtalmologie"
       },
        {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Pédiatrie"
+        "name":"ياسين",
+        "phone":"0698454974",
+        "address":"عين الدفلى",
+        "specialty":"Ophtalmologie"
       },
       {
-        "name":"",
+        "name":"سالي ربيع",
         "phone":"",
-        "address":"",
+        "address":"حي الأخوة مناد رقم 91 عين الدفلى",
+        "specialty":"Ophtalmologie"
+      }, 
+       {
+        "name":"بن عمار",
+        "phone":"0557590946",
+        "address":"حي النصر فوق محطة المسافرين",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"بن عمارة دليلة",
+        "phone":"",
+        "address":"Cité Nadjem",
+        "specialty":"Pédiatrie"
+      },
+    {
+        "name":"روراوة نصيرة",
+        "phone":"0676104384",
+        "address":"سيدي العقيدة العطاف",
+        "specialty":"Gynécologie"
+      },  
+      {
+        "name":"بن دالي",
+        "phone":"0540826581",
+        "address":"شارع العربي بوعمران مليانة بالقرب من قاعة الحفلات زروقي",
         "specialty":"Gynécologie"
       },
         {
-        "name":"",
-        "phone":"",
-        "address":"",
+        "name":"بليلي",
+        "phone":"0561023867",
+        "address":"حي الخياط",
         "specialty":"Orthopédique"
       },
        {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Cardiologie"
+        "name":"جلول حدوش",
+        "phone":"0771879793",
+        "address":"Centre commercial bloc B n°02",
+        "specialty":"Orthopédique"
       },
      {
-        "name":"",
+        "name":"مراح",
+        "phone":"0656151551",
+        "address":"حي النصر فوق محطة المسافرين",
+        "specialty":"Orthopédique"
+      },  
+       {
+        "name":"بوشاقور",
+        "phone":"0558568707",
+        "address":"خميس مليانة",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"حنان طاب",
         "phone":"",
-        "address":"",
+        "address":"Cite 40logts BAT 01",
+        "specialty":"Cardiologie"
+      },
+      {
+        "name":"بومدين حسام الدين",
+        "phone":"",
+        "address":"فوق قصابة المدينة - حي السلام بخميس مليانة",
         "specialty":"Neurologie"
        }, 
+       {
+        "name":"طيبوني محمد",
+        "phone":"0783154767",
+        "address":"حي الاخوة شريفي 270 مسكن عين الدفلى",
+        "specialty":"Penumologie"
+      },
       {
-        "name":"",
-        "phone":"",
-        "address":"",
+        "name":" بلحاج قويدر امينة",
+        "phone":"0667433318",
+        "address":"حي 84 مسكن السوق الجميل-بومارشي- مقابل محطة الحافلات بخميس مليانة",
         "specialty":"Penumologie"
       },
      {
@@ -9731,11 +9771,17 @@
         "specialty":"Urologie"
       },
       {
-        "name":"",
-        "phone":"",
-        "address":"",
+        "name":"بلطرش",
+        "phone":"0552184402",
+        "address":"عين دفلى",
         "specialty":"Digestif"
       },
+      {
+        "name":"لعيد مزيان",
+        "phone":"",
+        "address":"خميس مليانة Cité Houria bloc E3",
+        "specialty":"Digestif"
+      }, 
     {
         "name":"",
         "phone":"",
@@ -9743,25 +9789,35 @@
         "specialty":"Endocrinolog"
       },
         {
-        "name":"",
+        "name":"على عبد الاوي",
         "phone":"",
-        "address":"",
+        "address":"خميس مليانة",
         "specialty":"ChirurgieG"
       },
     {
-        "name":"",
+        "name":"عزاز",
         "phone":"",
-        "address":"",
+        "address":"حي بناء الجاهز جليدة ولاية عين الدفلى",
         "specialty":"Minterne"
       },
-       {
-        "name":"",
+      {
+        "name":"صونيا عمارة",
         "phone":"",
-        "address":"",
-        "specialty":"Pychitatrie"
+        "address":"Cite 84 logts bat g n 74",
+        "specialty":"Minterne"
       }
+    
     ]
   },
+  {
+    "stateName": "Ghardaia",
+    "doctors": []
+  },
+  {
+    "stateName": "Relizane",
+    "doctors": []
+  },
+ 
   {
     "stateName":"Tips",
     "tipsArray" : [
