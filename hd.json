@@ -8656,6 +8656,203 @@
       } 
     ]
   },
+   {
+    "stateName": "SoukAhras",
+    "doctors": [
+    {
+        "name":"مجروش مراد",
+        "phone":"0772272507",
+        "address":"أمام مدرسة زمزوم",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"كريم بلعليا",
+        "phone":"0637376821",
+        "address":"وسط المدينة",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"دكتور زرومي عبدالحميد",
+        "phone":"037705087",
+        "address":"سوق اهراس",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"محمد لافيا",
+        "phone":"",
+        "address":"46 شارع بادي مختار سوق أهراس",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"مرابطي رضا",
+        "phone":"",
+        "address":"حي آول نوفمبر  1954  تاورة ",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"حسني سيد علي",
+        "phone":"0556998211",
+        "address":"04 rue d'Alger  ",
+        "specialty":"Orl"
+      },
+       {
+        "name":"دكتور خروبي",
+        "phone":"0773109352",
+        "address":"سوق أهراس",
+        "specialty":"Orl"
+      },
+       {
+        "name":"بوغريرة مراد",
+        "phone":"037724175",
+        "address":"04 نهج مجردة ,الطابق الثاني",
+        "specialty":"Orl"
+      },
+       {
+        "name":"الدكتور محمودي نبيلة",
+        "phone":"0773651551",
+        "address":"شارع سليمان عميرات رقم 01 سوق أهراس",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"العربي",
+        "phone":"",
+        "address":"ابن رشد. سوق اهراس في مفترق الطريق",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"بن عدودة جوامع",
+        "phone":"0772439087",
+        "address":"سكانسكا مقابل La maison Toyota سوق أهراس ولاية سوق أهراس",
+        "specialty":"Pédiatrie"
+      },
+     {
+        "name":"سيمود عادل",
+        "phone":"0666731988",
+        "address":"Cite 20 aout 1955(geffec) bat13 1er étage",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"لعلايبية طارق",
+        "phone":"037724225",
+        "address":"شارع مجردة(مقابل مكتب البريد المركزي سوق أهراس)",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"طارق ستارة",
+        "phone":"",
+        "address":"وسط المدينة (نشمايا) ولاية سوق أهراس",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"الخطيب",
+        "phone":"",
+        "address":"مصحة المنار ولاية سوق أهراس",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"دكتور رضوان",
+        "phone":"0793522406",
+        "address":"سوق أهراس",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"الحكيم قاسمي حملاو ي",
+        "phone":"0770458160",
+        "address":"حي ستة اوت ولاية سوق أهراس",
+        "specialty":"Orthopédique"
+      },
+        {
+        "name":"بيروك يوسف",
+        "phone":"037824755",
+        "address":"حي 1700سكن",
+        "specialty":"Orthopédique"
+      },
+        {
+        "name":" لوجاني محمد يزيد",
+        "phone":"037371371",
+        "address":"سوق أهراس",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"ملوك محمد الشريف",
+        "phone":"037729014",
+        "address":"جنان التفاح سوق اهراس",
+        "specialty":"Cardiologie"
+      },
+      {
+        "name":"حميد شريف فاروق",
+        "phone":"",
+        "address":"إقامة بلير سوق أهراس",
+        "specialty":"Neurologie"
+       }, 
+      {
+        "name":"نور الدين معارفية",
+        "phone":"",
+        "address":"حي باولو 2",
+        "specialty":"Neurologie"
+       }, 
+      {
+        "name":"دكتور بندير",
+        "phone":"037777151",
+        "address":"سدراتة ",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"محمد قواسمية",
+        "phone":"037312020",
+        "address":"Cité Echahid",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"شريف فاروق حميد",
+        "phone":"037324545",
+        "address":"Résidence Belair",
+        "specialty":"ChirurgieG"
+      },
+        {
+        "name":"تيباح بلقاسم",
+        "phone":"",
+        "address":"rue combattant sedrata",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"رزايقية توفيق",
+        "phone":"0557687865",
+        "address":"تحصيص لطيفي بجانب مسجد 400 مسكن ",
+        "specialty":"Minterne"
+      },
+         {
+        "name":"بوعلي لعلى",
+        "phone":"037742031",
+        "address":"سوق اهراس",
+        "specialty":"Minterne"
+      },
+        {
+        "name":"دكتور محامدية",
+        "phone":"037731313",
+        "address":"سوق أهراس",
+        "specialty":"Minterne"
+      },
+       {
+        "name":"قوسمي محمد",
+        "phone":"037312020",
+        "address":"حي الشهيد سوق أهراس",
+        "specialty":"Minterne"
+      }
+    ]
+  },
   {
     "stateName": "Defla",
     "doctors": []
@@ -8682,10 +8879,6 @@
   },
   {
     "stateName": "Relizane",
-    "doctors": []
-  },
-  {
-    "stateName": "SoukAhras",
     "doctors": []
   },
   {
