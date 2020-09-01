@@ -7677,8 +7677,263 @@
     ]
   },
   {
+    "stateName": "Illizi",
+    "doctors": [
+    {
+        "name":"بولوحة رفاس",
+        "phone":"0696742949",
+        "address":"ايليزي",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Orl"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Cardiologie"
+      },
+{
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Neurologie"
+       }, 
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Minterne"
+      }
+    ]
+  },
+  {
     "stateName": "BordjBouArreridj",
-    "doctors": []
+    "doctors": [
+    {
+        "name":"لعياضي فريدة",
+        "phone":"0776500498",
+        "address":"حي106 الحمادية",
+        "specialty":"Mgénéral"
+      },
+        {
+        "name":"بن قدواد ام السعد",
+        "phone":"0660364577",
+        "address":"برج بوعريريج",
+        "specialty":"Mgénéral"
+      },
+        {
+        "name":"رولي م",
+        "phone":"0553033586",
+        "address":"الواد الاخضر  بلدية الحمادية",
+        "specialty":"Mgénéral"
+      },
+        {
+        "name":"سعيد بلميلود",
+        "phone":"035675728",
+        "address":"عيادة 1044",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"Chennoufi mohammed",
+        "phone":"0558254200",
+        "address":"Commune le menhir",
+        "specialty":"Dentiste"
+      },
+      {
+        "name":"ميمون شفيق",
+        "phone":"0669646556",
+        "address":"تجزئة قطاع د 1044",
+        "specialty":"Dentiste"
+      }, 
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Orl"
+      },
+       {
+        "name":"محب الدين سليمان",
+        "phone":"035730124",
+        "address":"9 شارع ريغي الصادق حي الحدائق برج بوعريربج",
+        "specialty":"Ophtalmologie"
+      },
+      {
+        "name":"شنوف عزالدين",
+        "phone":"035683034",
+        "address":"شارع BC رقم 1 فوبورق 17 أكتوبر بالقرب من مستشفى برج بوعريريج",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"دبيش خديجة",
+        "phone":"0779902819",
+        "address":"36Rue BK cité FG des jardins A coté de polyclinique Koucha",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"حشاني فطيمة",
+        "phone":"0670128512",
+        "address":"شارع ٢٤ العربي بن مهيدي ولاية برج بوعريريج",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"بولنوار عكروف",
+        "phone":"035684347",
+        "address":"Commune d'Anassers BBA",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"قاسي هاني",
+        "phone":"0559482247",
+        "address":"حي الكاهنة الطابق الأرضي بجانب صيدلية مروانة مقابل مسجد أبو بكر الصديق ",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"بوعلام كريتة",
+        "phone":"035680493",
+        "address":"Fg du 17 octobre Rue A .K N° 1",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"عز الدين شنوف",
+        "phone":"035683014",
+        "address":"BORDJ BOU ARRERIDJ",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"الغربي سليماني",
+        "phone":"035674447",
+        "address":"5Av. Houari Boumédiène BBA",
+        "specialty":"Cardiologie"
+      },
+      {
+        "name":"كمال صحراوي",
+        "phone":"035672525",
+        "address":"31Route Bir S'nab",
+        "specialty":"Neurologie"
+       },
+       {
+        "name":"زايدي ص",
+        "phone":"0555176799",
+        "address":"حي 17 أكتوبر شارع بالجودي مختار رقم 41 بجانب مستشفى لخضر بوزيدي ",
+        "specialty":"Neurologie"
+       }, 
+      {
+        "name":"قرواني",
+        "phone":"0799343700",
+        "address":"مقابل الجامع الكيير مونية",
+        "specialty":"Penumologie"
+      },
+        {
+        "name":"بوفروم يعقوب",
+        "phone":"0673380023",
+        "address":"حي 517 مسكن رقم 476 مقابل عمارات بلعربي طريق زمورة",
+        "specialty":"Penumologie"
+      },
+        {
+        "name":"بن بلعيد",
+        "phone":"0666569616",
+        "address":"حي الفيبور برج بوعريريج",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"خالدي ن زوجة بن الشيخ",
+        "phone":"0666943056",
+        "address":"حي 17 أكتوبر شارع Y رقم 6 وراء مسجد شعبة الفار ",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"بلعور احمد",
+        "phone":"035748474",
+        "address":"الموضة قرب صيدلية زيتوني",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":" قارة محمد د",
+        "phone":"0553183572",
+        "address":"03 طريق ديدوش مراد برج بوعريريج",
+        "specialty":"Minterne"
+      }
+
+
+    
+    ]
   },
   {
     "stateName": "Bouira",
@@ -7698,10 +7953,6 @@
   },
   {
     "stateName": "Ghardaia",
-    "doctors": []
-  },
-  {
-    "stateName": "Illizi",
     "doctors": []
   },
   {
