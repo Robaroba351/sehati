@@ -2448,6 +2448,191 @@
       } 
     ]
   },
+   {
+    "stateName": "Bouira",
+    "doctors": [
+    {
+        "name":"قارة علي",
+        "phone":"0774321270",
+        "address":"حي 210 مسكن، عمارة 5الأخضرية",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"العارفين مصطفى",
+        "phone":"0770998504",
+        "address":"الهاشمية مركز ولاية البويرة",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"صحراوي سارة",
+        "phone":"0672510644",
+        "address":"الأخضرية البويرة",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"عمرون مصطفى",
+        "phone":"0555154511",
+        "address":"تجمع 25 رقم 22 عين بسام /بويرة",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"علمي عبد القادر",
+        "phone":"06663256",
+        "address":"حي زروقي",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"قويدري محمد رضا",
+        "phone":"0661628170",
+        "address":"حي زمور محمد أعراب البويرة",
+        "specialty":"Dentiste"
+      },
+      {
+        "name":"تواتي نورة",
+        "phone":"0663369001",
+        "address":"26l0ts commerciaux num",
+        "specialty":"Dentiste"
+      },
+     {
+        "name":"اقسوس حنافي",
+        "phone":"0556102130",
+        "address":"طريق الجامعة مقابل مصحة ابن سينا",
+        "specialty":"Dentiste"
+      },
+      {
+        "name":"مزراڨ ساعد",
+        "phone":"0556102130",
+        "address":"طريق الجامعة مقابل مصحة ابن سينا",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"طبيب لعريبي",
+        "phone":"0541336748",
+        "address":"طريق مستشفى بن بولعيد البليدة",
+        "specialty":"Orl"
+      },
+       {
+        "name":"صايشي نور الدين",
+        "phone":"",
+        "address":"عين بسام البويرة مقابل بلدية عين بسام",
+        "specialty":"Ophtalmologie"
+      },
+      {
+        "name":"م ر سعدوني",
+        "phone":"0540932931",
+        "address":"حي 60 مسكن حركات عمارة د 77",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"قريبي",
+        "phone":"0794558342",
+        "address":"دائرة سور الغزلان",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"أجطوطاح زوجة بومخلوف",
+        "phone":"0541931072",
+        "address":"حى ذراع البرج، فوق صيدلية طيطح",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"سلام سامية",
+        "phone":"0557114799",
+        "address":"البويرة",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"ميلي سليمة",
+        "phone":"",
+        "address":"مام مجلس القضاء",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"بومخلوف فاتح",
+        "phone":"0551261408",
+        "address":"حي حركات، طريق المستشفى، أمام صيدلية لالڨ",
+        "specialty":"Orthopédique"
+      },
+        {
+        "name":"سعدي",
+        "phone":"0770132805",
+        "address":"حي الثورة",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Cardiologie"
+      },
+     {
+        "name":"بن كانون طاهر",
+        "phone":"0771055227",
+        "address":"Cité 60 lgts LSP Bt B cage 02,hai Thaoura-bouira.",
+        "specialty":"Neurologie"
+       }, 
+       {
+        "name":"سمير عبد الحفيظ جادي",
+        "phone":"0556474996",
+        "address":"Cité 11 lots bat 02 , face souk Rahma",
+        "specialty":"Neurologie"
+       }, 
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"محفوظ مصطفى",
+        "phone":"0556075261",
+        "address":"حي 50 مسكن عمارة رقم 5 الطابق الأرضي رقم 1 بين cnep و بنك",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"دكتورة مجرس",
+        "phone":"0541301768",
+        "address":"حي حركات البويرة",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"نعموني",
+        "phone":"0541273076",
+        "address":"حي 480مسكن صيدلية خالدي",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"جاتلي عبد الوهاب",
+        "phone":"0661622262",
+        "address":"حي 166 مسكن ولاية البويرة",
+        "specialty":"Minterne"
+      }
+    ]
+  },
   {
     "stateName": "Tamanrasset",
     "doctors": [
@@ -8327,10 +8512,6 @@
         "specialty":"Minterne"
       }
     ]
-  },
-  {
-    "stateName": "Bouira",
-    "doctors": []
   },
   {
     "stateName": "Defla",
