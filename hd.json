@@ -7188,6 +7188,215 @@
     ]
   },
   {
+    "stateName": "Ouragla",
+    "doctors": [
+    {
+        "name":"محمد جباس",
+        "phone":"0797701269",
+        "address":"حي لبدوعات تبسبست تقرت",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"امينة",
+        "phone":"0777843612",
+        "address":"شارع 24 افريل تقرت",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"حود ميسة زبيدة",
+        "phone":"0669603631",
+        "address":"الرويسات ورقلة",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"محمد بلعباس",
+        "phone":"0668825951",
+        "address":"ورقلة",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"خنقاوي عباس",
+        "phone":"0665783912",
+        "address":"عجاجة عين البيضاء ورقلة",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"بوخريص محمد الصادق",
+        "phone":"0662718069",
+        "address":"حي باحميد ورقلة",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"غدامسي حسين",
+        "phone":"0666693223",
+        "address":"Cité Bel-Abbès, Benithour Ouargla",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"الدكتور بن الزوخ فاتح",
+        "phone":"0669869704",
+        "address":"مفترق الطرق الجزيرة . الرويسات . ورقلة",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"دكتور واكلي عبد الغاني",
+        "phone":"0540353519",
+        "address":"مصحة عادة حي النصر الخفجي",
+        "specialty":"Orl"
+      },
+       {
+        "name":"تركي شوقي",
+        "phone":"0558051009",
+        "address":"حي بني ثور",
+        "specialty":"Orl"
+      },
+       {
+        "name":"مشري إبراهيم",
+        "phone":"0674927556",
+        "address":"مصحة الضياء ورقلة",
+        "specialty":"Orl"
+      },
+       {
+        "name":"أحمد خدران عيادة النور",
+        "phone":"077590639",
+        "address":"تقرت ولاية ورقلة",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"عبد الفتاح بن لمودي",
+        "phone":"0662706480",
+        "address":"ورقلة تقرت CITE 630 LOGTS",
+        "specialty":"Ophtalmologie"
+      },
+    {
+        "name":"بن ساسي بن منصور",
+        "phone":"0771746425",
+        "address":"CITE BAHMID N° 12",
+        "specialty":"Pédiatrie"
+      },  
+     {
+        "name":"بلمنور عزالدين",
+        "phone":"0780253884",
+        "address":"تقرت ولاية ورقلة",
+        "specialty":"Pédiatrie"
+      }, 
+      {
+        "name":"خالد عسكرانتي",
+        "phone":"0657787819",
+        "address":"حي 24 فبرارير لسيليس",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"كمال بومليت",
+        "phone":"",
+        "address":"ورقلة ورقلة CITE SI EL HAOUES ",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"شايب  لوزة",
+        "phone":"032106610",
+        "address":"تقرت مقابل مقر الولاية",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"موساوي أسامة",
+        "phone":"0790901616",
+        "address":"تقرت CITE 52 LOGTS N° F",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"العلوي",
+        "phone":"0663285114",
+        "address":"بالقرب من مستشفى محمد بوضياف ورقلة",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"محمد خير الدين حفيان",
+        "phone":"0781511949",
+        "address":"الجزائر ورقلة CITE BOUMADA",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"جلاسي منير",
+        "phone":"0781299628",
+        "address":"تقرت",
+        "specialty":"Neurologie"
+       }, 
+    {
+        "name":"ناصر حشحوش",
+        "phone":"0550193938",
+        "address":"ورقلة CITE 21 LOGTS N° 06",
+        "specialty":"Neurologie"
+       }, 
+        {
+        "name":"تجاني لخضر",
+        "phone":"",
+        "address":"تقرت CITE MED,KHEMISSTI",
+        "specialty":"Penumologie"
+      },
+      {
+        "name":"مصحة عادة",
+        "phone":"0659515142",
+        "address":"حي النصر الخفجي",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"شوقي قلبو",
+        "phone":"0777585271",
+        "address":"تقرت ولاية ورقلة",
+        "specialty":"Urologie"
+      },
+       {
+        "name":"طيورة مفيدة",
+        "phone":"0696664748",
+        "address":"بجانب المقر الرسمي للشرطة",
+        "specialty":"Digestif"
+      },
+      {
+        "name":"مصحة عادة",
+        "phone":"0659515142",
+        "address":"حي النصر الخفجي",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"الشافية غول",
+        "phone":"0774226530",
+        "address":"CITE MED,KHEMISSTI",
+        "specialty":"Endocrinolog"
+      },
+       {
+        "name":"شرفي محمد الهاشمي",
+        "phone":"0771693570",
+        "address":"ورقلة حاسي مسعود CIE IBEN BADIS",
+        "specialty":"ChirurgieG"
+      },
+        {
+        "name":"محمد هيدوب",
+        "phone":"0661382233",
+        "address":"ورقلة CITE SIDI ABDELKADER",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"بوناب فاطمة الزهراء",
+        "phone":"0662163651",
+        "address":"ورقلة تقرت CITE 52 LOGTS BT B N° 07",
+        "specialty":"Minterne"
+      },
+         {
+        "name":"فريد بونعناع",
+        "phone":"0770673532",
+        "address":"BENI-THOUR",
+        "specialty":"Minterne"
+       }
+    ]
+  },
+  {
     "stateName": "Bayadh",
     "doctors": []
   },
@@ -7233,10 +7442,6 @@
   },
   {
     "stateName": "Oran",
-    "doctors": []
-  },
-  {
-    "stateName": "Ouragla",
     "doctors": []
   },
   {
