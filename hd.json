@@ -8222,6 +8222,113 @@
     ]
   },
   {
+    "stateName": "Tindouf",
+    "doctors": [
+    {
+        "name":"دحو محمد",
+        "phone":"0662815129",
+        "address":"n7 rue Brik Salam tindouf",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"حنة علي",
+        "phone":"0661813150",
+        "address":"حي النصر بالقرب من جامع مرسلي تندوف ",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"صالحي فطيمة",
+        "phone":"0773993970",
+        "address":"Cité tindouf lotfi Tindouf",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"الطاهر",
+        "phone":"0657064037",
+        "address":"عيادة بسمتي لجراحة الاسنان تندوف",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Orl"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"شنان مختار ",
+        "phone":"",
+        "address":"Cité elnasser / Tindouf",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"عبد الحميد لالة",
+        "phone":"",
+        "address":"Cité moussani / Tindouf",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Cardiologie"
+      },
+{
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Neurologie"
+       }, 
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Minterne"
+      }
+    ]
+  },
+  {
     "stateName": "Bouira",
     "doctors": []
   },
@@ -8259,10 +8366,6 @@
   },
   {
     "stateName": "Tamanrasset",
-    "doctors": []
-  },
-  {
-    "stateName": "Tindouf",
     "doctors": []
   },
   {
