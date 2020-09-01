@@ -7396,6 +7396,167 @@
        }
     ]
   },
+   {
+    "stateName": "Oran",
+    "doctors": [
+    {
+        "name":"بصافي علي",
+        "phone":"0773211473",
+        "address":"حي بنداود -سيد البشير",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"ياسين تاج الدين",
+        "phone":"0775580162",
+        "address":"شارع باهوس,رقم1 ولاية وهران",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"حكيم سقال",
+        "phone":"0551099018",
+        "address":"وهران -عين بيا",
+        "specialty":"Mgénéral"
+      },
+     {
+        "name":"عمر الشاوي حمودة",
+        "phone":"0771945430",
+        "address":"43 شارع عبان رمضان حي خميستي  بئر الجير",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"ايت ورجة حكيم",
+        "phone":"0558219822",
+        "address":"قاعة العلاج شتيبو ٣ سيدي شحم، وهران",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"بن عمارة مراد",
+        "phone":"0542268200",
+        "address":"20 شارع محمد خميستي جيدل وهران",
+        "specialty":"Orl"
+      },
+       {
+        "name":"عبي عياد حسين",
+        "phone":"0770328646",
+        "address":"16 شارع الدكتور بن دزرجاب وهران",
+        "specialty":"Orl"
+      },
+       {
+        "name":"فرضحاب زكرياء",
+        "phone":"0541655619",
+        "address":"45 شارع بن حاسي بونيف",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"براشد محمد",
+        "phone":"0555517237",
+        "address":"سيتي اللوز",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"بن بعزيز سعيد",
+        "phone":"0665984026",
+        "address":"321 طريق مسكن 440 حي النخلة بير الجير وهران",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"عائشة رقوين",
+        "phone":"0550660987",
+        "address":"وهران",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"ماسي ايت ايدير",
+        "phone":"0794001135",
+        "address":"حي اللوز وهران",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"مارس موارد توفيق",
+        "phone":"0795090094",
+        "address":"حي بوضياف واد تليلات",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"أحمد يزلي",
+        "phone":"0770102383",
+        "address":"شارع محمد خميستي قرب بريد الاتصالات الكبيرة",
+        "specialty":"Neurologie"
+       }, 
+     {
+        "name":"صابر عائشة",
+        "phone":"0782083187",
+        "address":"حاسي عامر شارع بكاي",
+        "specialty":"Neurologie"
+       }, 
+      {
+        "name":"زيداني عبد الفتاح",
+        "phone":"0549382229",
+        "address":"26 شارع العربي بن مهيدي وهران",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"خداوي",
+        "phone":"",
+        "address":"18 شارع الشيخ عبد القادر مديوني وهران",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"حماني سمية",
+        "phone":"0550064449",
+        "address":"20 شارع الإخوة نيتي وهران",
+        "specialty":"Digestif"
+      },
+       {
+        "name":"بوجمعة مختاري",
+        "phone":"0779892429",
+        "address":"العمارة 117 الطابق الأول صديقي وهران",
+        "specialty":"Digestif"
+      }, 
+    {
+        "name":"خلوا علي شكيب",
+        "phone":"0667109490",
+        "address":"حي الأهرام جناح 3 جامعة العلوم و التكنولوجيا وهران",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"مراوي سعاد",
+        "phone":"0556882668",
+        "address":"حي 90 مسكن العمارة 18 مقابل méridien ولاية وهران",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"علام هيشام",
+        "phone":"0771541053",
+        "address":"Avenue Albert 1",
+        "specialty":"ChirurgieG"
+      },
+       {
+        "name":"مرابط عبد الرحمان",
+        "phone":"0771247698",
+        "address":"13 شارع عبان رمضان وهران",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"بوعبد الله رياض عادل",
+        "phone":"0552871372",
+        "address":"5 شارع حاج فريح ضيف الله العثمانية وهران",
+        "specialty":"Minterne"
+       }
+    ]
+  },
   {
     "stateName": "Bayadh",
     "doctors": []
@@ -7438,10 +7599,6 @@
   },
   {
     "stateName": "Mila",
-    "doctors": []
-  },
-  {
-    "stateName": "Oran",
     "doctors": []
   },
   {
