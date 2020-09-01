@@ -9811,7 +9811,210 @@
   },
   {
     "stateName": "Ghardaia",
-    "doctors": []
+    "doctors": [
+    {
+        "name":"لعمور نور الهدى",
+        "phone":"0796774197",
+        "address":"شارع الشهيد هرويني احمد",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"نايلي بشير",
+        "phone":"0774891818",
+        "address":"وسط المدينة زلفانة ",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"حكيمة حكيمة",
+        "phone":"0777377600",
+        "address":"زلفانة",
+        "specialty":"Mgénéral"
+      }, 
+       {
+        "name":"بن اودينة علال",
+        "phone":"0663890620",
+        "address":"غرداية",
+        "specialty":"Dentiste"
+      },
+      {
+        "name":"الطبيبة بحاري ح",
+        "phone":"0659727166",
+        "address":"موقف الحافلات مصيطفى بن سمارة",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"بابا علي نور الدين",
+        "phone":"0665690111",
+        "address":"غرداية",
+        "specialty":"Orl"
+      },
+      {
+        "name":"كبير سليمان",
+        "phone":"0771831148",
+        "address":"ولاية غرداية",
+        "specialty":"Orl"
+      },
+       {
+        "name":"دودو نذير",
+        "phone":"0774506548",
+        "address":"شارع الحرمين بن يزقن",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"منانة رشيد",
+        "phone":"0776188895",
+        "address":"قرب الدرك الوطني ولاية غرداية",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"الحكيمة ن.بن لعلام",
+        "phone":"0553972187",
+        "address":"شارع العربي بن مهيدي الثنية ولاية غرداية",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"بهدي مصطفى",
+        "phone":"0552688065",
+        "address":"شارع اول نوفمبر كارفور مرغوب ولاية غرداية",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"زقيب بوعمامة",
+        "phone":"0793814494",
+        "address":"حي حفرة العباس المنيعة ولاية غرداية",
+        "specialty":"Orthopédique"
+      },
+    {
+        "name":"بن يوسف محمد",
+        "phone":"0557603682",
+        "address":"شارع الحرمين بن يزقن",
+        "specialty":"Orthopédique"
+      },
+      {
+        "name":"رفيس عمر",
+        "phone":"0551777381",
+        "address":"ملتقى الدكتور صالح مرغوب ",
+        "specialty":"Orthopédique"
+      },
+     {
+        "name":"الدكتور زيطاني حمزه",
+        "phone":"0551888456",
+        "address":"شارع 1ماي مليكة السفلى غرداية",
+        "specialty":"Orthopédique"
+      }, 
+       {
+        "name":"ناصر براهيم",
+        "phone":"0659630776",
+        "address":"بلدية القرارة 120 كلم عن ولاية غرداية",
+        "specialty":"Cardiologie"
+      },
+     {
+        "name":"حاج بوسعيد عبد الحميد",
+        "phone":"0550520178",
+        "address":"station الثنية لاري",
+        "specialty":"Neurologie"
+       }, 
+      {
+        "name":"فوطية محمد",
+        "phone":"0663399023",
+        "address":"طريق ورقلة شارع الحرمين غرداية",
+        "specialty":"Neurologie"
+       }, 
+      {
+        "name":"عوادي عبد العزيز",
+        "phone":"0657058060",
+        "address":"حي أول نوفمبر سكنات المعهد بالقرب من موقف الحافلات عريف القرارة",
+        "specialty":"Neurologie"
+       }, 
+      {
+        "name":"عيسى محمد",
+        "phone":"0542220579",
+        "address":"سيدي اعباز",
+        "specialty":"Neurologie"
+       }, 
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"عثماني صلاح",
+        "phone":"0774649377",
+        "address":"شارع 1 نوفمبر غرداية",
+        "specialty":"Urologie"
+      },
+       {
+        "name":"دبوز محمد",
+        "phone":"0799431902",
+        "address":"شارع الجزائر- أمام عيادة النخيل للجراحة-مليكة السفلى",
+        "specialty":"Urologie"
+      },
+       {
+        "name":"سعيد يحي",
+        "phone":"",
+        "address":"80 شارع 5 جويلية غرداية",
+        "specialty":"Digestif"
+      },
+      {
+        "name":"اولا براهيم",
+        "phone":"",
+        "address":"بجانب مديرية الصحة لولاية غرداية",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"بكاي الياس",
+        "phone":"0666483553",
+        "address":"بالقرب من ملتقى د. مرغوب - غرداية",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"د يحي مصطفى",
+        "phone":"0771634693",
+        "address":"بن يزقن. شارع الحرمين",
+        "specialty":"Endocrinolog"
+      }, 
+        {
+        "name":"حاج يحي بشير",
+        "phone":"",
+        "address":"2 شارع مفدي زكرياء غرداية",
+        "specialty":"ChirurgieG"
+      },
+        {
+        "name":"رحالي  ياسين",
+        "phone":"0551325655",
+        "address":"RUE DES ANCIENS MOUDJAHIDINE, Ghardaia",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"ولاد براهيم",
+        "phone":"0676651222",
+        "address":"خلف مقر ولاية غرداية من جهة مديرية الصحة ",
+        "specialty":"Minterne"
+      },
+       {
+        "name":"بن خيرة عيدة",
+        "phone":"0552709495",
+        "address":"ولاية غرداية",
+        "specialty":"Minterne"
+      },
+      {
+        "name":"باعمارة ابراهيم",
+        "phone":"0552390623",
+        "address":"شارع اول نوفمبر كارفور مرغوب غرداية",
+        "specialty":"Minterne"
+      } 
+
+
+
+    
+    ]
   },
   {
     "stateName": "Relizane",
