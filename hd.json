@@ -10010,23 +10010,140 @@
         "address":"شارع اول نوفمبر كارفور مرغوب غرداية",
         "specialty":"Minterne"
       } 
-
-
-
-    
     ]
   },
   {
     "stateName": "Relizane",
-    "doctors": []
+    "doctors": [
+    {
+        "name":"بن طاطة بن يحي",
+        "phone":"0775068580",
+        "address":"نهج المقبرة الاوروبية رقم اربعة غليزان",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"أسامة",
+        "phone":"0778340308",
+        "address":"سيدي عثمان",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"خالدي حليمة",
+        "phone":"0790291322",
+        "address":"حي سيدي عامر",
+        "specialty":"Mgénéral"
+      },
+     {
+        "name":"د بن خليفة عبد القادر",
+        "phone":"0772813883",
+        "address":"الحمادنة بوركبة. دائرة الحمادنة ولاية غليزان",
+        "specialty":"Mgénéral"
+      }, 
+       {
+        "name":"مقدم محمد أمين",
+        "phone":"0798783014",
+        "address":"شارع دحمان محمد بلدية وادي ارهيو",
+        "specialty":"Dentiste"
+      },
+      {
+        "name":"دكحال",
+        "phone":"0779525533",
+        "address":"ديار الورد. غليزان مركز",
+        "specialty":"Dentiste"
+      },
+      {
+        "name":"د شريفي سفيان",
+        "phone":"0770740567",
+        "address":"بلدية جديوية ولاية غليزان",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Orl"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Cardiologie"
+      },
+{
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Neurologie"
+       }, 
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Minterne"
+      }
+    ]
   },
  
   {
     "stateName":"Tips",
     "tipsArray" : [
-      "This is Tip Hi There   1 ",
-      "This is Tip Hi There  2 ",
-      "This is Tip Hi There  3 "
+      "يفيد استنشاق بخار الماء المغليّ بالنّعناعِ في طرد البلغم من الصدر",
+      " يساعد الزعتر على القضاء على الأميبا؛ وهو مهم في القضاء على العديدِ من الاضطراباتِ الهضميّة مثل انتفاخ البطن، والقيء، والإسهال",
+      "يؤدي ارتفاعِ ضغط الدم إلى تصلّب الشرايين وحدوث الجلطات الدموية "
     ]
     
   }
