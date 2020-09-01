@@ -8656,6 +8656,293 @@
       } 
     ]
   },
+ {
+    "stateName": "ElOued",
+    "doctors": [
+    {
+        "name":"تواتي فتحي",
+        "phone":"0699515150",
+        "address":"ام الزبد بلدية المقرن ",
+        "specialty":"Mgénéral"
+      },
+        {
+        "name":"حيمر عبد المجيد",
+        "phone":"0676833333",
+        "address":"حي تكسبت مقابل سوق العصر ",
+        "specialty":"Mgénéral"
+      },
+        {
+        "name":"ساري نورة",
+        "phone":"0674829708",
+        "address":"الدبيلة",
+        "specialty":"Mgénéral"
+      },
+        {
+        "name":"بالي هناء",
+        "phone":"0673439669",
+        "address":"حي تكسبت",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"د.طليبة م يزيد",
+        "phone":"0795218234",
+        "address":"حي النور الوادي 39000",
+        "specialty":"Dentiste"
+      },
+      {
+        "name":"عيادة الابتسامة",
+        "phone":"0672249999",
+        "address":"مجمع سالم الطبي - حي الناظور الوادي",
+        "specialty":"Dentiste"
+      },
+      {
+        "name":"شريط علي",
+        "phone":"0667824672",
+        "address":"حي الشعانبة بلدية الرباح ولاية الوادي",
+        "specialty":"Dentiste"
+      },
+      {
+        "name":"بكاري مروى",
+        "phone":"032106282",
+        "address":"حي النور الوادي بالقرب من مقر الولاية -الوادي",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"مصحة بلسم سوف",
+        "phone":"0666569191",
+        "address":"SIDI ABDALLAH EL OUED, 39000 El Oued",
+        "specialty":"Orl"
+      },
+      {
+        "name":"ديدي علي",
+        "phone":"0658325412",
+        "address":"حي 300 سكن-الوادي",
+        "specialty":"Orl"
+      },
+      {
+        "name":"ميلودي محمد بشير",
+        "phone":"0558384458",
+        "address":"حي أولاد أحمد-الوادي",
+        "specialty":"Orl"
+      },
+      {
+        "name":"سويد محمد العيد",
+        "phone":"0555303857",
+        "address":"حي النزلة فوق صيدلية الأشعري-الوادي",
+        "specialty":"Orl"
+      },
+       {
+        "name":"عيشوش عبد الغني",
+        "phone":"032247477",
+        "address":"بحي اولاد احمد بالوادي",
+        "specialty":"Ophtalmologie"
+      },
+        {
+        "name":"قصير  امين",
+        "phone":"0674131414",
+        "address":"حي 300 مسكن قرب صيدلية الأمل  ",
+        "specialty":"Ophtalmologie"
+      },
+        {
+        "name":"ڨية احسان",
+        "phone":"0550699839",
+        "address":"حي المنظر الجميل،(الڨارة) مقابل مصحة الرمال ",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"محلو جمال",
+        "phone":"0699410101",
+        "address":"حي المنظر الجميل",
+        "specialty":"Pédiatrie"
+      },
+       {
+        "name":"قرح عبد المجيد",
+        "phone":"0672268614",
+        "address":"حي الرمال-الوادي",
+        "specialty":"Pédiatrie"
+      },
+     {
+        "name":"زيتون سمير",
+        "phone":"0668618080",
+        "address":"حي الرمال شارع المغازات قرب مغازة دبي-الوادي",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"قعيد يوسف",
+        "phone":"0556854261",
+        "address":"حي الجدلة الوادي",
+        "specialty":"Pédiatrie"
+      }, 
+      {
+        "name":"سهيلة حرم حساني",
+        "phone":"0776916519",
+        "address":"شارع خميستي-الوادي",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"تفاحي صبرينة",
+        "phone":"696308125",
+        "address":"",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"مصطفاوي كمال",
+        "phone":"0770337029",
+        "address":"حي اولاد احمد-الوادي",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"عميرة محمد صلاح",
+        "phone":"0696969717",
+        "address":"النزلة-الوادي",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"تلحيق محمد البشير",
+        "phone":"0672408888",
+        "address":"حي 300سكن-الوادي",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"لجدل علي بدر",
+        "phone":"0557813190",
+        "address":"طريق أكفادوالدبيلة",
+        "specialty":"Orthopédique"
+      },
+      {
+        "name":"جوادي أحمد",
+        "phone":"0696404088",
+        "address":"حي400سكن الوادي",
+        "specialty":"Orthopédique"
+      }, 
+       {
+        "name":"محمودي فيصل",
+        "phone":"0560323939",
+        "address":"حي النور الوادي",
+        "specialty":"Cardiologie"
+      },
+   {
+        "name":"كينة معتز بالله",
+        "phone":"032123535",
+        "address":"مصحة ابن حيان-الواد",
+        "specialty":"Cardiologie"
+      },
+      {
+        "name":"صالحي لزهاري",
+        "phone":"032112010",
+        "address":"شارع خميستي-الوادي",
+        "specialty":"Cardiologie"
+      },
+    {
+        "name":"شقور سالم",
+        "phone":"0770762761",
+        "address":"حي 300سكن-الوادي",
+        "specialty":"Neurologie"
+       }, 
+       {
+        "name":"سليم بن موسى",
+        "phone":"0699690909",
+        "address":"حي الجدلة-الوادي",
+        "specialty":"Neurologie"
+       }, 
+       {
+        "name":"عيادي عباس",
+        "phone":"0550951330",
+        "address":"حي الكوثر مقابل ابتدائية جبالي-الوادي",
+        "specialty":"Neurologie"
+       }, 
+      {
+        "name":"توفيق سعدي",
+        "phone":"032142482",
+        "address":"حي 300 مسكن_حي أم سلمى فيلا الورود- الوادي",
+        "specialty":"Penumologie"
+      },
+       {
+        "name":"تركي نصر الدين",
+        "phone":"0668020247",
+        "address":"حي المنظر الجميل جنب مصحة الرمال",
+        "specialty":"Penumologie"
+      },
+       {
+        "name":"جديع جباري",
+        "phone":"032106250",
+        "address":"حي 17 اكتوبر",
+        "specialty":"Penumologie"
+      },
+       {
+        "name":"سردوك سليم",
+        "phone":"0556813835",
+        "address":"حي 300 سكن- الوادي",
+        "specialty":"Urologie"
+      }, 
+        {
+        "name":"نصيرة ابراهيم",
+        "phone":"0560199192",
+        "address":"مصحة ابن حيان-1نوفمبر-الواد",
+        "specialty":"Urologie"
+      },
+     {
+        "name":"بوعافية هناء",
+        "phone":"032140335",
+        "address":"مركز الهناء لتصفية الدم-الوادي",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"سليم خليف",
+        "phone":"032112123",
+        "address":"حي الجدلة، الوادي",
+        "specialty":"Digestif"
+      },
+     {
+        "name":"خلف منير",
+        "phone":"032110738",
+        "address":"حي المنظر الجميل",
+        "specialty":"Digestif"
+      },   
+    {
+        "name":"غريسي عبد القادر",
+        "phone":"0794301133",
+        "address":"حي أم سلمى-الوادي",
+        "specialty":"Endocrinolog"
+      },
+       {
+        "name":"فرتول نورة حرم زين",
+        "phone":"032110739",
+        "address":"حي النور",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"دودي مختار",
+        "phone":"0770971518",
+        "address":"مجمع سالم -حي الناظور-الوادي",
+        "specialty":"ChirurgieG"
+      },
+         {
+        "name":"تواتي طليبة طه",
+        "phone":"0770773939",
+        "address":"حي الاصنام عمارة فوناس قرب المحكمة القديمة",
+        "specialty":"ChirurgieG"
+      },
+         {
+        "name":"بوقنة محمد",
+        "phone":"032123535",
+        "address":"مصحة ابن حيان -الوادي",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"إبراهيمي حمزة",
+        "phone":"032109999",
+        "address":"حي أول نوفمبر   1954 الوادي",
+        "specialty":"Minterne"
+      },
+ {
+        "name":"حبى الطاهر",
+        "phone":"0673343434",
+        "address":"حي الرمال",
+        "specialty":"Minterne"
+      }
+    ]
+  }, 
    {
     "stateName": "SoukAhras",
     "doctors": [
@@ -9153,10 +9440,6 @@
   },
   {
     "stateName": "Defla",
-    "doctors": []
-  },
-  {
-    "stateName": "ElOued",
     "doctors": []
   },
   {
