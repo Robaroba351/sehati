@@ -8514,6 +8514,149 @@
     ]
   },
   {
+    "stateName": "Tissemsilt",
+    "doctors": [
+    {
+        "name":"شوشان .ي",
+        "phone":"0656377772",
+        "address":"رقم 01 العمارة و 05 حي 320 سكن",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"شوشان عبدالقادر",
+        "phone":"0557682682",
+        "address":"رقم 02 حي 24 سكن طريق حمادية بجانب ANSEJ بلدية تيسمسيلت ",
+        "specialty":"Mgénéral"
+      },
+    {
+        "name":"سربوح عثمان",
+        "phone":"0792219176",
+        "address":"طريق حي السلام بجانب المرشة (دوش بلباهي )دائرة لرجام تيسمسيلت",
+        "specialty":"Dentiste"
+      },  
+       {
+        "name":"رفسي .ع",
+        "phone":"0658590004",
+        "address":"CITE HAI ETHAOURA N° 177 Cne  LARDJEM w. Tissemsilt",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"حميدي عبد الرحمان",
+        "phone":"",
+        "address":"100 Logts N°07 (Route Hôpital) Tissemsilt",
+        "specialty":"Orl"
+      },
+       {
+        "name":"كراس مسعود",
+        "phone":"0777786021",
+        "address":"حي المرجة تيسمسيلت",
+        "specialty":"Ophtalmologie"
+      },
+        {
+        "name":"هماش صليحة",
+        "phone":"",
+        "address":"100 Logts N°07 (Route Hôpital) Tissemsilt",
+        "specialty":"Ophtalmologie"
+      }, 
+      {
+        "name":"الدكتورة عمارة",
+        "phone":"0561342906",
+        "address":"شارع محمد بوراس مقابل الولاية تيسمسلت",
+        "specialty":"Pédiatrie"
+      },
+     {
+        "name":"زولاي براهيم",
+        "phone":"0555219623",
+        "address":"26شارع وليس علي (cartier espagnol) تسمسيلت",
+        "specialty":"Pédiatrie"
+      }, 
+       {
+        "name":"خالد",
+        "phone":"0698263600",
+        "address":"حي محمد دغمان",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"بلعباس نابي كريم",
+        "phone":"0663953072",
+        "address":"شارع بوزرد حسين فندق الأهرام تيسمسيلت",
+        "specialty":"Gynécologie"
+      }, 
+      {
+        "name":"لعربي محمد",
+        "phone":"",
+        "address":"Cite 320 Logts Tissemsilt",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"كموش جميلة",
+        "phone":"",
+        "address":"RUE DANDANE AEK N° 18A. TISSEMSILT",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"صاص  رياض",
+        "phone":"0558107100",
+        "address":"حي 320 سكن مقابل متوسطة العقيد عثمان تيسمسيلت",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"دبة عمر الفاروق",
+        "phone":"0782517616",
+        "address":"طريق المستشفى (  الخطيفة )",
+        "specialty":"Cardiologie"
+      },
+{
+        "name":"ساحلي ع",
+        "phone":"0790998799",
+        "address":"طريق مستشفى ولاية تيسيمسيلت",
+        "specialty":"Neurologie"
+       }, 
+      {
+        "name":"بن مصباح محمد و الحسين",
+        "phone":"0555098335",
+        "address":"حي 135 سكن  المرجة  تسمسيلت",
+        "specialty":"Penumologie"
+      },
+      {
+        "name":"بوراس احمد",
+        "phone":"",
+        "address":"Cite 119 Lots Tissemsilt",
+        "specialty":"Urologie"
+      },
+     {
+        "name":"يخلف رابح",
+        "phone":"",
+        "address":"N° 01, Bloc « L » Cite 320 Logts Tissemsilt",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"بولنوار محمد الحاج",
+        "phone":"",
+        "address":"N° 193, 211 LOTS TISSEMSILT",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"سحنين خ",
+        "phone":"0698463656",
+        "address":"حي المرجة تيسمسيلت",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"مصطفاوي محمد",
+        "phone":"0542660497",
+        "address":"RUE MEKABRET BELAID N°53, Vialar, Tissemsilt, Algeria",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"باية لحسن",
+        "phone":"",
+        "address":"Cite 120 Logts N° 17 Et 18 Tissemsilt",
+        "specialty":"Minterne"
+      } 
+    ]
+  },
+  {
     "stateName": "Defla",
     "doctors": []
   },
@@ -8551,10 +8694,6 @@
   },
   {
     "stateName": "Tipaza",
-    "doctors": []
-  },
-  {
-    "stateName": "Tissemsilt",
     "doctors": []
   },
  {
