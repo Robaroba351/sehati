@@ -1649,7 +1649,7 @@
     ]
   },
    {
-    "stateName": "Béjaia",
+    "stateName": "Béjaïa",
     "doctors": [
       {
         "name":"نبيل سكلاب",
@@ -4678,7 +4678,7 @@
     ]
   },
    {
-    "stateName": "Naama",
+    "stateName": "Naâma",
     "doctors": [
      {
         "name":"جن البارود ب",
@@ -5042,7 +5042,7 @@
     ]
   },
    {
-    "stateName": "Saida",
+    "stateName": "Saïda",
     "doctors": [
          {
         "name":"الدكتور محمد بوعزة",
@@ -5998,7 +5998,7 @@
     ]
   },
   {
-    "stateName": "Gulma",
+    "stateName": "Guelma",
     "doctors": [
     {
         "name":"عروال ليلى",
@@ -7743,7 +7743,7 @@
     ]
   },
   {
-    "stateName": "Bayadh",
+    "stateName": "ElBayadh",
     "doctors": [
     {
         "name":"علاء ناصر الدين",
@@ -8264,7 +8264,7 @@
     ]
   },
    {
-    "stateName": "Tarf",
+    "stateName": "ElTarf",
     "doctors": [
     {
         "name":"حباش عزالدين",
