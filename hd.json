@@ -8078,6 +8078,149 @@
       } 
     ]
   },
+   {
+    "stateName": "Tarf",
+    "doctors": [
+    {
+        "name":"حباش عزالدين",
+        "phone":"0667748472",
+        "address":"لطريق الوطني 44. مقابل العيادة المتعددة الخدمات . عين العسل الطارف",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"لحبيب حمي",
+        "phone":"0661216344",
+        "address":"بلدية الشط حي 1نوفمبر1954",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"رفيقة بيتول",
+        "phone":"0561300804",
+        "address":"الطارف",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"سالم كور امحمد",
+        "phone":"0665705869",
+        "address":"قرية عين علام الذرعان ولاية الطارف",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"نابتي نبيل",
+        "phone":"038362023",
+        "address":"القالة",
+        "specialty":"Orl"
+      },
+         {
+        "name":"دكتور حسيني .م",
+        "phone":"038303328",
+        "address":"الشارع الخلفي لمحكمة الطارف",
+        "specialty":"Ophtalmologie"
+      },
+         {
+        "name":"الحكيمة روابحية",
+        "phone":"0675742901",
+        "address":"مفترق الطرق مقابل محطة الوقود .القالة",
+        "specialty":"Ophtalmologie"
+      },
+         {
+        "name":"روابحية سليمة",
+        "phone":"0675740129",
+        "address":"طريق عنابة (مفترق الطرق) القالة",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"شلوفي صديق",
+        "phone":"0667735172",
+        "address":"المطروحه  ولايه الطارف",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"ميمادي عبد الحميد",
+        "phone":"038662671",
+        "address":"شارع أحمد تكوش 36100 القالة ولاية الطارف",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"وناس خير الدين",
+        "phone":"0556414439",
+        "address":"حي 50 سكن طريق عين خيار الطارف",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"الدكتور مبارك .ل",
+        "phone":"0699957173",
+        "address":"شارع العمري بلقاسم بلدية الطارف طريق المستشفى القديم بجانب صيدلية تحري",
+        "specialty":"Orthopédique"
+      }, 
+        {
+        "name":"علام رسيم",
+        "phone":"0661447732",
+        "address":"بن مهيدي الطارف",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Cardiologie"
+      },
+{
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Neurologie"
+       }, 
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"لوصيف عبد الحفيظ",
+        "phone":"0673828819",
+        "address":"الطريق الوطني 82 مبنى المكاتب بليلي بجانب مقر الدائرة. الطارف",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"عازم عثمان",
+        "phone":"",
+        "address":"Drean عمارة عاطف ولاية الطارف",
+        "specialty":"Digestif"
+      },
+    {
+       "name":"الحكيمة ن مدربل",
+        "phone":"0666825272",
+        "address":"الطارف",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"حناشي م ش",
+        "phone":"0557331958",
+        "address":"بنهج طايف فريخ مدينة الطارف بجوار المخبر السابق للحكيمة طبشوش طريق بنك cpa",
+        "specialty":"ChirurgieG"
+      },
+      {
+        "name":"غوافرية لخضر",
+        "phone":"0551221759",
+        "address":"حي ١ نوفمبر ١٩٥٤ بجانب بريد الجزائر الذرعان",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"الحكيمة ن مدربل",
+        "phone":"0666825272",
+        "address":"الطارف",
+        "specialty":"Minterne"
+      },
+         {
+        "name":"لوصيف محمد",
+        "phone":"0673828819",
+        "address":"مقابل الاذاعة، بجانب الداءرة",
+        "specialty":"Minterne"
+      }
+    ]
+  },
   {
     "stateName": "Bouira",
     "doctors": []
@@ -8116,10 +8259,6 @@
   },
   {
     "stateName": "Tamanrasset",
-    "doctors": []
-  },
-  {
-    "stateName": "Tarf",
     "doctors": []
   },
   {
