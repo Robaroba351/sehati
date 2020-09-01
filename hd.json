@@ -9002,6 +9002,155 @@
       }
     ]
   }, 
+   {
+    "stateName": "Mila",
+    "doctors": [
+    {
+        "name":"عبود",
+        "phone":"0778109222",
+        "address":"تسالة لمطاعي ميلة",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"مصباح الطاهر",
+        "phone":"0771784916",
+        "address":"حي ساسي محمد.  تاجنانت",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"بشيري الهاشمي",
+        "phone":"031414171",
+        "address":"Oued khlouf",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"دكترو سلطان",
+        "phone":"031424443",
+        "address":"شلغوم العيد",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"قارون صوفية",
+        "phone":"",
+        "address":"حي 500مسكن (ESTE)عمارة",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"بوصفصاف محمد",
+        "phone":"",
+        "address":"مقابل cnas ميلة",
+        "specialty":"Orl"
+      },
+       {
+        "name":"بن جمعة عمار",
+        "phone":"031445148",
+        "address":"Rue med boukharouba",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"بن الشيخ الحسين جمال الدين",
+        "phone":"0771577548",
+        "address":"حي 500 سكن عمارة  5 رقم41",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"سعيدون",
+        "phone":"0772359964",
+        "address":"زغاية",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"غبولي سميرة",
+        "phone":"0559916461",
+        "address":"شلغوم العيد ولاية ميلة",
+        "specialty":"Gynécologie"
+      },
+       {
+        "name":"عبد العزيز بوجلال",
+        "phone":"031598319",
+        "address":"فرجيوة Cité Soumam Bt G2",
+        "specialty":"Gynécologie"
+      },
+      {
+        "name":"بن شخشوخ محمد",
+        "phone":"0792025754",
+        "address":"حي 48 مسكن مقابل محطة المسافرين ميلة",
+        "specialty":"Orthopédique"
+      },
+        {
+        "name":"بن أحمد يزيد",
+        "phone":"",
+        "address":"حي ديدوش مراد رقم 34 شلغوم العيد ",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"كمال نعمون",
+        "phone":"031528660",
+        "address":"Cité des frère borni",
+        "specialty":"Cardiologie"
+      },
+     {
+        "name":"دريس مهدي",
+        "phone":"0774166206",
+        "address":"حي الشهداء شلغوم العيد ولاية ميلة",
+        "specialty":"Neurologie"
+       }, 
+        {
+        "name":"اعصيفر ياسين",
+        "phone":"0560102484",
+        "address":"شلغوم العيد",
+        "specialty":"Penumologie"
+      },
+      {
+        "name":"زعاق نصرالدين",
+        "phone":"031426816",
+        "address":"شلغوم العيد",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"دالي شاوش محمد سامي",
+        "phone":"0699329695",
+        "address":"حي 18 مسكن العمارة A رقم 1 تلاغمة ميلة",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"لعرابة طارق",
+        "phone":"0541350537",
+        "address":"حي 48 سكن عمارة   c    (ESTE ",
+        "specialty":"Minterne"
+      },
+        {
+        "name":"محمد سامي دالي شاوش",
+        "phone":"031502021",
+        "address":"Cité des 18 Logements, Bt A, n°1 TELEGHMA",
+        "specialty":"Minterne"
+      }
+    ]
+  },
   {
     "stateName": "Defla",
     "doctors": []
@@ -9020,10 +9169,6 @@
   },
   {
     "stateName": "Laghouat",
-    "doctors": []
-  },
-  {
-    "stateName": "Mila",
     "doctors": []
   },
   {
