@@ -8943,6 +8943,209 @@
       }
     ]
   }, 
+  {
+    "stateName": "Khenchela",
+    "doctors": [
+    {
+        "name":"محمد لحبيب",
+        "phone":"0699721364",
+        "address":"شارع السعادة رقم الباب 5",
+        "specialty":"Mgénéral"
+      },
+       {
+        "name":"موسى بوتريد",
+        "phone":"0699062995",
+        "address":"بلدية بابار",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"وناس وليد",
+        "phone":"0675413433",
+        "address":"حي أول نوفمبر. أولاد رشاش بجانب صيدلية شرفي",
+        "specialty":"Mgénéral"
+      },
+      {
+        "name":"نيكية أمين",
+        "phone":"0778534771",
+        "address":"N BAT 001483المحمل.خنشلة",
+        "specialty":"Mgénéral"
+      }, 
+       {
+        "name":"فرحات رحيمة",
+        "phone":"0781803646",
+        "address":" Cite 120 Logements،، خنشلة",
+        "specialty":"Dentiste"
+      },
+        {
+        "name":"رشاشي عقبة",
+        "phone":"0667063643",
+        "address":"700سكن بجوار متوسطة جفال محمد خنشلة",
+        "specialty":"Dentiste"
+      },
+       {
+        "name":"الابتسامة",
+        "phone":"0659928779",
+        "address":"intersection sonatiba-technicume, 400000 Khenchela",
+        "specialty":"Dentiste"
+      }, 
+       {
+        "name":"جبايلي امينة",
+        "phone":"0674396797",
+        "address":"حي الأوراس خنشلة",
+        "specialty":"Orl"
+      },
+       {
+        "name":"غيلاني احمد",
+        "phone":"0665354282",
+        "address":"خنشلة",
+        "specialty":"Orl"
+      },
+       {
+        "name":"ماجو سليمان",
+        "phone":"032721122",
+        "address":"حي السعادة خنشلة",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"بوزحزاح محي الدين",
+        "phone":"0661373403",
+        "address":"Grande Clinique Mezdaouet, Khenchela",
+        "specialty":"Ophtalmologie"
+      },
+       {
+        "name":"بن منقودة امينة",
+        "phone":"0790943051",
+        "address":"Avenue OTMANI TIDJANI Tranchant 48 N, KHENCHELA",
+        "specialty":"Pédiatrie"
+      },
+        {
+        "name":"ليتيم كاملة",
+        "phone":"0667725248",
+        "address":"rue de babar a cote de superette mrah, Khenchela",
+        "specialty":"Pédiatrie"
+      },
+      {
+        "name":"معروك زوجة ناصري",
+        "phone":"0675773882",
+        "address":"cité 700 logements batiment 11 rez de chaussèe,  Khenchela",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"زيدان عبد الحق",
+        "phone":"032328117",
+        "address":"",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"س غوباش",
+        "phone":"030312720",
+        "address":"خنشلة مقابل اكمالية بغرارة عبد الحميد",
+        "specialty":"Gynécologie"
+      },
+        {
+        "name":"عيادة مساعدية",
+        "phone":"0699078125",
+        "address":"فوق مسجد عائشة ام المؤمنين رضي الله عنها طريق بابار 01 خنشلة",
+        "specialty":"Orthopédique"
+      },
+      {
+        "name":"عصمان عادل",
+        "phone":"0662357970",
+        "address":"عيادة الوداد",
+        "specialty":"Orthopédique"
+      },
+       {
+        "name":"باديس فاروق",
+        "phone":"0672366699",
+        "address":"Cité 700 logements situé derrière l'hôtel Dar Diaf",
+        "specialty":"Orthopédique"
+      },
+        {
+        "name":"زردوم سمير",
+        "phone":"0671607157",
+        "address":"Cité Boudjelbana, Khenchela",
+        "specialty":"Cardiologie"
+      },
+       {
+        "name":"عطاف بن مهدية",
+        "phone":"",
+        "address":"شارع 39 عثمان تيجاني خنشلة",
+        "specialty":"Cardiologie"
+      },
+     {
+        "name":"بن ابراهيم",
+        "phone":"0558971083",
+        "address":"عيادة مزداوت",
+        "specialty":"Neurologie"
+       }, 
+       {
+        "name":"علي شرفي",
+        "phone":"",
+        "address":"20, Rue de l'hopital Kais 40200 Khenchela",
+        "specialty":"Neurologie"
+       }, 
+      {
+        "name":"بوقرة يوسف",
+        "phone":"032725947",
+        "address":"حي 700 سكن .رقم 538 .العمارة  06خنشلة ",
+        "specialty":"Penumologie"
+      },
+       {
+        "name":"مجوتي رابية",
+        "phone":"0553150296",
+        "address":"cité babar Khenchela",
+        "specialty":"Penumologie"
+      },
+     {
+        "name":"مراد آيت شعلال",
+        "phone":"",
+        "address":"حي صوناطيبا بجانب ثكنة الدرك الوطني",
+        "specialty":"Urologie"
+      },
+      {
+        "name":"بن جاب الله عز الدين",
+        "phone":"0771696461",
+        "address":"cité Bouzid khenchela",
+        "specialty":"Digestif"
+      },
+    {
+        "name":"لغماسي فريد",
+        "phone":"032323720",
+        "address":"طريق العيزر خنشلة",
+        "specialty":"Endocrinolog"
+      },
+       {
+        "name":"سالم مصطفى",
+        "phone":"0777801451",
+        "address":"حي علي بوصحابة خنشلة",
+        "specialty":"Endocrinolog"
+      },
+       {
+        "name":"معاوي جمال",
+        "phone":"",
+        "address":"حي القدس حنشلة",
+        "specialty":"Endocrinolog"
+      },
+        {
+        "name":"",
+        "phone":"",
+        "address":"",
+        "specialty":"ChirurgieG"
+      },
+    {
+        "name":"هشام خلفاوي",
+        "phone":"0663466240",
+        "address":"خنشلة",
+        "specialty":"Minterne"
+      },
+      {
+        "name":"حسان العالمي",
+        "phone":"",
+        "address":"47 Rue d'el Kods khenchela",
+        "specialty":"Minterne"
+      }
+    ]
+  }, 
    {
     "stateName": "SoukAhras",
     "doctors": [
@@ -9444,10 +9647,6 @@
   },
   {
     "stateName": "Ghardaia",
-    "doctors": []
-  },
-  {
-    "stateName": "Khenchela",
     "doctors": []
   },
   {
