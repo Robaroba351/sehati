@@ -646,12 +646,6 @@
         "address":"شارع بلقايد محمد رقم 6 ولاية أدرار",
         "specialty":"Dentiste"
       },
-     {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Orl"
-      },
         {
         "name":"محمد مهداوي",
         "phone":"0661275461",
@@ -687,12 +681,6 @@
         "phone":"0662049529",
         "address":"طلمين",
         "specialty":"Gynécologie"
-      },
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Orthopédique"
       },
        {
         "name":"عيسى شتيك",
@@ -845,12 +833,6 @@
         "address":"La cité les bâtiments les giko",
         "specialty":"Gynécologie"
       },
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Orthopédique"
-      },
        {
         "name":"بربحة توفيق",
         "phone":"",
@@ -988,12 +970,6 @@
         "address":"الأغواط",
         "specialty":"Dentiste"
       }, 
-     {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Orl"
-      },
         {
         "name":"شتيح رقية",
         "phone":"",
@@ -1358,12 +1334,6 @@
         "phone":"0771336867",
         "address":"عين البيضاء",
         "specialty":"ChirurgieG"
-      },
-    {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Minterne"
       }
     ]
   },
@@ -2218,12 +2188,6 @@
         "address":"حي 80مسكن بشار",
         "specialty":"Gynécologie"
       },
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Orthopédique"
-      },
        {
         "name":"شقرون لطفي",
         "phone":"",
@@ -2259,12 +2223,6 @@
         "phone":"0662676910",
         "address":"CITE 62 LOGTS Bechar",
         "specialty":"Urologie"
-      },
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Digestif"
       },
     {
         "name":"بن عامر",
@@ -2559,12 +2517,6 @@
         "address":"حي الثورة",
         "specialty":"Orthopédique"
       },
-       {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Cardiologie"
-      },
      {
         "name":"بن كانون طاهر",
         "phone":"0771055227",
@@ -2577,24 +2529,6 @@
         "address":"Cité 11 lots bat 02 , face souk Rahma",
         "specialty":"Neurologie"
        }, 
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Penumologie"
-      },
-     {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Urologie"
-      },
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Digestif"
-      },
     {
         "name":"محفوظ مصطفى",
         "phone":"0556075261",
@@ -2612,18 +2546,6 @@
         "phone":"0541273076",
         "address":"حي 480مسكن صيدلية خالدي",
         "specialty":"Endocrinolog"
-      },
-        {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Endocrinolog"
-      },
-        {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"ChirurgieG"
       },
     {
         "name":"جاتلي عبد الوهاب",
@@ -2672,12 +2594,6 @@
         "address":"حي أمشون قرب المستسفى-تمنراست",
         "specialty":"Ophtalmologie"
       },
-       {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Pédiatrie"
-      },
    {
         "name":"جواح ز.تلي",
         "phone":"0696734400",
@@ -2695,12 +2611,6 @@
         "phone":"0673632828",
         "address":"تمنراست",
         "specialty":"Orthopédique"
-      },
-       {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Cardiologie"
       },
      {
         "name":"الحكيم سيدي محمد عقبه",
@@ -2725,24 +2635,6 @@
         "phone":"",
         "address":"SERSOUF Tamanrasset",
         "specialty":"Digestif"
-      },
-    {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Endocrinolog"
-      },
-        {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"ChirurgieG"
-      },
-    {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Minterne"
       }
     ]
   },
@@ -3001,12 +2893,6 @@
         "address":"تبسة",
         "specialty":"Endocrinolog"
       },
-        {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"ChirurgieG"
-      },
     {
         "name":"عبدالله ذيب",
         "phone":"0655743368",
@@ -3215,12 +3101,6 @@
         "phone":"0794534418",
         "address":"حي سيدي عبدالرحمن دائرةأولادميمون",
         "specialty":"Endocrinolog"
-      },
-        {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"ChirurgieG"
       },
     {
         "name":"بن دحمان ياسمين",
@@ -3460,12 +3340,6 @@
         "phone":"0663400519",
         "address":"قصر الشلالة",
         "specialty":"ChirurgieG"
-      },
-    {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Minterne"
       }
     ]
   },
@@ -3645,12 +3519,6 @@
         "phone":"",
         "address":"Cité 48 logts Bt 1 N°2 Tizi Ouzou",
         "specialty":"Neurologie"
-      },
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Penumologie"
       },
      {
         "name":"عمرون احسين",
@@ -4363,12 +4231,6 @@
         "address":"عين ولمان",
         "specialty":"Dentiste"
       },
-     {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Orl"
-      },
        {
         "name":"دكتور رضا نجيب",
         "phone":"036512488",
@@ -4428,12 +4290,6 @@
         "phone":"036936567",
         "address":"O3 Rue Benchekribou Abdelaziz 2ème étage",
         "specialty":"Pédiatrie"
-      },
-       {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Gynécologie"
       },
        {
         "name":"صبايحي عبد اللطيف",
@@ -4806,12 +4662,6 @@
         "address":"وسط المدينة مقابل مقر حزب FLN المشرية",
         "specialty":"Digestif"
       },
-    {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Endocrinolog"
-      },
         {
         "name":"صابر",
         "phone":"",
@@ -4978,13 +4828,7 @@
         "phone":"0553060853",
         "address":"CITE78LOGTS DIAR EL MAHIBA BT 08",
         "specialty":"Neurologie"
-       }, 
-       {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Neurologie"
-       }, 
+       },  
       {
         "name":"مسكين رحمة",
         "phone":"",
@@ -5008,12 +4852,6 @@
         "phone":"0790524244",
         "address":"El Amria (route boudjazar) ain temouchent",
         "specialty":"Digestif"
-      },
-    {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Endocrinolog"
       },
         {
         "name":"عيادة مشفى ابن سينا",
@@ -5193,24 +5031,6 @@
         "phone":"0772599640",
         "address":"حي سيد الشيخ",
         "specialty":"Digestif"
-      },
-    {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Endocrinolog"
-      },
-        {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"ChirurgieG"
-      },
-    {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Minterne"
       }
     ]
   },
@@ -5373,23 +5193,11 @@
         "address":"حي 700 مسكن سكيكدة",
         "specialty":"Urologie"
       },
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Digestif"
-      },
     {
         "name":"سوداني سليم",
         "phone":"0775963923",
         "address":"حي الإخوة ساكر العمارة BM سكيكدة",
         "specialty":"Endocrinolog"
-      },
-        {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"ChirurgieG"
       },
         {
         "name":"العربي قدور",
@@ -5467,12 +5275,6 @@
         "phone":"0554275349",
         "address":"Rue Mehadji Slimane, Sidi Bel Abbès 22002",
         "specialty":"Orl"
-      },
-       {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Ophtalmologie"
       },
        {
         "name":"د المستاري مصطفى",
@@ -6137,13 +5939,7 @@
         "phone":"0660008200",
         "address":"حي ڨهدور الطاهر عمارة 49 الباتني",
         "specialty":"Cardiologie"
-      },
-{
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Neurologie"
-       }, 
+      }, 
       {
         "name":"شعلال محي الدين",
         "phone":"0698730632",
@@ -6156,24 +5952,7 @@
         "address":"قالمة",
         "specialty":"Urologie"
       },
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Digestif"
-      },
-    {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Endocrinolog"
-      },
-        {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"ChirurgieG"
-      },
+
     {
         "name":"بورشاق سعدان",
         "phone":"0666577068",
@@ -6927,12 +6706,6 @@
         "specialty":"Dentiste"
       }, 
        {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Orl"
-      },
-       {
         "name":"محمد ريقاط",
         "phone":"035546353",
         "address":"حي 44 مسكن شارع سونيتاكس - المسيلة",
@@ -7281,12 +7054,6 @@
         "specialty":"Cardiologie"
       },
       {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Cardiologie"
-      },
-      {
         "name":"بن خطاب",
         "phone":"0556019593",
         "address":"Mascara Hai Mowadafine N°B11",
@@ -7495,12 +7262,6 @@
         "address":"بالقرب من مستشفى محمد بوضياف ورقلة",
         "specialty":"Gynécologie"
       },
-        {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Orthopédique"
-      },
        {
         "name":"محمد خير الدين حفيان",
         "phone":"0781511949",
@@ -7615,12 +7376,6 @@
         "specialty":"Mgénéral"
       },
        {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Dentiste"
-      },
-       {
         "name":"بن عمارة مراد",
         "phone":"0542268200",
         "address":"20 شارع محمد خميستي جيدل وهران",
@@ -7667,12 +7422,6 @@
         "phone":"0795090094",
         "address":"حي بوضياف واد تليلات",
         "specialty":"Orthopédique"
-      },
-       {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Cardiologie"
       },
        {
         "name":"أحمد يزلي",
@@ -7775,12 +7524,6 @@
         "address":"وسط مدينةالبيض ",
         "specialty":"Ophtalmologie"
       },
-       {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Pédiatrie"
-      },
       {
         "name":"الدكتورة حبيبي زهرة",
         "phone":"0699285459",
@@ -7805,42 +7548,6 @@
         "address":"حي الصديقية البيض",
         "specialty":"Orthopédique"
       },
-       {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Cardiologie"
-      },
-{
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Neurologie"
-       }, 
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Penumologie"
-      },
-     {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Urologie"
-      },
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Digestif"
-      },
-    {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Endocrinolog"
-      },
         {
         "name":"بروان نور الهدى",
         "phone":"0797767616",
@@ -7852,12 +7559,6 @@
         "phone":"0771593815",
         "address":"البيض",
         "specialty":"ChirurgieG"
-      },
-    {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Minterne"
       }
     ]
   },
@@ -7869,90 +7570,6 @@
         "phone":"0696742949",
         "address":"ايليزي",
         "specialty":"Mgénéral"
-      },
-       {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Dentiste"
-      },
-       {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Orl"
-      },
-       {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Ophtalmologie"
-      },
-       {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Pédiatrie"
-      },
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Gynécologie"
-      },
-        {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Orthopédique"
-      },
-       {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Cardiologie"
-      },
-{
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Neurologie"
-       }, 
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Penumologie"
-      },
-     {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Urologie"
-      },
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Digestif"
-      },
-    {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Endocrinolog"
-      },
-        {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"ChirurgieG"
-      },
-    {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Minterne"
       }
     ]
   },
@@ -7995,12 +7612,6 @@
         "address":"تجزئة قطاع د 1044",
         "specialty":"Dentiste"
       }, 
-       {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Orl"
-      },
        {
         "name":"محب الدين سليمان",
         "phone":"035730124",
@@ -8091,23 +7702,11 @@
         "address":"حي 17 أكتوبر شارع Y رقم 6 وراء مسجد شعبة الفار ",
         "specialty":"Urologie"
       },
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Digestif"
-      },
     {
         "name":"بلعور احمد",
         "phone":"035748474",
         "address":"الموضة قرب صيدلية زيتوني",
         "specialty":"Endocrinolog"
-      },
-        {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"ChirurgieG"
       },
     {
         "name":" قارة محمد د",
@@ -8171,12 +7770,6 @@
         "address":"رقم 1 حي الشباشب الطابق الثاني خميس الخشنة ولاية بومرداس",
         "specialty":"Ophtalmologie"
       },
-       {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Pédiatrie"
-      },
       {
         "name":"بن دريهم",
         "phone":"0790243239",
@@ -8206,36 +7799,18 @@
         "phone":"035681880",
         "address":"Cité du 17 octobre N°16",
         "specialty":"Cardiologie"
-      },
-{
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Neurologie"
-       }, 
+      }, 
       {
         "name":"حبيلي سمير",
         "phone":"0555930149",
         "address":"Cité EPLF 105 logts Bloc 33 n° 2 - HAMMADI",
         "specialty":"Penumologie"
       },
-     {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Urologie"
-      },
       {
         "name":"محمد بودهان",
         "phone":"",
         "address":"بومرداس وسط قرب محطة القطار",
         "specialty":"Digestif"
-      },
-    {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Endocrinolog"
       },
         {
         "name":"نسيمة",
@@ -8344,24 +7919,6 @@
         "address":"بن مهيدي الطارف",
         "specialty":"Orthopédique"
       },
-       {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Cardiologie"
-      },
-{
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Neurologie"
-       }, 
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Penumologie"
-      },
      {
         "name":"لوصيف عبد الحفيظ",
         "phone":"0673828819",
@@ -8397,12 +7954,6 @@
         "phone":"0666825272",
         "address":"الطارف",
         "specialty":"Minterne"
-      },
-         {
-        "name":"لوصيف محمد",
-        "phone":"0673828819",
-        "address":"مقابل الاذاعة، بجانب الداءرة",
-        "specialty":"Minterne"
       }
     ]
   },
@@ -8434,18 +7985,6 @@
         "specialty":"Dentiste"
       },
        {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Orl"
-      },
-       {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Ophtalmologie"
-      },
-       {
         "name":"شنان مختار ",
         "phone":"",
         "address":"Cité elnasser / Tindouf",
@@ -8456,61 +7995,9 @@
         "phone":"",
         "address":"Cité moussani / Tindouf",
         "specialty":"Gynécologie"
-      },
-        {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Orthopédique"
-      },
-       {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Cardiologie"
-      },
-{
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Neurologie"
-       }, 
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Penumologie"
-      },
-     {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Urologie"
-      },
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Digestif"
-      },
-    {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Endocrinolog"
-      },
-        {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"ChirurgieG"
-      },
-    {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Minterne"
       }
+
+     
     ]
   },
   {
@@ -9126,12 +8613,6 @@
         "address":"حي القدس حنشلة",
         "specialty":"Endocrinolog"
       },
-        {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"ChirurgieG"
-      },
     {
         "name":"هشام خلفاوي",
         "phone":"0663466240",
@@ -9294,18 +8775,6 @@
         "address":"Cité Echahid",
         "specialty":"Urologie"
       },
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Digestif"
-      },
-    {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Endocrinolog"
-      },
         {
         "name":"شريف فاروق حميد",
         "phone":"037324545",
@@ -9408,24 +8877,6 @@
         "specialty":"Ophtalmologie"
       },
        {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Pédiatrie"
-      },
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Gynécologie"
-      },
-        {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Orthopédique"
-      },
-       {
         "name":"بيتش مكي",
         "phone":"0556409988",
         "address":"حي 150 مسكن العمارة A3 رقم 2",
@@ -9442,13 +8893,7 @@
         "phone":"0662736190",
         "address":"حجوط 200 مسكن",
         "specialty":"Cardiologie"
-      }, 
-     {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Neurologie"
-       }, 
+      },
       {
         "name":"لعرابي سمير",
         "phone":"0552481616",
@@ -9467,23 +8912,11 @@
         "address":"20 شارع بونطيرو جلول القليعة تيبازة",
         "specialty":"Urologie"
       },
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Digestif"
-      },
     {
         "name":"كلينيك السلام",
         "phone":"0561751479",
         "address":"Douaouda tipzza",
         "specialty":"Endocrinolog"
-      },
-        {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"ChirurgieG"
       },
     {
         "name":"تيتش مكي",
@@ -9544,12 +8977,6 @@
         "address":"حي 500 سكن عمارة  5 رقم41",
         "specialty":"Ophtalmologie"
       },
-       {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Pédiatrie"
-      },
       {
         "name":"سعيدون",
         "phone":"0772359964",
@@ -9604,29 +9031,11 @@
         "address":"شلغوم العيد",
         "specialty":"Penumologie"
       },
-     {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Urologie"
-      },
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Digestif"
-      },
     {
         "name":"دالي شاوش محمد سامي",
         "phone":"0699329695",
         "address":"حي 18 مسكن العمارة A رقم 1 تلاغمة ميلة",
         "specialty":"Endocrinolog"
-      },
-        {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"ChirurgieG"
       },
     {
         "name":"لعرابة طارق",
@@ -9765,12 +9174,6 @@
         "address":"حي 84 مسكن السوق الجميل-بومارشي- مقابل محطة الحافلات بخميس مليانة",
         "specialty":"Penumologie"
       },
-     {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Urologie"
-      },
       {
         "name":"بلطرش",
         "phone":"0552184402",
@@ -9783,12 +9186,6 @@
         "address":"خميس مليانة Cité Houria bloc E3",
         "specialty":"Digestif"
       }, 
-    {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Endocrinolog"
-      },
         {
         "name":"على عبد الاوي",
         "phone":"",
@@ -9860,12 +9257,6 @@
         "phone":"0774506548",
         "address":"شارع الحرمين بن يزقن",
         "specialty":"Ophtalmologie"
-      },
-       {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Pédiatrie"
       },
       {
         "name":"منانة رشيد",
@@ -9939,12 +9330,6 @@
         "address":"سيدي اعباز",
         "specialty":"Neurologie"
        }, 
-      {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Penumologie"
-      },
      {
         "name":"عثماني صلاح",
         "phone":"0774649377",
@@ -10135,12 +9520,6 @@
         "phone":"0558549491",
         "address":"شارع الحاج عروسي: غليزان مركز",
         "specialty":"Digestif"
-      },
-    {
-        "name":"",
-        "phone":"",
-        "address":"",
-        "specialty":"Endocrinolog"
       },
         {
         "name":"د فراس بغداد",
