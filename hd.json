@@ -4,13 +4,6 @@
     "doctors": 
     [
       {
-        "name":"Ahmed Hatem",
-        "phone":"067687886",
-        "address":"",
-        "specialty":"Mgénéral"
-      },
-     
-      {
         "name":"حماني فاطمة الزهراء",
         "phone":"0699093501",
         "address":"حي الاوراس الرغاية",
